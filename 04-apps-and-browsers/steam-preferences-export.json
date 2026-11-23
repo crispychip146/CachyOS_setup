@@ -1,0 +1,23 @@
+{
+  "Steam": {
+    "ShaderCacheManager": {
+      "HasCurrentBucket": "1",
+      "CurrentBucketGPU": "aff57df7ce400e5d;ff1ae9f51a2095f8;SteamSwarm;SteamSwarm;SteamSwarm",
+      "CurrentBucketDriver": "L2:8d0a936d3f370e8143e56d2fcd10392e;L2:7ae938dbbfad7f6c4f7b7e192d685d88;G7:VulkanPipelinesV6;G7:CompatAudioTCMediaV1;G7:CompatVideoTCMediaV1",
+      "ProcessingQueue": "",
+      "App": {
+        "3405690": {}
+      },
+      "CommittedDepotManifests": {
+        "228980": "",
+        "1493710": "",
+        "4183110": ""
+      },
+      "CompatToolBucketHashes": {
+        "0": "0;G7:VulkanPipelinesV6_923fa87291dfec1c;G7:VulkanPipelinesV6_3554f158047e28bf",
+        "1493710": "25646868;G7:VulkanPipelinesV6_923fa87291dfec1c;G7:VulkanPipelinesV6_3554f158047e28bf"
+      }
+    }
+  },
+  "SDL_GamepadBind": "03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux,"
+}

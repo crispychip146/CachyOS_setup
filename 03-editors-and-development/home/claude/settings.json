@@ -1,0 +1,25 @@
+{
+  "model": "opus",
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "ecc@ecc": true
+  },
+  "extraKnownMarketplaces": {
+    "ecc": {
+      "source": {
+        "source": "github",
+        "repo": "affaan-m/everything-claude-code"
+      }
+    }
+  },
+  "pluginConfigs": {
+    "ecc@ecc": {
+      "options": {
+        "hooks_enabled": true,
+        "hook_profile": "test"
+      }
+    }
+  },
+  "theme": "dark-daltonized"
+}

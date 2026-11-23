@@ -1,0 +1,11 @@
+[theme.templates.user.zen_dark_chrome]
+input_path = "$XDG_CONFIG_HOME/noctalia/templates/zen-dark/zen-userChrome.css"
+output_path = "$XDG_CACHE_HOME/noctalia/zen-browser/zen-userChrome.css"
+index = 10
+
+[theme.templates.user.zen_dark_content]
+input_path = "$XDG_CONFIG_HOME/noctalia/templates/zen-dark/zen-userContent.css"
+output_path = "$XDG_CACHE_HOME/noctalia/zen-browser/zen-userContent.css"
+index = 11
+post_hook = "bash '/home/crispy146/.config/noctalia/templates/zen-dark/apply.sh'"
+hook_async = false

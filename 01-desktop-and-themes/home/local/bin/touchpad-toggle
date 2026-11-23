@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Locate the touchpad settings in a standard Niri setup.
+config_dir="${XDG_CONFIG_HOME:-$HOME/.config}/niri"
+config=""
+for file in "$config_dir/cfg/input.kdl" "$config_dir/input.kdl" "$config_dir/config.kdl"; do
+    if [[ -f "$file" ]] && grep -qE '^[[:space:]]*touchpad[[:space:]]*\{' "$file"; then
+        config="$file"
+        break
+    fi
+done
+[[ -n "$config" ]] || { echo "Could not find your Niri touchpad settings." >&2; exit 1; }
+niri validate >/dev/null 2>&1 || { echo "Fix the existing Niri config errors first." >&2; exit 1; }
+
+tmp=$(mktemp)
+trap 'rm -f "$tmp"' EXIT
+
+awk '
+    { lines[NR] = $0 }
+    /^[[:space:]]*touchpad[[:space:]]*\{/ { inside = 1; start = NR; blocks++ }
+    inside && /^[[:space:]]*off([[:space:];]|$)/ { disabled = 1; skip[NR] = 1 }
+    inside && /^[[:space:]]*}/ { inside = 0; closed++ }
+    END {
+        if (blocks != 1 || closed != 1) exit 1
+        for (i = 1; i <= NR; i++) {
+            if (disabled && skip[i]) continue
+            print lines[i]
+            if (!disabled && i == start) {
+                match(lines[i], /^[[:space:]]*/)
+                print substr(lines[i], 1, RLENGTH) "    off // touchpad-toggle"
+            }
+        }
+    }
+' "$config" > "$tmp" || { echo "Expected one ordinary touchpad block; nothing changed." >&2; exit 1; }
+
+cp -p "$config" "$config.touchpad-backup"
+cat "$tmp" > "$config"
+if ! niri validate >/dev/null 2>&1; then
+    cat "$config.touchpad-backup" > "$config"
+    echo "Invalid config; restored the previous settings." >&2
+    exit 1
+fi
+
+if grep -q 'off // touchpad-toggle' "$config"; then
+    echo "Touchpad disabled"
+else
+    echo "Touchpad enabled"
+fi

@@ -1,0 +1,45 @@
+Source	Reason
+/.snapshots	Pre-change filesystem snapshots inaccessible from this session
+/boot/efi	Boot files were inaccessible and generated for this machine
+/etc/NetworkManager/system-connections	Restricted or credential-bearing system directory; not entered
+/etc/Proton	Restricted or credential-bearing system directory; not entered
+/etc/audit/plugins.d	Could not list system directory from this session
+/etc/audit/rules.d	Restricted or credential-bearing system directory; not entered
+/etc/credstore	Restricted or credential-bearing system directory; not entered
+/etc/credstore.encrypted	Restricted or credential-bearing system directory; not entered
+/etc/cryptsetup-keys.d	Restricted or credential-bearing system directory; not entered
+/etc/default/useradd	Could not read for package comparison (Permission denied)
+/etc/hostapd/hostapd.accept	Could not read (Permission denied)
+/etc/hostapd/hostapd.conf	Could not read (Permission denied)
+/etc/hostapd/hostapd.deny	Could not read (Permission denied)
+/etc/hostapd/hostapd.eap_user	Wi-Fi authentication file
+/etc/hostapd/hostapd.radius_clients	RADIUS secrets file
+/etc/hostapd/hostapd.vlan	Could not read (Permission denied)
+/etc/hostapd/hostapd.wpa_psk	Wi-Fi authentication file
+/etc/libaudit.conf	Could not read for package comparison (Permission denied)
+/etc/named.conf	Could not read for package comparison (Permission denied)
+/etc/pacman.d/gnupg	Restricted or credential-bearing system directory; not entered
+/etc/polkit-1/rules.d	Could not list system directory from this session
+/etc/ssl/private	Restricted or credential-bearing system directory; not entered
+/etc/sudoers.d	Restricted or credential-bearing system directory; not entered
+/etc/wireguard	Restricted or credential-bearing system directory; not entered
+/root	Root account files inaccessible from this session
+/var/lib/noctalia-greeter	System greeter state inaccessible from this session
+~/.aws/credentials	AWS access keys and session credentials
+~/.codex/auth.json	Codex authentication
+~/.config/fish/conf.d/90-private-env.fish	Private environment file
+~/.config/libreoffice/4/user/pack	Generated cache of LibreOffice user settings; live preference registry copied
+~/.config/net.imput.helium/Default	Browser profile account data, saved passwords, extensions and history; selected preferences copied
+~/.config/noctalia/exotic-themes/.apply.lock	Credential, database, cache or log filename
+~/.config/noctalia/exotic-themes/install-receipt.json	Generated theme installer rollback ledger; active theme templates, manifest and palettes copied
+~/.gnupg/private-keys-v1.d	Private GnuPG keys
+~/.local/share/Steam/config/loginusers.vdf	Steam account and login identifiers
+~/.local/share/Steam/userdata	Account-scoped Steam files, including saves and settings
+~/.local/share/keyrings	Desktop credential storage
+~/.local/state/noctalia/clipboard	Clipboard data
+~/.local/state/spotui/credentials.json	SpoTUI authentication
+~/.ssh/id_*	SSH key material
+~/.var/app/app.zen_browser.zen/.zen	Browser history, profile databases, sessions and extensions; preference files copied
+~/.var/app/com.spotify.Client/config/spotify/Users	Account-scoped Spotify preferences and storage
+~/.var/app/org.telegram.desktop/data/TelegramDesktop/tdata	Telegram account/session storage; custom shortcuts copied separately
+~/Pictures/Wallpaper	Wallpaper media library; referenced paths are listed separately

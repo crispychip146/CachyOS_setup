@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/crispy146/.claude/plugins/cache/claude-plugins-official/frontend-design/ab024cdcfa7c",
+        "version": "ab024cdcfa7c",
+        "installedAt": "2026-09-30T20:16:52.849Z",
+        "lastUpdated": "2026-09-30T20:22:56.614Z",
+        "gitCommitSha": "ab024cdcfa7ca80be204acd4907656ba5a968589"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/crispy146/.claude/plugins/cache/claude-plugins-official/superpowers/6.4.1",
+        "version": "6.4.1",
+        "installedAt": "2026-09-30T20:17:10.350Z",
+        "lastUpdated": "2026-09-30T20:17:10.350Z",
+        "gitCommitSha": "5bf4e78011075bcfc0dc295f0724994cd123ee71"
+      }
+    ],
+    "ecc@ecc": [
+      {
+        "scope": "user",
+        "installPath": "/home/crispy146/.claude/plugins/cache/ecc/ecc/2.2.2",
+        "version": "2.2.2",
+        "installedAt": "2026-09-30T20:19:26.094Z",
+        "lastUpdated": "2026-09-30T20:19:26.094Z",
+        "gitCommitSha": "c70874fae9eb0e5ad0365beb7e2955899fd1d30f"
+      }
+    ]
+  }
+}

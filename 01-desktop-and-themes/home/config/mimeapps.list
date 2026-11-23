@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
+text/markdown=leaf.desktop
+image/jpeg=org.kde.gwenview.desktop
+x-scheme-handler/codex=chatgpt.desktop
+
+[Added Associations]
+image/jpeg=imv.desktop;org.kde.gwenview.desktop;

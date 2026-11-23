@@ -1,0 +1,48 @@
+{
+  "dark": {
+    "mPrimary": "#FFB94C",
+    "mOnPrimary": "#080A10",
+    "mSecondary": "#FF9C90",
+    "mOnSecondary": "#080A10",
+    "mTertiary": "#EEE0D1",
+    "mOnTertiary": "#080A10",
+    "mError": "#FF5C78",
+    "mOnError": "#080A10",
+    "mSurface": "#19120F",
+    "mOnSurface": "#FFFAF2",
+    "mSurfaceVariant": "#322416",
+    "mOnSurfaceVariant": "#C6C0B9",
+    "mOutline": "#91692F",
+    "mShadow": "#000000",
+    "mHover": "#4A413C",
+    "mOnHover": "#FFFAF2",
+    "terminal": {
+      "background": "#19120F",
+      "foreground": "#FFFAF2",
+      "cursor": "#FFB94C",
+      "cursorText": "#080A10",
+      "selectionBg": "#FF9C90",
+      "selectionFg": "#080A10",
+      "normal": {
+        "black": "#322416",
+        "red": "#FF9C90",
+        "green": "#7EE85B",
+        "yellow": "#FFB94C",
+        "blue": "#69A5FF",
+        "magenta": "#D879FF",
+        "cyan": "#43E2D2",
+        "white": "#C6C0B9"
+      },
+      "bright": {
+        "black": "#91692F",
+        "red": "#FFACA2",
+        "green": "#93EC75",
+        "yellow": "#FFC469",
+        "blue": "#81B3FF",
+        "magenta": "#DE8EFF",
+        "cyan": "#61E7D9",
+        "white": "#FFFAF2"
+      }
+    }
+  }
+}

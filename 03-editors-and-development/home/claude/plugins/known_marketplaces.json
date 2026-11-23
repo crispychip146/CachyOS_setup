@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/home/crispy146/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-09-30T20:22:56.584Z"
+  },
+  "ecc": {
+    "source": {
+      "source": "github",
+      "repo": "affaan-m/everything-claude-code"
+    },
+    "installLocation": "/home/crispy146/.claude/plugins/marketplaces/ecc",
+    "lastUpdated": "2026-09-30T20:19:20.493Z"
+  }
+}

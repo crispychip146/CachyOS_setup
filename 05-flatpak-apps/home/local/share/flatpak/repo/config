@@ -1,0 +1,24 @@
+[core]
+repo_version=1
+mode=bare-user-only
+min-free-space-size=500MB
+xa.pinned=runtime/org.freedesktop.Platform.GL.nvidia-620-73-04/x86_64/1.4;runtime/org.freedesktop.Platform/x86_64/24.08
+
+[remote "GeForceNOW"]
+url=https://international.download.nvidia.com/GFNLinux/flatpak/geforcenow_repo
+xa.title=GeForceNOW
+gpg-verify=true
+gpg-verify-summary=true
+xa.comment=Repository of GeForceNOW Flatpak application
+xa.description=Repository of GeForceNOW Flatpak application
+xa.homepage=https://geforcenow.com
+
+[remote "flathub"]
+url=https://dl.flathub.org/repo/
+xa.title=Flathub
+gpg-verify=true
+gpg-verify-summary=true
+xa.comment=Central repository of Flatpak applications
+xa.description=Central repository of Flatpak applications
+xa.icon=https://dl.flathub.org/repo/logo.svg
+xa.homepage=https://flathub.org/

@@ -1,0 +1,25 @@
+[stream-properties]
+Input/Audio:application.name:Noctalia\sSpectrum={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:media.role:Notification={"channelMap":["UNK", "UNK"], "channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000}
+Output/Audio:application.name:Zen={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Output/Audio:application.name:Chromium={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Tor\sBrowser={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Output/Audio:application.name:SDL\sApplication={"channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Input/Audio:application.name:SDL\sApplication={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000}
+Input/Audio:application.name:WEBRTC\sVoiceEngine={"channelMap":["MONO"], "mute":false, "channelVolumes":[1.000000], "volume":1.000000}
+Output/Audio:application.name:EADesktop.exe={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000}
+Input/Audio:application.name:EADesktop.exe={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000}
+Output/Audio:application.name:Spotify={"channelMap":["UNK", "UNK"], "channelVolumes":[0.372176, 0.372176], "volume":1.000000, "mute":false}
+Output/Audio:application.name:Telegram\sDesktop={"channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false}
+Output/Audio:application.name:Client-Win64-Shipping.exe={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Input/Audio:application.name:Client-Win64-Shipping.exe={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:UE4={"channelMap":["FL", "FR"], "volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:KRWebView.exe={"mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}
+Input/Audio:application.name:KRWebView.exe={"channelMap":["FL", "FR"], "volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:GenshinImpact.exe={"channelVolumes":[0.021952, 0.021952], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
+Input/Audio:application.name:GenshinImpact.exe={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:ZFGameBrowser.exe={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}
+Input/Audio:application.name:ZFGameBrowser.exe={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false}
+Output/Audio:application.name:Antigravity={"mute":false, "volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.id:org.VideoLAN.VLC={"mute":false, "channelVolumes":[0.421875, 0.421875], "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Helium={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}

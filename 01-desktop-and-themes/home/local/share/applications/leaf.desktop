@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Leaf Markdown Viewer
+Comment=Open Markdown with Leaf using cleaned LaTeX rendering
+Exec=ghostty -e leafmd %f
+Terminal=false
+Type=Application
+MimeType=text/markdown;
+Icon=text-markdown
+Categories=Utility;TextEditor;

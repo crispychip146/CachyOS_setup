@@ -1,0 +1,26 @@
+Path or command	Type	Details
+~/.local/bin/agy	Executable	Binary; reinstall or rebuild
+~/.local/bin/agy.1795153477968463435.old	Executable	Binary; reinstall or rebuild
+~/.local/bin/claude	Link	/home/crispy146/.local/share/claude/versions/2.1.286
+~/.local/bin/codex	Link	/home/crispy146/.codex/packages/standalone/current/bin/codex
+~/.local/bin/flatpak-update	Script	Copied if used as a setup script
+~/.local/bin/leafmd	Script	Copied if used as a setup script
+~/.local/bin/soloist	Executable	Binary; reinstall or rebuild
+~/.local/bin/spotui	Executable	Binary; reinstall or rebuild
+~/.local/bin/spotuid	Executable	Binary; reinstall or rebuild
+~/.local/bin/touchpad-toggle	Script	Copied if used as a setup script
+~/.opencode/bin/opencode	Local software or source	OpenCode standalone binary
+~/.lmstudio/bin/lms	Local software or source	LM Studio CLI
+~/.local/share/Steam	Local software or source	Steam runtime and library metadata
+~/Project/SpoTUI	Local software or source	Local SpoTUI source checkout
+/opt/helium-browser-bin	Application directory	Vendor files; see pacman inventory for the owning package
+/opt/lm-studio	Application directory	Vendor files; see pacman inventory for the owning package
+/opt/localsend	Application directory	Vendor files; see pacman inventory for the owning package
+/opt/wine-cachyos	Application directory	Vendor files; see pacman inventory for the owning package
+cargo-machete	Cargo-installed executable	cargo-machete 0.9.2 (registry+https://github.com/rust-lang/crates.io-index)
+/usr/bin/node	Tool version	v26.13.1
+/usr/bin/npm	Tool version	12.2.3
+/usr/bin/rustc	Tool version	rustc 1.98.1 (48a229cea 2026-09-01)
+/usr/bin/cargo	Tool version	cargo 1.98.1 (797e8a9bc 2026-08-05)
+/usr/bin/zsh	Tool version	zsh 5.9.2 (x86_64-pc-linux-gnu)
+/usr/bin/fish	Tool version	fish, version 4.9.3

@@ -1,0 +1,159 @@
+{
+  "NewTabPage": {
+    "PrevNavigationTime": "13439929063326789"
+  },
+  "accessibility": {
+    "captions": {
+      "headless_caption_enabled": false
+    }
+  },
+  "bookmark_bar": {
+    "previous_render_on_ntp_time": "13438086723201316",
+    "rendered_on_ntp_count": 1,
+    "show_on_all_tabs": true,
+    "visibility_state": 0
+  },
+  "browser": {
+    "theme": {
+      "is_grayscale2": true
+    },
+    "window_placement": {
+      "bottom": 1114,
+      "left": 0,
+      "maximized": false,
+      "right": 1944,
+      "top": 0,
+      "work_area_bottom": 1080,
+      "work_area_left": 0,
+      "work_area_right": 1920,
+      "work_area_top": 0
+    }
+  },
+  "default_search_provider": {
+    "choice_screen_random_shuffle_seed": "-7424351789108944801",
+    "guid": "485bf7d3-0215-45af-87dc-538868000001",
+    "reset_occurred": false
+  },
+  "default_search_provider_data": {
+    "mirrored_template_url_data": {
+      "alternate_urls": [],
+      "contextual_search_url": "",
+      "created_from_play_api": false,
+      "date_created": "0",
+      "doodle_url": "",
+      "enforced_by_policy": false,
+      "favicon_url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+      "featured_by_policy": false,
+      "id": "6",
+      "image_search_branding_label": "",
+      "image_translate_source_language_param_key": "",
+      "image_translate_target_language_param_key": "",
+      "image_translate_url": "",
+      "image_url": "https://lens.google.com/upload",
+      "image_url_post_params": "encoded_image={google:imageThumbnail}",
+      "input_encodings": [
+        "UTF-8"
+      ],
+      "is_active": 0,
+      "keyword": "google.com",
+      "last_modified": "0",
+      "last_visited": "0",
+      "logo_url": "",
+      "new_tab_url": "",
+      "originating_url": "",
+      "policy_origin": 0,
+      "preconnect_to_search_url": false,
+      "prefetch_likely_navigations": false,
+      "prepopulate_id": 1,
+      "safe_for_autoreplace": true,
+      "search_intent_params": [],
+      "search_url_post_params": "",
+      "send_x_geo_header": false,
+      "short_name": "Google",
+      "starter_pack_id": 0,
+      "suggestions_url": "https://www.google.com/complete/search?client=chrome&q={searchTerms}",
+      "suggestions_url_post_params": "",
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000001",
+      "url": "https://www.google.com/search?q={searchTerms}",
+      "usage_count": 0
+    },
+    "template_url_data": {
+      "alternate_urls": [],
+      "contextual_search_url": "",
+      "created_from_play_api": false,
+      "date_created": "0",
+      "doodle_url": "",
+      "enforced_by_policy": false,
+      "favicon_url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+      "featured_by_policy": false,
+      "id": "6",
+      "image_search_branding_label": "",
+      "image_translate_source_language_param_key": "",
+      "image_translate_target_language_param_key": "",
+      "image_translate_url": "",
+      "image_url": "https://lens.google.com/upload",
+      "image_url_post_params": "encoded_image={google:imageThumbnail}",
+      "input_encodings": [
+        "UTF-8"
+      ],
+      "is_active": 0,
+      "keyword": "google.com",
+      "last_modified": "0",
+      "last_visited": "0",
+      "logo_url": "",
+      "new_tab_url": "",
+      "originating_url": "",
+      "policy_origin": 0,
+      "preconnect_to_search_url": false,
+      "prefetch_likely_navigations": false,
+      "prepopulate_id": 1,
+      "safe_for_autoreplace": true,
+      "search_intent_params": [],
+      "search_url_post_params": "",
+      "send_x_geo_header": false,
+      "short_name": "Google",
+      "starter_pack_id": 0,
+      "suggestions_url": "https://www.google.com/complete/search?client=chrome&q={searchTerms}",
+      "suggestions_url_post_params": "",
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000001",
+      "url": "https://www.google.com/search?q={searchTerms}",
+      "usage_count": 0
+    }
+  },
+  "helium": {
+    "browser": {
+      "layout": 2,
+      "vertical_right_aligned": false
+    },
+    "completed_onboarding": true,
+    "services": {
+      "schema_version": 1,
+      "user_consented": true
+    }
+  },
+  "intl": {
+    "selected_languages": "en-US,en"
+  },
+  "omnibox": {
+    "shown_count_history_scope_promo": 1
+  },
+  "spellcheck": {
+    "dictionaries": [
+      "en-US"
+    ],
+    "dictionary": ""
+  },
+  "toolbar": {
+    "pinned_cast_migration_complete": true,
+    "pinned_chrome_labs_migration_complete": true
+  },
+  "vertical_tabs": {
+    "collapsed_state": true,
+    "uncollapsed_width": 200
+  },
+  "profile": {
+    "default_content_setting_values": {
+      "has_migrated_local_network_access": true
+    }
+  }
+}

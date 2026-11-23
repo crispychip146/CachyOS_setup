@@ -1,0 +1,52 @@
+{
+  "settings": [
+    {
+      "default_game_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/games",
+      "third_party_repo_updates": 0,
+      "xxmi_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/extras/xxmi",
+      "fps_unlock_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/extras/fps_unlock",
+      "default_runner_prefix_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/prefixes",
+      "launcher_action": "keep",
+      "id": 1,
+      "hide_manifests": 0,
+      "default_runner_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/runners",
+      "default_dxvk_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/dxvk",
+      "default_mangohud_config_path": "/home/crispy146/.config/MangoHud/MangoHud.conf",
+      "download_speed_limit": 0,
+      "hide_app_to_tray": 1,
+      "app_lang": "en_US"
+    }
+  ],
+  "games": [
+    {
+      "name": "GenshinImpact 7.2.0 (Global)",
+      "directory": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/games/hk4e_global/01a11cf2-eb2a-7690-948c-5ebf0d73b43a",
+      "runner_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/runners/11.0-20261005-proton-cachyos",
+      "runner_prefix_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/prefixes/hk4e_global/01a11cf2-eb2a-7690-948c-5ebf0d73b43a",
+      "dxvk_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/dxvk/none",
+      "runner_version": "11.0-20261005-proton-cachyos",
+      "dxvk_version": "none",
+      "use_gamemode": 0,
+      "use_mangohud": 0,
+      "mangohud_config_path": "/home/crispy146/.config/MangoHud/MangoHud.conf",
+      "disable_system_idle": 0,
+      "graphics_api": "",
+      "use_gamescope": 0
+    },
+    {
+      "name": "GenshinImpact 7.2.0 (Global)",
+      "directory": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/games/hk4e_global/01a11cf2-eb2a-7690-948c-5ebf0d73b43a",
+      "runner_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/runners/11.0-20261015-proton-cachyos",
+      "runner_prefix_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/prefixes/hk4e_global/01a2002b-c1e9-7ef1-a059-df4c090bafa2",
+      "dxvk_path": "/home/crispy146/.var/app/app.twintaillauncher.ttl/data/twintaillauncher/compatibility/dxvk/none",
+      "runner_version": "11.0-20261015-proton-cachyos",
+      "dxvk_version": "none",
+      "use_gamemode": 0,
+      "use_mangohud": 0,
+      "mangohud_config_path": "/home/crispy146/.config/MangoHud/MangoHud.conf",
+      "disable_system_idle": 0,
+      "graphics_api": "",
+      "use_gamescope": 0
+    }
+  ]
+}

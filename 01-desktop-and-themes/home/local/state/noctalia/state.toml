@@ -1,0 +1,12 @@
+[plugin_store]
+sort = "name_desc"
+
+[security_migrations]
+calendar_credentials_v1 = true
+
+[theme_templates]
+applied_builtin_ids = "alacritty btop cava emacs foot ghostty gtk3 gtk4 helix hyprland kcolorscheme kitty labwc mango niri qt scroll starship sway umbriel wezterm"
+applied_community_ids = "antigravity claude-code codex fastfetch fzf neovim steam telegram yazi zen-browser"
+
+[wallpaper_panel]
+sort = "date_desc"

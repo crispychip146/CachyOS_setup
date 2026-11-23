@@ -1,0 +1,68 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if ! command -v flatpak >/dev/null; then
+    printf 'Flatpak is required.\n' >&2
+    exit 1
+fi
+
+# Flatpak updates apps and runtimes in all installations when no scope is given.
+flatpak update
+
+active_drivers=$(flatpak --gl-drivers)
+nvidia_driver=
+while IFS= read -r driver; do
+    if [[ $driver =~ ^nvidia-[0-9]+(-[0-9]+)+$ ]]; then
+        nvidia_driver=$driver
+        break
+    fi
+done <<< "$active_drivers"
+
+if [[ -z $nvidia_driver ]]; then
+    exit 0
+fi
+
+arch=$(flatpak --default-arch)
+driver_refs=("runtime/org.freedesktop.Platform.GL.$nvidia_driver/$arch/1.4")
+if [[ $arch == x86_64 ]]; then
+    driver_refs+=("runtime/org.freedesktop.Platform.GL32.$nvidia_driver/$arch/1.4")
+fi
+
+missing_driver_refs=()
+for driver_ref in "${driver_refs[@]}"; do
+    if ! flatpak info --show-ref "$driver_ref" >/dev/null 2>&1; then
+        missing_driver_refs+=("$driver_ref")
+    fi
+done
+
+if (( ${#missing_driver_refs[@]} == 0 )); then
+    exit 0
+fi
+
+has_flathub() {
+    local remotes
+    remotes=$(flatpak remotes "$1" --columns=name) || return 1
+    [[ $'\n'"$remotes"$'\n' == *$'\nflathub\n'* ]]
+}
+
+# One copy is enough for apps run by this account.
+if has_flathub --user; then
+    scope=--user
+elif has_flathub --system; then
+    scope=--system
+else
+    printf 'The matching NVIDIA Flatpak runtimes are missing and Flathub is unavailable.\n' >&2
+    exit 1
+fi
+
+status=0
+for driver_ref in "${missing_driver_refs[@]}"; do
+    printf 'Installing %s\n' "$driver_ref"
+    if ! flatpak install "$scope" --assumeyes --no-auto-pin flathub "$driver_ref" ||
+        ! flatpak info "$scope" --show-ref "$driver_ref" >/dev/null; then
+        printf 'Could not install %s. Check the Flathub error above and retry.\n' "$driver_ref" >&2
+        status=1
+    fi
+done
+
+exit "$status"

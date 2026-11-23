@@ -1,0 +1,1329 @@
+Package	Version	Install phase	Install reason	Package source	First seen
+a52dec	0.8.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+aalib	1.4rc5-19.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+abseil-cpp	20260817.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:32+06:00
+accountsservice	26.27.3-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+acl	2.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+ada	4.0.0-1.1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
+adw-gtk-theme	6.5-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+adwaita-cursors	51.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+adwaita-fonts	51.0-2	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+adwaita-icon-theme	51.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+adwaita-icon-theme-legacy	46.2-3	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+alsa-card-profiles	1:1.6.11-2	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+alsa-firmware	1.2.4-4	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+alsa-lib	1.2.16.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+alsa-plugins	1:1.2.12-6.1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+alsa-topology-conf	1.2.5.1-4	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+alsa-ucm-conf	1.2.16.1-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+alsa-utils	1.2.16-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+ananicy-cpp	1.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+aom	3.15.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+appstream	1.2.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+appstream-qt	1.2.3-1.1	Post-install	dependency	sync repository	2026-11-23T23:24:20+06:00
+archlinux-appstream-data	20261017-1	Post-install	dependency	sync repository	2026-11-23T23:24:20+06:00
+archlinux-keyring	1:20260909-1	Installer package	dependency	sync repository	2026-09-30T21:17:16+06:00
+argon2	20190702-7.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+aribb24	1.0.3-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+aribb25	0.2.7-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+at-spi2-core	2.62.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+attr	2.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+atuin	18.24.8-1	Post-install	explicit	sync repository	2026-09-30T22:58:01+06:00
+audit	4.2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+autoconf	2.73-1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+automake	1.20-1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+avahi	1:0.9rc5-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+awesome-terminal-fonts	1.1.0-5	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+ayatana-ido	0.10.4-1.1	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+baloo	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+base	3-3	Installer package	explicit	sync repository	2026-09-30T21:17:17+06:00
+base-devel	1-2	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+bash	5.3.20-2	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+bash-completion	2.18.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+bat	0.26.1-3.1	Installer package (reinstalled later)	explicit	sync repository	2026-09-30T21:42:51+06:00
+bcc	0.37.0-2.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+bibata-cursor-theme-bin	2.0.7-1	Post-install	explicit	foreign/local	2026-10-01T20:48:52+06:00
+bind	9.20.31-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+binutils	2.47-2	Installer package	dependency	sync repository	2026-09-30T21:17:16+06:00
+bison	3.8.2-8.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+blas	3.12.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+bluez	5.88-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+bluez-hid2hci	5.88-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+bluez-libs	5.88-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+bluez-obex	5.88-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+bluez-utils	5.88-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+boost-libs	1.92.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+bpf	7.3.5-2	Installer package	dependency	sync repository	2026-09-30T21:42:32+06:00
+breeze-icons	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:55+06:00
+brotli	1.2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+btop	1.4.8-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+btrfs-assistant	3.0.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+btrfs-progs	7.3-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+bubblewrap	0.13.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+bzip2	1.0.8-6.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+c-ares	1.34.9-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:05+06:00
+ca-certificates	20240618-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+ca-certificates-mozilla	3.134-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+ca-certificates-utils	20240618-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+cabextract	1.11-3.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+cachyos-alacritty-config	1.1-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+cachyos-ananicy-rules	1:1.1.50-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+cachyos-gaming-meta	1:1.0.0-9	Post-install	explicit	sync repository	2026-09-30T22:41:04+06:00
+cachyos-grub-theme	1.0.0-1	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+cachyos-hello	0.28.1-2	Installer package	explicit	sync repository	2026-09-30T21:42:32+06:00
+cachyos-hooks	2026.10.23-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-kernel-manager	1.19.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+cachyos-keyring	20240331-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-mirrorlist	27-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-niri-noctalia	1.4.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:39+06:00
+cachyos-packageinstaller	2.0.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+cachyos-plymouth-bootanimation	2-4	Installer package	explicit	sync repository	2026-09-30T21:17:23+06:00
+cachyos-plymouth-theme	1-2	Installer package	explicit	sync repository	2026-09-30T21:17:23+06:00
+cachyos-rate-mirrors	27-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-settings	1:1.4.5-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-snapper-support	1.0.2-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+cachyos-v3-mirrorlist	27-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-v4-mirrorlist	27-1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+cachyos-wallpapers	r23.964263e-1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+cachyos-zsh-config	1.0.3-1	Installer package	explicit	sync repository	2026-09-30T21:42:56+06:00
+cairo	1.18.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+cairomm-1.16	1.18.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+cantarell-fonts	1:0.311-1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+capitaine-cursors	4-3	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+cblas	3.12.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+cfitsio	1:4.7.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+chatgpt-bin	26.1117.41037-1	Post-install	explicit	sync repository	2026-11-21T19:19:32+06:00
+chromaprint	1.6.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+chwd	1.25.0-1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+cifs-utils	7.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+cjson	1.7.19-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+clang	23.1.5-2	Installer package	dependency	sync repository	2026-09-30T21:17:24+06:00
+clang-libs	23.1.5-2	Post-install	dependency	sync repository	2026-10-21T23:17:46+06:00
+clucene	2.3.3.4-17.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+codexbar-cli	0.82.0-1	Post-install	explicit	foreign/local	2026-10-27T21:39:45+06:00
+compiler-rt	23.1.5-2	Installer package	dependency	sync repository	2026-09-30T21:17:23+06:00
+composefs	1.0.8-2.1	Post-install	dependency	sync repository	2026-09-30T22:08:21+06:00
+confuse	3.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+convertlit	1.8-13.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+coreutils	9.12-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+cpio	2.15-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+cpupower	7.3.5-2	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+cryptsetup	2.8.8-2.1	Installer package	explicit	sync repository	2026-09-30T21:17:15+06:00
+curl	8.23.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+cython	3.3.1-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+dav1d	1.5.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+db5.3	5.3.28-7.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+dbus	1.16.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+dbus-broker	37-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+dbus-broker-units	37-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+dbus-units	37-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+dconf	51.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+debugedit	5.4-1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+default-cursors	3-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+desktop-file-utils	0.29-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+device-mapper	2.03.44-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:15+06:00
+diffutils	3.12-2.1	Installer package	explicit	sync repository	2026-09-30T21:17:17+06:00
+ding-libs	0.7.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+dmidecode	3.7-1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+dmraid	1.0.0.rc16.3-15.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+dnsmasq	2.93-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+dnssec-anchors	20250524-1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+dosfstools	4.2-5.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+double-conversion	3.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+duf	0.9.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+duktape	2.7.0-7.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+e2fsprogs	1.47.4-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:14+06:00
+ebook-tools	0.2.2-9.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+efibootmgr	18-4.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+efitools	1.9.2-8.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+efivar	39-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+egl-gbm	1.1.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:31+06:00
+egl-wayland	4:1.1.24-1.1	Installer package	explicit	sync repository	2026-09-30T21:33:31+06:00
+egl-wayland2	1.0.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:31+06:00
+egl-x11	1.0.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:31+06:00
+eglexternalplatform	1.2.1-1	Installer package	dependency	sync repository	2026-09-30T21:33:31+06:00
+elfutils	0.197-1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+ell	0.83-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+ethtool	1:7.2-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+exempi	2.6.6-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+exfatprogs	1.4.5-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+exiv2	0.28.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+expat	2.10.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+eza	0.23.5-2.1	Installer package (reinstalled later)	explicit	sync repository	2026-09-30T21:42:51+06:00
+f2fs-tools	1.17.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+faac	2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+faad2	2.11.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+fakeroot	2:1.37.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+fastfetch	2.71.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+fd	10.5.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+ffmpeg	2:9.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+ffmpegthumbnailer	2.3.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+fftw	3.3.11-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+file	5.48-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+filesystem	2025.10.12-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+findutils	4.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+fish	4.9.3-1	Installer package (reinstalled later)	explicit	sync repository	2026-09-30T21:42:51+06:00
+flac	1.5.0-1.2	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+flatpak	1:1.18.4-2.1	Post-install	explicit	sync repository	2026-09-30T22:08:21+06:00
+flex	2.7.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+fluidsynth	2.6.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+fmt	12.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+fontconfig	2:2.18.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+freeglut	3.8.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+freetype2	2.15.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+fribidi	1.0.18-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+fsarchiver	0.8.9-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+ftgl	2.4.0-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+fuse-common	3.18.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+fuse2	2.9.9-6	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+fuse3	3.18.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+fzf	0.75.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:51+06:00
+gawk	5.4.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+gc	8.2.12-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+gcc	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+gcc-libs	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+gcr	3.41.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gcr-4	4.4.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+gd	2.3.3-9	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+gdb	18.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+gdb-common	18.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+gdbm	1.26-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+gdk-pixbuf2	2.44.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gettext	1.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+gexiv2	0.16.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gexiv2-common	0.16.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+ghostscript	10.08.0-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+ghostty	1.4.0-2.1	Post-install	explicit	sync repository	2026-09-30T22:02:20+06:00
+ghostty-shell-integration	1.4.0-2.1	Post-install	dependency	sync repository	2026-09-30T22:02:20+06:00
+ghostty-terminfo	1.4.0-2.1	Post-install	dependency	sync repository	2026-09-30T22:02:20+06:00
+giflib	6.1.3-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+git	2.56.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+glew	2.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+glfw	1:3.5.1-1.1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+glib-networking	1:2.90.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+glib2	2.90.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+glibc	2.44+r78+gfcfb867c58ab-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+glibmm-2.68	2.90.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+glm	1.0.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+glslang	1:1.4.363.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+glu	9.0.3-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+glycin	2.2.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+glycin-gtk4	2.2.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gmp	6.3.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+gnome-autoar	0.5.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gnome-desktop-4	1:51.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gnome-desktop-common	1:51.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gnome-keyring	1:51.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+gnulib-l10n	20241231-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+gnupg	2.4.9-4.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+gnutls	3.8.14-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+gobject-introspection-runtime	1.86.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gperftools	2.19.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gpgme	2.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+gpgmepp	2.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+gpm	1.20.7.r38.ge82d1a6-7.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+graphene	1.10.8-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+graphicsmagick	1.3.49-4.1	Post-install	dependency	sync repository	2026-10-16T21:47:23+06:00
+graphite	1:1.3.15-1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+graphviz	16.1.2-1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+greetd	0.10.3-2.1	Post-install	explicit	sync repository	2026-10-01T12:10:13+06:00
+greetd-agreety	0.10.3-2.1	Post-install	dependency	sync repository	2026-10-01T12:10:13+06:00
+grep	3.12-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+groff	1.24.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+grub	2:2.16-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+grub-btrfs	4.14-1	Installer package	dependency	sync repository	2026-09-30T21:17:28+06:00
+grub-btrfs-support	1.0.0-2	Installer package	explicit	sync repository	2026-09-30T21:17:28+06:00
+grub-hook	2.1-2	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+gsettings-desktop-schemas	51.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gsettings-system-schemas	51.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gsfonts	20200910-6	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+gsm	1.0.24-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+gssdp	1.6.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gssproxy	0.9.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+gst-libav	1.28.9-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+gst-plugin-pipewire	1:1.6.11-2	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+gst-plugin-va	1.28.9-3.1	Installer package	explicit	sync repository	2026-09-30T21:33:55+06:00
+gst-plugins-bad	1.28.9-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+gst-plugins-bad-libs	1.28.9-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gst-plugins-base-libs	1.28.9-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gst-plugins-ugly	1.28.9-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+gstreamer	1.28.9-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gtest	1.18.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gtk-update-icon-cache	1:4.24.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+gtk3	1:3.24.52-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+gtk4	1:4.24.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+gtk4-layer-shell	1.3.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:02:20+06:00
+gtkmm-4.0	4.24.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+gts	0.7.6.121130-5.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+guile	3.0.11-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+gupnp	1:1.6.10-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gupnp-dlna	0.12.0-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+gupnp-igd	1.6.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+gvfs	1.62.0-3	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+gwenview	26.08.3-1.1	Post-install	explicit	sync repository	2026-10-27T10:23:57+06:00
+gzip	1.15-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+harfbuzz	15.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+harfbuzz-icu	15.2.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+hdf5	2.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+hdparm	9.65-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+helium-browser-bin	0.22.2.1-1	Post-install	explicit	sync repository	2026-11-02T15:50:48+06:00
+hicolor-icon-theme	0.18-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+hidapi	0.15.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+highway	1.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+hostapd	2.12-3.1	Post-install	dependency	sync repository	2026-10-03T02:56:19+06:00
+hunspell	1.7.6-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+hwdata	0.412-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+hwdetect	2026.10.01.1149-1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+hwinfo	26.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+hwloc	2.16.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+hyphen	2.8.10-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+iana-etc	20260617-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+icu	78.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+ijs	0.35-7.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+imagemagick	7.1.2.36-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+imath	3.2.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+imlib2	1.13.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+inetutils	2.8-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+intel-gmmlib	22.10.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+intel-lpmd	0.1.1-3	Installer package	explicit	sync repository	2026-09-30T21:33:45+06:00
+intel-media-driver	26.3.5-1.1	Installer package	explicit	sync repository	2026-09-30T21:33:55+06:00
+intel-ucode	20261110-1	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+inxi	3.3.41.1-2	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+iproute2	7.3.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+iptables	1:1.8.13-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+iputils	20250605-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+iso-codes	4.20.1-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+iw	6.17-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+iwd	3.12-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+jack2	1.9.22-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+jansson	2.15.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+jbig2dec	0.20-2.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+jbigkit	2.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+jemalloc	1:5.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+jfsutils	1.1.15-9.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+jq	1.8.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:32+06:00
+json-c	0.19-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+json-glib	1.10.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+kaccounts-integration	26.08.3-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+karchive	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kbd	2.10.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+kbookmarks	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kcmutils	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kcodecs	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kcolorpicker	0.3.1-6	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kcolorscheme	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kcompletion	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kconfig	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kconfigwidgets	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kcoreaddons	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kcrash	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kdbusaddons	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+keyutils	1.6.3-4.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+kfilemetadata	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kglobalaccel	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kguiaddons	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+ki18n	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kiconthemes	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:55+06:00
+kidletime	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kimageannotator	0.7.2-2	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kimageformats	6.32.0-2.1	Post-install	dependency	sync repository	2026-11-23T23:24:20+06:00
+kio	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kirigami	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kitemmodels	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kitemviews	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:55+06:00
+kjobwidgets	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:55+06:00
+kmod	34.3-2	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+knotifications	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:55+06:00
+kparts	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+krb5	1.22.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+kservice	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kwallet	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kwidgetsaddons	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+kwindowsystem	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+kxmlgui	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+l-smash	2.14.5-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+lame	4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+lapack	3.12.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+lazygit	0.66.3-1.1	Post-install	explicit	sync repository	2026-10-10T14:24:15+06:00
+lcms2	2.20-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+ldb	2:4.25.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+leaf-markdown-viewer-bin	1.28.3-1	Post-install	explicit	foreign/local	2026-10-01T12:54:41+06:00
+leancrypto	1.9.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+less	1:710-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+lib32-alsa-lib	1.2.16.1-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-alsa-plugins	1.2.12-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-at-spi2-core	2.62.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-brotli	1.2.1-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-bzip2	1.0.8-4	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-cairo	1.18.6-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-colord	1.4.8-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-curl	8.23.0-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-dbus	1.16.4-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-e2fsprogs	1.47.4-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-expat	2.10.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-fontconfig	2:2.18.4-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-freetype2	2.15.0-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-fribidi	1.0.18-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-gcc-libs	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-gdk-pixbuf2	2.44.8-2	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-glib2	2.90.1-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-glibc	2.44+r78+gfcfb867c58ab-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-gmp	6.3.0-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-gnutls	3.8.14-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-gtk3	1:3.24.52-2	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-harfbuzz	15.2.0-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-icu	78.3-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-json-c	0.19-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-keyutils	1.6.3-4	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-krb5	1.22.2-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-lcms2	2.17-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libcups	2.4.20-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libdatrie	0.2.14-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libdisplay-info	0.3.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-libdrm	2.4.134-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libelf	0.197-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libepoxy	1.5.10-2	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libffi	3.8.1-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libgcrypt	1.12.4-1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-libglvnd	1.7.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:35+06:00
+lib32-libgpg-error	1.61-1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-libidn2	2.3.8-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libjpeg-turbo	3.2.1-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libldap	2.7.2-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libnghttp2	1.71.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libnghttp3	1.19.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libngtcp2	1.26.0-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libnm	1.58.1-2	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libpciaccess	0.19-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libpipewire	1:1.6.11-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libpng	1.6.59-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-libpsl	0.21.5-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-librsvg	2:2.63.4-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libssh2	1.11.1-6	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libtasn1	4.21.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libthai	0.1.30-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libtiff	4.7.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libunistring	1.4.2-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libva	2.24.1-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libx11	1.8.14-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxau	1.0.12-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxcb	1.17.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxcomposite	0.4.7-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxcrypt	4.5.2-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxcrypt-compat	4.5.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxcursor	1.2.3-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxdamage	1.1.7-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxdmcp	1.1.5-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxext	1.3.7-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxfixes	6.0.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-libxft	2.3.9-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxi	1.8.3-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-libxinerama	1.1.6-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxkbcommon	1.13.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxml2	2.15.4-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxrandr	1.5.5-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxrender	0.9.12-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxshmfence	1.3.3-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-libxss	1.2.5-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-libxtst	1.2.6-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-libxxf86vm	1.1.7-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-llvm-libs	1:23.1.5-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-lm_sensors	1:3.6.2-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-mesa	3:26.3.1-5	Installer package	dependency	sync repository	2026-09-30T21:33:35+06:00
+lib32-ncurses	6.6-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-nettle	4.0-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-nspr	4.41-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-nss	3.134-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-nvidia-utils	620.73.04-1	Installer package	explicit	sync repository	2026-09-30T21:33:35+06:00
+lib32-ocl-icd	2.3.5-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-opencl-nvidia	620.73.04-1	Installer package	explicit	sync repository	2026-09-30T21:33:34+06:00
+lib32-openssl	1:4.1.0-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-opus	1.6.1-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-p11-kit	0.26.6-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-pango	1:1.58.2-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-pcre2	10.49-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-pipewire	1:1.6.11-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-pixman	0.46.4-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-spirv-tools	1:1.4.363.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-sqlite	3.54.0-1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lib32-systemd	262.2-1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-util-linux	2.42.4-1	Post-install	dependency	sync repository	2026-09-30T22:40:56+06:00
+lib32-vulkan-icd-loader	1.4.363.0-1	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+lib32-vulkan-intel	3:26.3.1-5	Installer package	explicit	sync repository	2026-09-30T21:33:55+06:00
+lib32-vulkan-mesa-implicit-layers	3:26.3.1-5	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-wayland	1.26.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-xcb-util-keysyms	0.4.1-2	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+lib32-xz	5.8.4-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+lib32-zlib-ng	2.3.3-2	Installer package	dependency	sync repository	2026-09-30T21:33:59+06:00
+lib32-zlib-ng-compat	2.3.3-2	Installer package	dependency	sync repository	2026-09-30T21:33:59+06:00
+lib32-zstd	1.5.7-2	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+libabw	0.1.4-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libaccounts-glib	1.27-3.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+libaccounts-qt	1.17-2.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+libadwaita	1:1.10.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libaec	1.1.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libaio	0.3.113-5.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+libarchive	3.8.11-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libasan	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libass	0.17.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libassuan	3.0.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libasyncns	1:0.8+r3+g68cd5af-3.2	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libatasmart	0.19-8.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libatomic	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libatomic_ops	7.8.2-2.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libavc1394	0.5.4-7.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libavif	1.4.2-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+libavtp	0.2.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libayatana-appindicator	0.6.1-1.1	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+libayatana-indicator	0.9.5-1.1	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+libb2	0.98.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libblake3	1.8.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-crypto	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-fs	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-loop	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-mdraid	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-nvme	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-part	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-smart	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libblockdev-swap	3.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libbluray	1.5.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libbpf	1.8.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libbs2b	3.1.0-11.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libbsd	0.12.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libbytesize	2.12-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libcaca	0.99.beta20-7.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libcanberra	1:0.30+r2+gc0620e4-6.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+libcap	2.78-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libcap-ng	0.9.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libcddb	1.3.2-9.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libcdio	2.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libcdio-paranoia	10.2+2.0.2-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libcdr	0.1.9-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libcgif	0.5.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libcloudproviders	0.4.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libcmis	0.6.3-2.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libcolord	1.4.8-2	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libcue	2.4.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libcups	2:2.4.20-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libdaemon	0.14-6.3	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libdatrie	0.2.14-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libdbusmenu-glib	18.10.20180917-2	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+libdbusmenu-gtk3	18.10.20180917-2	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+libdc1394	2.2.7-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libdca	0.0.7-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libde265	1.1.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libdecor	0.2.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libdeflate	1.26-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libdisplay-info	0.3.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+libdovi	3.4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libdrm	2.4.134-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libdv	1.0.0-12.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libdvbpsi	1:1.3.3-4	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libdvdcss	1.6.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+libdvdnav	7.0.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libdvdread	7.1.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libe-book	0.1.4-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libebml	1.4.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libebur128	1.2.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libedit	20260512_3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+libei	1.6.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libelf	0.197-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libepoxy	1.5.10-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libepubgen	0.1.2-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libetonyek	0.1.13-3.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libevdev	1.14.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libevent	2.1.13-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libexif	0.6.26-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libexttextcat	3.4.9-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libfdk-aac	3.0.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libffi	3.8.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libfontenc	1.1.10-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libfreeaptx	0.2.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libfreehand	0.1.4-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libftdi	1.5-10.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libfyaml	0.9.6-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libgcc	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libgcrypt	1.12.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libgfortran	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libgirepository	1.86.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+libgit2	1:1.9.7-2.1	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:51+06:00
+libglvnd	1.7.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libgme	0.6.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libgomp	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libgoom2	2k4-5	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libgpg-error	1.61-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libgsf	1.14.60-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+libgudev	238-4.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libgxps	0.3.2-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libheif	1.23.7-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libhwasan	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libical	4.0.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libice	1.1.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libidn	1.44-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libidn2	2.3.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libiec61883	1.2.0-9.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libimagequant	4.4.1-2	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libimobiledevice	1.4.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+libimobiledevice-glue	1.3.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+libinih	62-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+libinput	1.32.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libiptcdata	1.0.5-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libisl	0.28-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+libixion	0.20.0-9.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libjpeg-turbo	3.2.1-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libjxl	0.13.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libkate	0.4.3-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libkdcraw	26.08.3-1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+libksba	1.8.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+liblangtag	0.6.8-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+liblc3	1.1.3-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libldac	2.0.2.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libldap	2.7.2-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libliftoff	0.5.0-1.1	Post-install	dependency	sync repository	2026-10-01T12:10:13+06:00
+liblqr	0.4.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+liblrdf	0.6.1-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+liblsan	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libltc	1.3.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libluv	1.53.0.1-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+libmad	0.16.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmakepkg-dropins	20-2	Installer package	dependency	sync repository	2026-09-30T21:17:16+06:00
+libmalcontent	0.14.0-4	Post-install	dependency	sync repository	2026-09-30T22:08:21+06:00
+libmatio	1.5.30-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libmatroska	1.7.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmaxminddb	1.14.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libmbim	1.34.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libmd	1.3.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libmediainfo	26.10-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libmicrodns	0.2.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmicrohttpd	1.0.10-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+libmm-glib	1.24.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libmms	0.6.4-6.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libmnl	1.0.5-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libmodplug	0.8.9.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libmpc	1.4.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+libmpcdec	1:0.1+r475-6	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmpeg2	0.5.1-11.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmspub	0.1.6-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libmtp	1.1.23-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libmwaw	0.3.23-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libmysofa	1.3.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libnautilus-extension	51.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libndp	1.9-1.2	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libnetfilter_conntrack	1.1.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libnewt	0.52.25-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libnfnetlink	1.0.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libnfs	7.0.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libnftnl	1.3.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libnghttp2	1.71.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libnghttp3	1.19.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libngtcp2	1.26.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libnice	0.1.24-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+libnl	3.12.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libnm	1.58.1-3	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libnma-common	1.10.6-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libnma-gtk4	1.10.6-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libnotify	0.8.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libnsl	2.0.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libnumbertext	1.0.11-3.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libnvme	1.16.2-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libobjc	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libodfgen	0.1.9-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libogg	1.3.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libopenmpt	0.8.10-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libopenraw	0.3.7-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+liborcus	0.21.0-8.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libosinfo	1.12.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libp11-kit	0.26.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libpagemaker	0.0.4-5.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libpaper	2.2.8-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libpcap	1.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+libpciaccess	0.19-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libpgm	5.3.128-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libpipeline	1.5.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+libpipewire	1:1.6.11-2	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libplacebo	7.387.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libplist	2.7.0-3.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+libpng	1.6.59-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+libportal	0.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libportal-gtk4	0.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libproxy	0.5.12-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libpsl	0.21.5-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libpulse	17.0+r134+g77d25a1e6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libqalculate	5.13.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libqmi	1.38.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libqrtr-glib	1.4.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libquadmath	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libqxp	0.0.3-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libraqm	0.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libraw	0.22.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libraw1394	2.1.2-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libreoffice-fresh	26.8.3-1.1	Post-install	explicit	sync repository	2026-10-09T23:34:28+06:00
+librevenge	0.0.6-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+librist	0.2.20-1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+librsvg	2:2.63.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+librustls	0.15.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+libsamplerate	0.2.2-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libsasl	2.1.28-6.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libseccomp	2.6.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libsecret	0.21.8.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libshout	1:2.4.6-6.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libsigc++-3.0	3.8.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+libsm	1.2.6-1.2	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libsndfile	1.2.2-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libsodium	1.0.22-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libsoup3	3.8.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libsoxr	0.1.3-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libsrtp	1:2.8.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libssh	0.12.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libssh2	1.11.1-8.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libstaroffice	0.0.8-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libstdc++	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libstemmer	3.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libsysprof-capture	51.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libtasn1	4.21.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libtatsu	1.0.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+libteam	1.32-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libthai	0.1.30-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libtheora	1.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libtiff	4.7.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libtiger	0.3.4-8.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libtirpc	1.3.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libtommath	1.3.0-2.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libtool	2.6.2-6	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+libtsan	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libubsan	16.2.1+r23+gd564253eb6c8-3	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libunibreak	7.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libunistring	1.4.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libunwind	1.8.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libupnp	1.14.31-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+liburcu	0.15.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+liburing	2.15-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libusb	1.0.30-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libusb-compat	0.1.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libusbmuxd	2.1.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+libutf8proc	2.12.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+libuv	1.53.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+libva	2.24.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+libva-nvidia-driver	0.0.18-1.1	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+libvdpau	1.5-4.1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+libverto	0.3.2-6.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libvips	8.18.7-2	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libvisio	0.1.12-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libvlc	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libvorbis	1.3.7-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libvpl	2.17.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libvpx	1.17.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+libvterm	0.3.3-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+libwacom	2.20.0-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libwbclient	2:4.25.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libwebp	1.6.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libwireplumber	0.5.19-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libwpd	0.10.3-6.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libwps	0.4.14-4.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libx11	1.8.14-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libx86emu	3.7-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libxau	1.0.12-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxcb	1.17.0-1.2	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxcomposite	0.4.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxcrypt	4.5.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+libxcrypt-compat	4.5.2-1.1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+libxcursor	1.2.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxcvt	0.1.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libxdamage	1.1.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxdmcp	1.1.5-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxext	1.3.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxfixes	6.0.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxfont2	2.0.10-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libxft	2.3.9-1.2	Installer package	dependency	sync repository	2026-09-30T21:17:23+06:00
+libxi	1.8.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxinerama	1.1.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxkbcommon	1.13.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxkbcommon-x11	1.13.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libxkbfile	1.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libxml2	2.15.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+libxml2-legacy	2.13.9-2.1	Post-install	dependency	sync repository	2026-10-27T21:39:19+06:00
+libxmlb	0.3.30-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+libxmu	1.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libxnvctrl	620.73.04-1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+libxpm	3.5.20-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libxrandr	1.5.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxrender	0.9.13-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+libxshmfence	1.3.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libxslt	1.1.45-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+libxss	1.2.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:47:29+06:00
+libxt	1.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libxtst	1.2.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+libxv	1.0.13-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:34+06:00
+libxxf86vm	1.1.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+libyuv	r2921+644251f25-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+libzen	0.4.41-3.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libzip	1.11.4-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+libzmf	0.0.2-20.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+licenses	20240728-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+lilv	0.28.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+linux-api-headers	1:7.1-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+linux-cachyos	7.3.5-2	Installer package	explicit	sync repository	2026-09-30T21:17:23+06:00
+linux-cachyos-headers	7.3.5-2	Installer package	explicit	sync repository	2026-09-30T21:17:25+06:00
+linux-cachyos-lts	6.18.60-3	Installer package	explicit	sync repository	2026-09-30T21:17:26+06:00
+linux-cachyos-lts-headers	6.18.60-3	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+linux-cachyos-lts-nvidia-open	6.18.60-3	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+linux-cachyos-nvidia-open	7.3.5-2	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+linux-firmware	1:20261019-1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-amd	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-firmware-amdgpu	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-firmware-atheros	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-firmware-broadcom	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-firmware-cirrus	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-firmware-intel	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-mediatek	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-nvidia	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-other	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-radeon	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-realtek	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-ti	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+linux-firmware-whence	1:20261019-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+linux-wifi-hotspot	5.0.0-1	Post-install	explicit	foreign/local	2026-10-03T03:04:36+06:00
+lirc	1:0.10.2-6.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+live-media	2026.10.24-1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+lld	23.1.5-2	Installer package	dependency	sync repository	2026-09-30T21:17:24+06:00
+llhttp	9.3.1-1.1	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:51+06:00
+llvm	23.1.5-2	Installer package	dependency	sync repository	2026-09-30T21:17:24+06:00
+llvm-libs	23.1.5-2	Installer package	dependency	sync repository	2026-09-30T21:17:23+06:00
+llvm-lit	23.1.5-2	Post-install	dependency	sync repository	2026-10-18T01:00:14+06:00
+lm_sensors	1:3.6.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+lmdb	0.9.35-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+lmstudio-bin	0.4.25-1	Post-install	explicit	foreign/local	2026-10-04T01:09:01+06:00
+localsearch	3.12.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+localsend-bin	1.18.2-1	Post-install	explicit	foreign/local	2026-10-02T19:57:56+06:00
+logrotate	3.22.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+lpsolve	5.5.2.14-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+lsb-release	2.0.r55.a25a4fc-1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+lsof	4.99.7-1.1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+lsscsi	0.32-2.2	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+lua	5.5.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+lua51	5.1.5-13.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+lua51-lpeg	1.1.0-5	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+lua54	5.4.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+luajit	2.1.1795119671+96f7b29-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+lv2	1.18.10-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+lvm2	2.03.44-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+lz4	1:1.11.1-2	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+lzo	2.10-5.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+m4	1.4.21-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+make	4.4.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+man-db	2.13.3-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+man-pages	6.20-1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+mbedtls3	3.6.7-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+md4c	0.6.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+mdadm	4.6-2	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+media-player-info	26-1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+mesa	3:26.3.1-5	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+mesa-utils	9.0.0-7.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+ministream	0.99.1-1.1	Post-install	dependency	sync repository	2026-10-09T23:36:45+06:00
+minizip	1:1.4-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:05+06:00
+mjpegtools	2.2.1-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+mkinitcpio	42.2-1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+mkinitcpio-busybox	1.36.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+mobile-broadband-provider-info	20261111-1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+modemmanager	1.24.2-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+mpdecimal	4.0.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+mpfr	4.2.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+mpg123	1.33.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+msgpack-c	7.0.2-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+mtdev	1.1.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+mtools	1:4.0.50-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+nautilus	51.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+ncurses	6.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+neon	0.37.1-2	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+neovim	0.12.6-1.1	Post-install	explicit	sync repository	2026-09-30T22:03:08+06:00
+netctl	1.29-2	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+netpbm	10.86.51-2.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+nettle	4.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+networkmanager	1.58.1-3	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+networkmanager-openvpn	1.12.5-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+networkmanager-vpn-plugin-openvpn	1.12.5-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+nfs-utils	3.2.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+nfsidmap	3.2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+nftables	1:1.1.7-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+nilfs-utils	2.3.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+niri	26.04-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+noctalia	5.6.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+noctalia-greeter	1.7.1-1.1	Post-install	explicit	sync repository	2026-10-01T12:10:13+06:00
+node-gyp	13.1.0-1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
+nodejs	26.13.1-3	Post-install	explicit	sync repository	2026-10-03T11:42:15+06:00
+nodejs-nopt	10.0.1-1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
+noto-fonts	1:2026.11.01-1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+noto-fonts-cjk	20240730-1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+noto-fonts-emoji	1:20260924-1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+npm	12.2.3-1	Post-install	explicit	sync repository	2026-10-03T11:42:15+06:00
+npth	1.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+nspr	4.41-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+nss	3.134-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+nss-mdns	0.15.1-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+ntsync-autoload	1-1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+numactl	2.0.19-1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+nvidia-prime	1.0-6	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+nvidia-settings	620.73.04-1	Installer package	explicit	sync repository	2026-09-30T21:33:34+06:00
+nvidia-utils	620.73.04-1	Installer package	explicit	sync repository	2026-09-30T21:33:33+06:00
+ocl-icd	2.3.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+oh-my-zsh-git	r7823.b37dd49ca-1	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+onetbb	2023.2.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+oniguruma	6.9.10-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:32+06:00
+openal	1.25.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+opencl-nvidia	620.73.04-1	Installer package	explicit	sync repository	2026-09-30T21:33:34+06:00
+opencore-amr	0.1.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+openexr	3.5.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+openh264	2.7.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+openjpeg2	2.5.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+openjph	0.33.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+openssh	10.6p2-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+openssl	4.1.0-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+openssl-3	3.5.9-2.1	Post-install	dependency	sync repository	2026-11-13T11:56:40+06:00
+openvpn	2.7.9-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+opus	1.6.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+orc	0.4.44-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+os-prober	1.85-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+osinfo-db	20260812-1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+ostree	2026.6-2.1	Post-install	dependency	sync repository	2026-09-30T22:08:21+06:00
+p11-kit	0.26.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+pacman	7.1.0.r9.g54d9411-6	Installer package	dependency	sync repository	2026-09-30T21:17:16+06:00
+pacman-contrib	1.13.1-1.2	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+pacman-mirrorlist	20260610-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+pacutils	0.15.0-3	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+pahole	1:1.32-2	Installer package	dependency	sync repository	2026-09-30T21:17:23+06:00
+pam	1.7.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+pambase	20260616-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+pango	1:1.58.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:23+06:00
+pangomm-2.48	2.58.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+parallel	20261022-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+parted	3.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+paru	2.2.1-1	Post-install	explicit	sync repository	2026-09-30T23:42:32+06:00
+patch	2.8.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+pavucontrol	1:6.2-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+pciutils	3.15.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+pcre	8.45-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+pcre2	10.49-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+pcsclite	2.5.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+perl	5.44.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:17+06:00
+perl-class-inspector	1.36-10	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-clone	0.51-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-encode-locale	1.05-15	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-error	0.17031-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+perl-file-listing	6.16-6	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-file-sharedir	1.118-8	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-html-parser	3.87-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-html-tagset	3.24-4	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-cookiejar	0.014-5	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-cookies	6.12-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-daemon	6.17-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-date	6.08-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-message	7.04-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-http-negotiate	6.01-16	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-io-html	1.004-8	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-libwww	6.83-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-lwp-mediatypes	6.05-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-mailtools	2.22-3	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+perl-mime-base32	1.303-13	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-net-http	6.24-2	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-timedate	2.35-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+perl-try-tiny	0.32-4	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-uri	5.40-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-www-robotrules	6.03-1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-xml-parser	2.59-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+perl-xml-writer	0.900-6	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+pinentry	1.3.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+pipewire	1:1.6.11-2	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+pipewire-alsa	1:1.6.11-2	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+pipewire-audio	1:1.6.11-2	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+pipewire-pulse	1:1.6.11-2	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+pixman	0.46.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+pkcs11-helper	1.31.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+pkgconf	3.0.11-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+pkgfile	27-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+plasma-activities	6.8.3-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+plocate	1.1.25-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+plymouth	26.134.222-5	Installer package	explicit	sync repository	2026-09-30T21:17:23+06:00
+polkit	128-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+poppler	26.11.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+poppler-data	0.4.12-2	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+poppler-glib	26.11.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+poppler-qt6	26.11.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
+popt	1.19-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+portaudio	1:19.7.0-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+power-profiles-daemon	0.30-3	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+powerline-fonts	2.8.4-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+ppp	2.5.5-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+procps-ng	4.0.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+projectm	3.1.12-5.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+protobuf	36.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:32+06:00
+proton-cachyos-slr	1:11.0.20261015-1	Post-install	dependency	sync repository	2026-09-30T22:41:01+06:00
+proton-vpn-daemon	0.14.2-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+proton-vpn-gtk-app	4.19.1-1	Post-install	explicit	sync repository	2026-10-01T21:01:03+06:00
+protontricks	1.14.1-1	Post-install	dependency	sync repository	2026-09-30T22:41:03+06:00
+psmisc	23.7-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+purpose	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+pv	1.12.7-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+python	3.14.10-2	Installer package	explicit	sync repository	2026-09-30T21:17:18+06:00
+python-aiohappyeyeballs	2.7.1-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-aiohttp	3.14.3-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-aiosignal	1.4.0-3	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-attrs	26.1.0-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-autocommand	2.2.2-9	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-bcc	0.37.0-2.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-bcrypt	5.0.0-2.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-cairo	1.29.2-1.1	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:38+06:00
+python-cbor2	6.3.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-certifi	2026.10.23-1	Post-install	dependency	sync repository	2026-09-30T22:41:05+06:00
+python-cffi	2.1.1-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-charset-normalizer	3.5.1-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-cryptography	50.0.2-2.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-dbus	1.5.1-1	Post-install	dependency	sync repository	2026-09-30T22:41:05+06:00
+python-dbus-fast	5.2.0-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-defusedxml	0.7.1-8	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+python-distro	1.9.0-4	Post-install	dependency	sync repository	2026-09-30T22:41:05+06:00
+python-fido2	2.2.1-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-frozenlist	1.8.0-2.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-gnupg	0.5.7-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-gobject	3.58.1-1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+python-idna	3.20-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-importlib-metadata	10.2.0-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-jaraco.classes	3.4.0-3	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-jaraco.collections	5.1.0-3	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-jaraco.context	6.1.2-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-jaraco.functools	4.1.0-3	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-jaraco.text	4.0.0-4	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-jeepney	0.9.0-3	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-jinja	1:3.1.6-3	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:38+06:00
+python-keyring	25.7.0-3	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-lazy-importer	0.1.0-1	Post-install	dependency	sync repository	2026-11-13T11:56:47+06:00
+python-markupsafe	3.0.4-1.1	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:38+06:00
+python-more-itertools	11.2.1-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-multidict	7.0.0-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-numpy	2.5.5-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+python-packaging	26.3-1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+python-pillow	13.0.0-1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-platformdirs	4.14.5-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-propcache	0.5.4-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-proton-core	0.7.4-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-proton-keyring-linux	0.2.3-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-proton-vpn-api-core	6.1.2-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-psutil	7.2.2-1.1	Installer package (reinstalled later)	dependency	sync repository	2026-09-30T21:42:38+06:00
+python-pycparser	3.12-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-pygments	2.21.0-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-pynacl	1.6.2-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-pyopenssl	26.4.0-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-pyzstd	0.20.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-requests	2.34.2-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-secretstorage	3.5.0-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-sentry_sdk	2.75.0-1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-setuptools	1:84.2.1-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-six	1.17.0-3	Post-install	dependency	sync repository	2026-09-30T22:41:01+06:00
+python-urllib3	2.8.0-1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-vdf	4.0-5	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-wheel	0.48.0-1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+python-xlib	0.33-7	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-xxhash	4.1.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+python-yarl	1.25.1-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+python-zipp	3.21.0-4	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+qca-qt6	2.3.12-3	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qrencode	4.1.1-4.10	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+qt5-base	5.15.19+kde+r97-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+qt5-declarative	5.15.19+kde+r23-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+qt5-svg	5.15.19+kde+r5-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+qt5-translations	5.15.19-1	Post-install	dependency	sync repository	2026-10-16T21:47:18+06:00
+qt5-wayland	5.15.19+kde+r55-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+qt5-x11extras	5.15.19-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+qt6-5compat	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-base	6.12.0-5.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+qt6-declarative	6.12.0-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+qt6-multimedia	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-multimedia-ffmpeg	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-positioning	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-shadertools	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-svg	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-01T01:18:21+06:00
+qt6-translations	6.12.0-1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+qt6-webchannel	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-webengine	6.140.0-1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+raptor	2.0.16-9.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+rasqal	1:0.9.33-9.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+rate-mirrors	0.33.0-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+rav1e	0.8.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+re2	2:2025.11.05-6.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+readline	8.3.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+realtime-privileges	5-1	Installer package	explicit	sync repository	2026-09-30T21:42:37+06:00
+rebuild-detector	4.4.5-1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+redland	1:1.0.17-10.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+reflector	2023-5	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+ripgrep	15.2.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+rpcbind	1.3.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+rsync	3.5.2-3.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+rtkit	0.14-2.1	Post-install	dependency	sync repository	2026-10-19T12:09:39+06:00
+rtmpdump	1:2.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+rubberband	4.0.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+rustup	1.29.3-1	Post-install	explicit	sync repository	2026-10-01T01:42:13+06:00
+s-nail	14.9.25-2.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+sbc	2.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+scx-manager	1.16.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+scx-scheds	1.1.4-2	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+scx-tools	1.1.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+sd	1.1.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+sdbus-cpp	2.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+sddm	0.21.0-8	Installer package	explicit	sync repository	2026-09-30T21:42:39+06:00
+sdl12-compat	1.2.68-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+sdl2-compat	2.32.74-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+sdl3	3.4.20-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+sdl_image	1.2.12-10.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+seatd	0.9.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+sed	4.10-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+semver	7.8.6-1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
+serd	0.32.10-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+sg3_utils	1.49-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+shaderc	2026.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+shadow	4.20.0.arch1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+shared-mime-info	2.5.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+shelly	3.4.1-1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+signon-kwallet-extension	26.08.3-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+signon-plugin-oauth2	0.25-4	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+signon-ui	0.17+20231016-4.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+signond	8.61-4.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+simdjson	2:5.2.0-1.1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
+slang	2.3.3-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+smartmontools	7.5-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+smbclient	2:4.25.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+snap-pac	3.0.1-3	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+snapper	0.13.2-2.1	Installer package	explicit	sync repository	2026-09-30T21:17:27+06:00
+snappy	1.3.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+sndio	1.11.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+sof-firmware	2026.09.2-1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+solid	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+sord	0.16.22-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+sound-theme-freedesktop	0.8-6	Installer package	dependency	sync repository	2026-09-30T21:42:37+06:00
+soundtouch	2.4.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+source-highlight	3.1.9-19.1	Installer package	dependency	sync repository	2026-09-30T21:17:18+06:00
+spandsp	3.1.1-1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+spdlog	1.17.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+speex	1.2.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+speexdsp	1.2.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+spirv-tools	1:1.4.363.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+sqlite	3.54.1-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+sratom	0.6.22-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+srt	1.5.7-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+starship	1.27.0-1	Post-install	explicit	sync repository	2026-09-30T23:01:06+06:00
+steam	1.0.0.87-3	Post-install	explicit	sync repository	2026-09-30T22:41:06+06:00
+steam-devices	1.0.0.87-3	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+sudo	1.9.17.p2-7.1	Installer package	explicit	sync repository	2026-09-30T21:17:18+06:00
+svt-av1	4.2.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+switcheroo-control	3.0-2.1	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+sysfsutils	2.1.1-2.2	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+systemd	262.2-1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+systemd-libs	262.2-1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+systemd-resolvconf	262.2-1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+systemd-sysvcompat	262.2-1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+taglib	2.3.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+talloc	2.5.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+tar	1.35-5	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+tcl	8.6.16-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+tdb	1.4.15-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+tevent	1:0.17.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+texinfo	7.3-3.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+thin-provisioning-tools	1.3.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:20+06:00
+tinysparql	3.12.0-1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+tinyxml2	11.0.0-2	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+tomlplusplus	3.5.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+totem-pl-parser	3.26.7-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+tpm2-tss	4.2.2s-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+tree-sitter	0.26.9-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-c	0.24.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-lua	0.5.0-3.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-markdown	0.5.3-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-query	0.8.0-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-vim	0.8.1-3.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tree-sitter-vimdoc	4.1.0-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+tslib	1.24-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+ttf-bitstream-vera	1.10-16	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+ttf-dejavu	2.37+18+g9b5d1b2f-8	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+ttf-liberation	2.1.5-2	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+ttf-meslo-nerd	3.5.1-2	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+ttf-opensans	3.003-1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+twolame	0.4.0-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+tzdata	2026f-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+uchardet	0.0.8-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+udisks2	2.12.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+ufw	0.36.2-7	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+ufw-extras	1.3.0-1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+umu-launcher	1.4.3-1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
+unibilium	2.1.4-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
+unrar	1:7.3.2-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+unzip	6.0-23.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+upower	1.91.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:45+06:00
+usb_modeswitch	2.6.3.20261111-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+usbutils	020-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+util-linux	2.42.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:15+06:00
+util-linux-libs	2.42.4-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+v4l-utils	1.32.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+vapoursynth	81-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+vid.stab	1.1.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+vim	9.2.1178-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+vim-runtime	9.2.1178-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+vlc	3.0.24-4.1	Post-install	explicit	sync repository	2026-10-16T21:47:22+06:00
+vlc-cli	3.0.24-4.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+vlc-gui-qt	3.0.24-4.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
+vlc-plugin-a52dec	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-aalib	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-alsa	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-aom	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-archive	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-aribb24	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-aribb25	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-ass	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-avahi	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-bluray	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-caca	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-cddb	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-chromecast	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dav1d	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dbus	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dbus-screensaver	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dca	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dvb	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-dvd	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-faad2	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-ffmpeg	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-firewire	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-flac	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-fluidsynth	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-freetype	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-gme	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-gnutls	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-gstreamer	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-inflate	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-jack	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-journal	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-jpeg	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-kate	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-libsecret	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-lirc	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-live555	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-lua	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-mad	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-matroska	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-mdns	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-modplug	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-mpeg2	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-mpg123	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-mtp	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-musepack	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-nfs	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-notify	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-ogg	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-opus	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-png	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-pulse	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-samplerate	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-sdl	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-sftp	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-shout	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-smb	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-soxr	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-speex	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-srt	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-svg	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-tag	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-theora	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-twolame	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-udev	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-upnp	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-vorbis	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-vpx	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-x264	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-x265	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-xml	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugin-zvbi	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugins-all	3.0.24-4.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+vlc-plugins-base	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugins-extra	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugins-video-output	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+vlc-plugins-visualization	3.0.24-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:36+06:00
+vmaf	3.2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:36+06:00
+vnstat	2.14-1.1	Post-install	explicit	sync repository	2026-10-30T11:53:02+06:00
+volume_key	0.3.12-12.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+vpl-gpu-rt	26.3.5-1.1	Installer package	explicit	sync repository	2026-09-30T21:33:55+06:00
+vulkan-icd-loader	1.4.363.0-1.1	Installer package	explicit	sync repository	2026-09-30T21:33:36+06:00
+vulkan-intel	3:26.3.1-5	Installer package	explicit	sync repository	2026-09-30T21:33:55+06:00
+vulkan-mesa-implicit-layers	3:26.3.1-5	Installer package	dependency	sync repository	2026-09-30T21:33:55+06:00
+vulkan-swrast	3:26.3.1-5	Post-install	dependency	sync repository	2026-11-21T19:19:29+06:00
+vulkan-tools	1.4.363.0-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+wayland	1.26.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+wayland-protocols	1.50-1	Post-install	dependency	sync repository	2026-10-01T12:10:13+06:00
+webrtc-audio-processing-1	1.3-6.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+wget	1.25.0-6.1	Installer package	explicit	sync repository	2026-09-30T21:42:38+06:00
+which	2.25-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:19+06:00
+wildmidi	0.5.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+wine	11.22-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:03+06:00
+wine-cachyos-opt	2:10.0.20260425-1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+winetricks	20260125-2	Post-install	dependency	sync repository	2026-09-30T22:41:03+06:00
+wireguard-tools	1.0.20260223-1.1	Post-install	dependency	sync repository	2026-10-01T20:57:42+06:00
+wireless-regdb	2026.09.03-1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+wireplumber	0.5.19-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:35+06:00
+wl-clipboard	1:2.3.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+wlroots0.20	0.20.2-1.1	Post-install	dependency	sync repository	2026-10-01T12:10:13+06:00
+wpa_supplicant	2:2.12-2.1	Installer package	explicit	sync repository	2026-09-30T21:42:33+06:00
+x264	3:0.165.r3222.b35605a-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+x265	4.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+xcb-proto	1.17.0-4	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+xcb-util	0.4.1-2.2	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xcb-util-cursor	0.1.6-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xcb-util-errors	1.0.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
+xcb-util-image	0.4.1-3.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xcb-util-keysyms	0.4.1-5.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xcb-util-renderutil	0.3.10-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xcb-util-wm	0.4.2-2.1	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xdg-dbus-proxy	0.1.9-1.1	Post-install	dependency	sync repository	2026-09-30T22:08:21+06:00
+xdg-desktop-portal	1.22.1-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+xdg-desktop-portal-gnome	51.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xdg-desktop-portal-gtk	1.15.3-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+xdg-user-dirs	0.20-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:36+06:00
+xdg-user-dirs-gtk	0.16-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xdg-utils	1.2.1-2	Installer package	dependency	sync repository	2026-09-30T21:17:27+06:00
+xf86-input-libinput	1.5.0-1.2	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xfsprogs	7.2.1-1.1	Installer package	explicit	sync repository	2026-09-30T21:17:20+06:00
+xkeyboard-config	2.49-1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+xl2tpd	1.3.20-1.1	Installer package	explicit	sync repository	2026-09-30T21:42:34+06:00
+xmlsec	1.3.13-2.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+xorg-fonts-encodings	1.1.0-2	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-server	21.1.26-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-server-common	21.1.26-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-setxkbmap	1.3.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-xauth	1.1.5-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-xkbcomp	1.5.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorg-xprop	1.2.8-1.1	Installer package	dependency	sync repository	2026-09-30T21:33:33+06:00
+xorg-xrandr	1.5.4-1.1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
+xorg-xwayland	24.1.15-1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xorgproto	2026.1-1	Installer package	dependency	sync repository	2026-09-30T21:17:22+06:00
+xvidcore	1.3.7-4.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+xwayland-satellite	0.8.3-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:39+06:00
+xxhash	0.8.4-1	Installer package	dependency	sync repository	2026-09-30T21:17:17+06:00
+xz	5.8.4-2	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+yay	13.1.0-2	Post-install	explicit	sync repository	2026-10-11T15:04:11+06:00
+yazi	26.9.1-2.1	Post-install	explicit	sync repository	2026-09-30T22:58:01+06:00
+yyjson	0.13.0-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:38+06:00
+zbar	0.23.95-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+zenity	4.2.2-1.2	Post-install	dependency	sync repository	2026-09-30T22:41:01+06:00
+zeromq	4.3.5-3.1	Installer package	dependency	sync repository	2026-09-30T21:42:33+06:00
+zimg	3.0.6-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:34+06:00
+zint	2.16.0-2.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+zix	0.8.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+zlib-ng	2.3.3-2	Installer package	dependency	sync repository	2026-09-30T21:33:59+06:00
+zlib-ng-compat	2.3.3-2	Installer package	dependency	sync repository	2026-09-30T21:33:59+06:00
+zoxide	0.10.0-1.1	Post-install	explicit	sync repository	2026-09-30T22:58:01+06:00
+zram-generator	1.2.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:17:19+06:00
+zsh	5.9.2-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:55+06:00
+zsh-autosuggestions	0.7.1-1	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+zsh-completions	0.36.0-1	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+zsh-history-substring-search	1.1.0-2	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+zsh-syntax-highlighting	0.8.0-2	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+zsh-theme-powerlevel10k	1:1.20.18-1	Installer package	dependency	sync repository	2026-09-30T21:42:56+06:00
+zstd	1.5.7-4	Installer package	dependency	sync repository	2026-09-30T21:17:14+06:00
+zvbi	0.2.46-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00
+zxing-cpp	3.1.1-1.1	Installer package	dependency	sync repository	2026-09-30T21:42:35+06:00

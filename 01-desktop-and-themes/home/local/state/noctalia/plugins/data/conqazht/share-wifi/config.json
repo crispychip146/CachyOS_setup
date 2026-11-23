@@ -1,0 +1,7 @@
+{
+  "band": "2.4Ghz",
+  "channel": "6",
+  "maxClients": 8,
+  "ssid": "crispy",
+  "useChannel": true
+}

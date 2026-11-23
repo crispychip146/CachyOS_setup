@@ -1,0 +1,168 @@
+#!/usr/bin/env python3
+
+import re
+import sys
+import tempfile
+import subprocess
+from pathlib import Path
+
+
+def convert_aligned(text: str) -> str:
+    pattern = re.compile(
+        r"\$\$\s*\\begin\{aligned\}(.*?)\\end\{aligned\}\s*\$\$",
+        re.DOTALL,
+    )
+
+    def repl(match):
+        body = match.group(1).strip()
+
+        rows = re.split(r"\\\\", body)
+
+        blocks = []
+
+        for row in rows:
+            row = row.strip()
+
+            if not row:
+                continue
+
+            # aligned often uses & purely for alignment
+            row = row.replace("&", "")
+
+            blocks.append(f"$$\n{row}\n$$")
+
+        return "\n\n".join(blocks)
+
+    return pattern.sub(repl, text)
+
+
+def matrix_to_markdown(body: str, prefix: str = "") -> str:
+    rows = []
+
+    for row in re.split(r"\\\\", body):
+        row = row.strip()
+
+        if not row:
+            continue
+
+        cells = [cell.strip() for cell in row.split("&")]
+        rows.append(cells)
+
+    if not rows:
+        return ""
+
+    width = max(len(row) for row in rows)
+
+    for row in rows:
+        row.extend([""] * (width - len(row)))
+
+    table = []
+
+    if prefix:
+        table.append(prefix.strip())
+        table.append("")
+
+    table.append(
+        "| " + " | ".join(f"${cell}$" for cell in rows[0]) + " |"
+    )
+    table.append(
+        "| " + " | ".join("---" for _ in range(width)) + " |"
+    )
+
+    for row in rows[1:]:
+        table.append(
+            "| " + " | ".join(f"${cell}$" for cell in row) + " |"
+        )
+
+    return "\n".join(table)
+
+
+def convert_pmatrix(text: str) -> str:
+    # Example:
+    #
+    # $$P =
+    # \begin{pmatrix}
+    # 0.5 & 0.5 \\
+    # 0.2 & 0.8
+    # \end{pmatrix}
+    # $$
+
+    pattern = re.compile(
+        r"\$\$\s*(.*?)\\begin\{pmatrix\}(.*?)\\end\{pmatrix\}\s*\$\$",
+        re.DOTALL,
+    )
+
+    def repl(match):
+        prefix = match.group(1).strip()
+        body = match.group(2).strip()
+
+        return matrix_to_markdown(body, prefix)
+
+    text = pattern.sub(repl, text)
+
+    # Also handle a small inline/single-row pmatrix.
+    inline_pattern = re.compile(
+        r"\\begin\{pmatrix\}(.*?)\\end\{pmatrix\}",
+        re.DOTALL,
+    )
+
+    def inline_repl(match):
+        body = match.group(1).strip()
+        rows = re.split(r"\\\\", body)
+
+        # Only convert simple one-row matrices here.
+        if len(rows) == 1:
+            cells = [c.strip() for c in rows[0].split("&")]
+            return "[ " + ", ".join(cells) + " ]"
+
+        return match.group(0)
+
+    return inline_pattern.sub(inline_repl, text)
+
+
+def preprocess(text: str) -> str:
+    text = convert_aligned(text)
+    text = convert_pmatrix(text)
+    return text
+
+
+def main():
+    if len(sys.argv) != 2:
+        print("Usage: leafmd <file.md>")
+        sys.exit(1)
+
+    source = Path(sys.argv[1]).expanduser().resolve()
+
+    if not source.exists():
+        print(f"File not found: {source}")
+        sys.exit(1)
+
+    content = source.read_text(encoding="utf-8")
+    cleaned = preprocess(content)
+
+    temp_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            suffix=".md",
+            prefix=".leafmd-",
+            dir=source.parent,
+            delete=False,
+        ) as tmp:
+            tmp.write(cleaned)
+            temp_path = Path(tmp.name)
+
+        subprocess.run(
+            ["leaf", str(temp_path)],
+            cwd=str(source.parent),
+        )
+
+    finally:
+        if temp_path and temp_path.exists():
+            temp_path.unlink()
+
+
+if __name__ == "__main__":
+    main()

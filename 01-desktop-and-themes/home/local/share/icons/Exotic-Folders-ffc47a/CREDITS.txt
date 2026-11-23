@@ -1,0 +1,5 @@
+Folder SVGs derived from the installed Adwaita icon theme by the GNOME Project.
+https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+Upstream license: CC-BY-SA-3.0 OR LGPL-3.0-only.
+Modified by Exotic wallpaper themes: folder color fills and gradient stops only.
+https://creativecommons.org/licenses/by-sa/3.0/

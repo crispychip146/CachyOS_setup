@@ -1,0 +1,13 @@
+{
+  "colorScheme": "colorblind-friendly dark",
+  "model": "Gemini 3.8 Flash (High)",
+  "trustedWorkspaces": [
+    "/home/crispy146/Project",
+    "/home/crispy146/Project/SpoTUI",
+    "/home/crispy146/Obsidian-Study-Vault",
+    "/home/crispy146/Project/cse309-study-site",
+    "/home/crispy146/Project/CSE309_Compiler_Atlas",
+    "/home/crispy146/Project/hackathon_1/taste-heist",
+    "/home/crispy146"
+  ]
+}

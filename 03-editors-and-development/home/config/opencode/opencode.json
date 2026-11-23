@@ -1,0 +1,33 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "mwapi": {
+      "npm": "@ai-sdk/anthropic",
+      "name": "MWAPI",
+      "options": {
+        "baseURL": "https://api.mwapi.dev/v1"
+      },
+      "models": {
+        "claude-opus-5": {
+          "name": "Claude Opus 5"
+        },
+        "claude-sonnet-5": {
+          "name": "Claude Sonnet 5"
+        },
+        "claude-opus-4-8": {
+          "name": "Claude Opus 4.8"
+        },
+        "claude-sonnet-4-6": {
+          "name": "Claude Sonnet 4.6"
+        },
+        "claude-sonnet-5-5": {
+          "name": "Claude Sonnet 5.5"
+        }
+      }
+    }
+  },
+  "model": "mwapi/claude-opus-5",
+  "plugin": [
+    "superpowers@git+https://github.com/obra/superpowers.git"
+  ]
+}

@@ -1,0 +1,36 @@
+include "./cfg/animation.kdl"
+include "./cfg/autostart.kdl"
+include "./cfg/keybinds.kdl"
+include "./cfg/input.kdl"
+include "./cfg/display.kdl"
+include "./cfg/layout.kdl"
+include "./cfg/rules.kdl"
+include "./cfg/misc.kdl"
+
+
+//focused window
+window-rule{
+	match is-focused=true
+	opacity 0.95
+}
+
+//unfocused window
+window-rule{
+	match is-focused=false
+	opacity 0.90
+}
+
+window-rule{
+  match app-id="Twintaillauncher"
+  default-column-width { proportion 1.0; }
+}
+
+window-rule{
+  match app-id="app.zen_browser.zen"
+  default-column-width { proportion 1.0; }
+}
+
+screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
+
+
+include "noctalia.kdl"

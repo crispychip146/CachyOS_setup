@@ -1,0 +1,25 @@
+org.freedesktop.Platform	freedesktop-sdk-24.08.37	24.08	flathub	user
+org.freedesktop.Platform	freedesktop-sdk-25.08.20	25.08	flathub	system
+org.freedesktop.Platform	freedesktop-sdk-26.08.4	26.08	flathub	system
+org.freedesktop.Platform.GL.default	26.1.8	24.08	flathub	user
+org.freedesktop.Platform.GL.default	26.1.8	24.08extra	flathub	user
+org.freedesktop.Platform.GL.default	26.2.7	25.08	flathub	system
+org.freedesktop.Platform.GL.default	26.2.7	25.08-extra	flathub	system
+org.freedesktop.Platform.GL.default	26.2.5	26.08	flathub	system
+org.freedesktop.Platform.GL.default	26.2.5	26.08-extra	flathub	system
+org.freedesktop.Platform.GL.nvidia-620-70-06		1.4	flathub	system
+org.freedesktop.Platform.GL.nvidia-620-70-06		1.4	flathub	user
+org.freedesktop.Platform.GL.nvidia-620-73-04		1.4	flathub	user
+org.freedesktop.Platform.VAAPI.Intel		24.08	flathub	user
+org.freedesktop.Platform.VAAPI.Intel		25.08	flathub	system
+org.freedesktop.Platform.VAAPI.Intel		26.08	flathub	system
+org.freedesktop.Platform.VAAPI.nvidia		25.08	flathub	system
+org.freedesktop.Platform.VAAPI.nvidia		26.08	flathub	system
+org.freedesktop.Platform.codecs-extra		25.08-extra	flathub	system
+org.freedesktop.Platform.codecs-extra		26.08-extra	flathub	system
+org.freedesktop.Platform.openh264	2.5.1	2.5.1	flathub	user
+org.gnome.Platform		50	flathub	system
+org.gnome.Platform		51	flathub	system
+org.gtk.Gtk3theme.adw-gtk3-dark	6.5	3.22	flathub	system
+org.gtk.Gtk3theme.adw-gtk3-dark	6.5	3.22	flathub	user
+org.kde.Platform		6.11	flathub	system

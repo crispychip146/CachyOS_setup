@@ -1,0 +1,7 @@
+[shell]
+polkit_agent = true
+[bar.default]
+margin_ends = 5
+margin_edge = 5
+
+

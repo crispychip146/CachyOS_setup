@@ -1,0 +1,15 @@
+{
+    "userSettings": {
+    "customThemeSeedsDark": {
+        "background": "#000000",
+        "foregroundOverride": "#fcf6ff",
+        "primary": "#d87cff"
+    },
+    "customThemeSeedsLight": {
+        "background": "#1a1029",
+        "foregroundOverride": "#fcf6ff",
+        "primary": "#d87cff"
+    },
+    "themeMode": "THEME_MODE_INHERIT"
+    }
+}

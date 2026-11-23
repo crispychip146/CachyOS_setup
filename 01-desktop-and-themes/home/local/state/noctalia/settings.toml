@@ -1,0 +1,206 @@
+config_version = 20
+
+[bar.default]
+auto_hide_reserve_space = true
+background_opacity = 0.4999999888241291
+capsule = true
+capsule_opacity = 0.0
+capsule_radius = 5
+center = [ "cat", "clock", "control-center" ]
+concave_edge_corners = false
+end = [
+    "ram",
+    "network_rx",
+    "network_tx",
+    "widget",
+    "tray",
+    "notifications",
+    "clipboard",
+    "battery",
+    "session",
+    "wallhaven"
+]
+layer = "overlay"
+margin_edge = 5
+padding = 5
+radius = 5
+reserve_space = false
+smart_auto_hide = true
+start = [ "launcher", "wallpaper", "workspaces", "bar" ]
+thickness = 39
+
+[control_center]
+hidden_tabs = [ "monitor", "system", "power", "network", "bluetooth", "weather", "calendar", "notifications" ]
+
+[desktop_widgets]
+schema_version = 2
+widget_order = []
+
+    [desktop_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [desktop_widgets.widget]
+
+[dock]
+background_opacity = 0.19999999552965164
+concave_edge_corners = false
+icon_size = 32
+main_axis_padding = 6
+
+[lockscreen]
+transition = [ "disc" ]
+
+[lockscreen_widgets]
+enabled = true
+schema_version = 2
+widget_order = [ "lockscreen-login-box@eDP-1" ]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-1"]
+    box_height = 196.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 898.0
+    output = "eDP-1"
+    placement_height = 1080.0
+    placement_width = 1920.0
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-1".settings]
+        background_color = "surface_container"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_media = true
+        show_session_buttons = true
+        show_unlock_hint = true
+        show_weather = true
+
+[plugin_settings."salemsayed/codexbar-meter"]
+refreshIntervalSec = 120
+
+[plugins]
+auto_update = "all"
+enabled = [ "noctalia/wallhaven", "conqazht/share-wifi", "dotnetrob/cat", "salemsayed/codexbar-meter" ]
+
+[shell]
+avatar_path = "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-4k-wallpaper-uhdpaper.com-205@5@l.jpg"
+corner_radius_scale = 0.5000000074505806
+password_style = "random"
+screen_time_enabled = true
+
+    [shell.greeter_sync]
+    auto_sync = true
+
+    [shell.launcher]
+    categories = false
+    compact = true
+    fetch_exchange_rates = false
+    show_app_origin_indicator = false
+    show_icons = false
+
+    [shell.panel]
+    transparency_mode = "glass"
+
+    [shell.screen_corners]
+    enabled = true
+    size = 5
+
+[theme]
+builtin = "Ayu"
+community_palette = "Oxocarbon"
+custom_palette = "Exotic-Royal-Spectre"
+mode = "dark"
+pure_black_dark = true
+source = "custom"
+wallpaper_scheme = "vibrant"
+
+    [theme.templates]
+    builtin_ids = [
+        "alacritty",
+        "btop",
+        "cava",
+        "emacs",
+        "foot",
+        "gtk3",
+        "gtk4",
+        "ghostty",
+        "helix",
+        "hyprland",
+        "kcolorscheme",
+        "kitty",
+        "labwc",
+        "mango",
+        "niri",
+        "qt",
+        "scroll",
+        "starship",
+        "sway",
+        "umbriel",
+        "wezterm"
+    ]
+    community_ids = [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "zen-browser",
+        "telegram",
+        "neovim",
+        "steam",
+        "fastfetch",
+        "fzf",
+        "yazi"
+    ]
+
+[wallpaper]
+directory = "/home/crispy146/Pictures/Wallpaper/karina"
+transition = [ "disc" ]
+transition_on_startup = true
+
+    [wallpaper.automation]
+    enabled = true
+    interval_seconds = 600
+
+    [wallpaper.default]
+    path = "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg"
+
+    [wallpaper.last]
+    path = "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg"
+
+    [wallpaper.monitors.eDP-1]
+    path = "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg"
+
+[widget.bar]
+type = "salemsayed/codexbar-meter:bar"
+
+[widget.cat]
+type = "dotnetrob/cat:cat"
+
+[widget.launcher]
+glyph = "ikosaedr"
+
+[widget.wallhaven]
+enabled = false
+type = "noctalia/wallhaven:wallhaven"
+
+[widget.wallpaper]
+enabled = false
+
+[widget.widget]
+type = "conqazht/share-wifi:widget"
+
+[widget.workspaces]
+show_labels = false

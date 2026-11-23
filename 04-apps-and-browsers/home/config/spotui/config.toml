@@ -1,0 +1,39 @@
+config_version = 1
+
+[ui]
+start_view = "playlists"
+mouse = false
+ascii_fallback = false
+artwork = "original"
+palette = "terminal"
+
+[player]
+backend = "soloist"
+device_name = "spotui on CachyOS"
+start_on_login = false
+cold_start = "paused"
+smart_shuffle = "preserve_observed"
+api_key ="REENTER_ON_RESTORE"
+
+[visualizer]
+mode = "spectrum"
+max_fps = 30
+capture = "player_only"
+
+[lyrics]
+provider = "local"
+follow = true
+offset_ms = 0
+
+[cache]
+max_mib = 256
+
+[keys.normal]
+q = "detach"
+"?" = "help"
+s = "catalog_search"
+a = "append_queue"
+t = "toggle_tab"
+"/" = "local_filter"
+z = "shuffle_menu"
+v = "cycle_visualizer"

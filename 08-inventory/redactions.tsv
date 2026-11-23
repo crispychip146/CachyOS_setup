@@ -1,0 +1,18 @@
+Source	Removed field or transformation
+/etc/create_ap.conf	PASSPHRASE
+~/.claude.json	kept selected preference sections only
+~/.clixad/config.json	kept selected preference sections only
+~/.config/Antigravity/app_storage.json	kept selected preference sections only
+~/.config/Codex/Default/Preferences	kept selected preference sections only
+~/.config/LM Studio/Preferences	kept selected preference sections only
+~/.config/net.imput.helium/Default/Preferences	kept selected preference sections only
+~/.config/opencode/opencode.json	apiKey
+~/.config/shell-backups/zshrc-20261021-232819	MWAPI_KEY
+~/.config/shell-backups/zshrc.backup	MWAPI_KEY
+~/.config/spotui/config.toml	api_key
+~/.local/share/org.localsend.localsend_app/shared_preferences.json	flutter.ls_security_context, flutter.ls_show_token
+~/.local/state/noctalia/plugins/data/conqazht/share-wifi/config.json	password
+~/.var/app/com.nvidia.geforcenow/.local/state/NVIDIA/GeForceNOW/sharedstorage.json	kept selected preference sections only
+~/.var/app/com.nvidia.geforcenow/.local/state/NVIDIA/GeForceNOW/storage.json	kept selected preference sections only
+~/.var/app/md.obsidian.Obsidian/config/obsidian/Preferences	kept selected preference sections only
+~/.zshrc	MWAPI_KEY

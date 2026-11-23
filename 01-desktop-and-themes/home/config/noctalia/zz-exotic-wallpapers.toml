@@ -1,0 +1,4 @@
+# Curated wallpaper palettes. Managed by noctalia-themes/install.py.
+[hooks]
+started = ["/usr/bin/python3 /home/crispy146/.config/noctalia/exotic-themes/apply.py"]
+wallpaper_changed = ["/usr/bin/python3 /home/crispy146/.config/noctalia/exotic-themes/apply.py"]

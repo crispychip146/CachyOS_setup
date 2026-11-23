@@ -1,0 +1,3 @@
+flathub	Flathub	https://dl.flathub.org/repo/	-	-	-	1	system	Central repository of Flatpak applications	Central repository of Flatpak applications	https://flathub.org/	https://dl.flathub.org/repo/logo.svg
+GeForceNOW	GeForceNOW	https://international.download.nvidia.com/GFNLinux/flatpak/geforcenow_repo	-	-	-	1	user	Repository of GeForceNOW Flatpak application	Repository of GeForceNOW Flatpak application	https://geforcenow.com	-
+flathub	Flathub	https://dl.flathub.org/repo/	-	-	-	1	user	Central repository of Flatpak applications	Central repository of Flatpak applications	https://flathub.org/	https://dl.flathub.org/repo/logo.svg

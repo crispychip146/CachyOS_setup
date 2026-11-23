@@ -1,0 +1,7 @@
+app.twintaillauncher.ttl	Twintail Launcher	2.5.3	stable	flathub	user
+app.zen_browser.zen	Zen	1.24.3b	stable	flathub	system
+com.nvidia.geforcenow	geforcenow		master	GeForceNOW	user
+com.spotify.Client	Spotify	1.2.95.453.g0eeebbed	stable	flathub	system
+md.obsidian.Obsidian	Obsidian	1.15.1	stable	flathub	system
+org.telegram.desktop	Telegram	7.4.4	stable	flathub	system
+org.torproject.torbrowser-launcher	Tor Browser Launcher	0.3.9	stable	flathub	system

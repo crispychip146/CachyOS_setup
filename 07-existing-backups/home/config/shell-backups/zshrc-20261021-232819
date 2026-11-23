@@ -1,0 +1,56 @@
+eval "$(zoxide init zsh)"
+eval "$(starship init zsh)"
+eval "$(atuin init zsh)"
+
+alias ls='eza --icons'
+alias ll='eza -lah --icons --git'
+alias cat='bat'
+alias v='nvim'
+
+function f() {
+    local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+    yazi "$@" --cwd-file="$tmp"
+
+    if cwd="$(cat -- "$tmp")" && [[ -n "$cwd" && "$cwd" != "$PWD" ]]; then
+        builtin cd -- "$cwd"
+    fi
+
+    rm -f -- "$tmp"
+}
+
+if [[ -o interactive ]]; then
+    fastfetch
+fi
+
+# Completion
+autoload -Uz compinit
+compinit
+
+# Extra completions
+fpath=(/usr/share/zsh/site-functions $fpath)
+
+# Autosuggestions
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# Syntax highlighting
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export PATH="$HOME/.local/bin:$PATH"
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/crispy146/.local/bin:$PATH"
+
+# API key
+export MWAPI_KEY="REENTER_ON_RESTORE"
+
+
+# opencode
+export PATH=/home/crispy146/.opencode/bin:$PATH
+
+# Antigravity automode
+alias agy-auto='agy --dangerously-skip-permissions'
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/home/crispy146/.lmstudio/bin"
+# End of LM Studio CLI section
+
