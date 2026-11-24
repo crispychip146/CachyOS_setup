@@ -1,0 +1,498 @@
+{
+  "scope": "80 revised top-level wallpaper palettes",
+  "noctalia_version": "noctalia v5.6.0 (5.6.0-1-dirty)",
+  "revised_palettes": 80,
+  "shell_text_background_pairs_checked": 560,
+  "minimum_text_contrast": 5.4389,
+  "native_palette_loads": 80,
+  "native_niri_template_renders": 80,
+  "isolated_installation_with_matching_folder_icons": 80,
+  "installed_selector_dry_runs": 80,
+  "other_palette_files_preserved": 114,
+  "other_palette_contents_and_mtimes_preserved": true,
+  "wallpaper_mappings_and_palette_names_preserved": true,
+  "no_unmapped_wallpapers": true,
+  "live_activation_confirmed": false,
+  "palettes": [
+    {
+      "wallpaper": "cat-pixel-art-city-scenery-4k-wallpaper-uhdpaper.com-284@5@p.jpg",
+      "palette": "Exotic-Jade-Marigold",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.5827
+    },
+    {
+      "wallpaper": "spiderman-across-the-spider-verse-variants-4k-wallpaper-uhdpaper.com-778@1@k.jpg",
+      "palette": "Exotic-Spiderverse-Prism",
+      "min_text_contrast": 5.8686,
+      "min_accent_contrast": 4.903
+    },
+    {
+      "wallpaper": "spiderman-brand-new-day-4k-wallpaper-uhdpaper.com-832@5@p.jpg",
+      "palette": "Exotic-Web-of-Vermilion",
+      "min_text_contrast": 5.6267,
+      "min_accent_contrast": 4.7277
+    },
+    {
+      "wallpaper": "wallhaven-10q654.jpg",
+      "palette": "Exotic-Emerald-Wisp",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1641
+    },
+    {
+      "wallpaper": "wallhaven-13mk9v.jpg",
+      "palette": "Exotic-Crimson-Horizon",
+      "min_text_contrast": 6.2824,
+      "min_accent_contrast": 5.2698
+    },
+    {
+      "wallpaper": "wallhaven-1krvxg.jpg",
+      "palette": "Exotic-Solar-Dune",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 4.7478
+    },
+    {
+      "wallpaper": "wallhaven-1qoopg.jpg",
+      "palette": "Exotic-Twilight-Acacia",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.2461
+    },
+    {
+      "wallpaper": "wallhaven-2ero7g.jpg",
+      "palette": "Exotic-Celestial-Blood",
+      "min_text_contrast": 5.9208,
+      "min_accent_contrast": 5.0446
+    },
+    {
+      "wallpaper": "wallhaven-2k7mw9.png",
+      "palette": "Exotic-Ultraviolet-Fuel",
+      "min_text_contrast": 5.9391,
+      "min_accent_contrast": 4.9278
+    },
+    {
+      "wallpaper": "wallhaven-3lpymv.png",
+      "palette": "Exotic-Jade-Solstice",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.0408
+    },
+    {
+      "wallpaper": "wallhaven-3q71rv.png",
+      "palette": "Exotic-Vermilion-Pagoda",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.4359
+    },
+    {
+      "wallpaper": "wallhaven-3q9qky.png",
+      "palette": "Exotic-Cobalt-Station",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.239
+    },
+    {
+      "wallpaper": "wallhaven-498e2w.png",
+      "palette": "Exotic-Amethyst-Ember",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.0702
+    },
+    {
+      "wallpaper": "wallhaven-4dp2g4.jpg",
+      "palette": "Exotic-Alpine-Ghost",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.1489
+    },
+    {
+      "wallpaper": "wallhaven-57rd21.jpg",
+      "palette": "Exotic-Laser-Malachite",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.5213
+    },
+    {
+      "wallpaper": "wallhaven-5wr3m7.jpg",
+      "palette": "Exotic-Saturn-Alchemy",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0401
+    },
+    {
+      "wallpaper": "wallhaven-5y3e69.jpg",
+      "palette": "Exotic-Blue-Hour-Pulse",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.7077
+    },
+    {
+      "wallpaper": "wallhaven-5yd6d5.png",
+      "palette": "Exotic-Neon-Tenement",
+      "min_text_contrast": 6.4711,
+      "min_accent_contrast": 4.5273
+    },
+    {
+      "wallpaper": "wallhaven-6kpz67.png",
+      "palette": "Exotic-Sunforge",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.16
+    },
+    {
+      "wallpaper": "wallhaven-6lykzx.png",
+      "palette": "Exotic-Astral-Orchid",
+      "min_text_contrast": 6.1698,
+      "min_accent_contrast": 5.2689
+    },
+    {
+      "wallpaper": "wallhaven-72lej9.png",
+      "palette": "Exotic-Tempest-Treasure",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.4686
+    },
+    {
+      "wallpaper": "wallhaven-7jew29.png",
+      "palette": "Exotic-Bloodmoon-Ronin",
+      "min_text_contrast": 5.6104,
+      "min_accent_contrast": 4.6747
+    },
+    {
+      "wallpaper": "wallhaven-7jl2lv.png",
+      "palette": "Exotic-Earthrise-Ion",
+      "min_text_contrast": 6.1833,
+      "min_accent_contrast": 4.7042
+    },
+    {
+      "wallpaper": "wallhaven-7jlk93.png",
+      "palette": "Exotic-Lunar-Jellyfish",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 4.9954
+    },
+    {
+      "wallpaper": "wallhaven-7pg1m9.jpg",
+      "palette": "Exotic-Celestial-Chrome",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.4394
+    },
+    {
+      "wallpaper": "wallhaven-85m7go.png",
+      "palette": "Exotic-Photon-Whirlpool",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.9749
+    },
+    {
+      "wallpaper": "wallhaven-8g885k.jpg",
+      "palette": "Exotic-Molten-Dusk",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.3422
+    },
+    {
+      "wallpaper": "wallhaven-8g8v11.png",
+      "palette": "Exotic-Carbon-Scarlet",
+      "min_text_contrast": 5.5582,
+      "min_accent_contrast": 4.6511
+    },
+    {
+      "wallpaper": "wallhaven-8ogod1.jpg",
+      "palette": "Exotic-Turquoise-Oracle",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.1351
+    },
+    {
+      "wallpaper": "wallhaven-96w8e8.png",
+      "palette": "Exotic-Supernova-Signal",
+      "min_text_contrast": 6.007,
+      "min_accent_contrast": 4.5832
+    },
+    {
+      "wallpaper": "wallhaven-9ml298.png",
+      "palette": "Exotic-Cloudburst-Nectar",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.6028
+    },
+    {
+      "wallpaper": "wallhaven-9okl9k.png",
+      "palette": "Exotic-Stormglass",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.1769
+    },
+    {
+      "wallpaper": "wallhaven-d6k32g.jpg",
+      "palette": "Exotic-Iris-Reactor",
+      "min_text_contrast": 5.6986,
+      "min_accent_contrast": 4.6563
+    },
+    {
+      "wallpaper": "wallhaven-dpepjo.jpg",
+      "palette": "Exotic-Lotus-Sundown",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1834
+    },
+    {
+      "wallpaper": "wallhaven-dpqjwj.jpg",
+      "palette": "Exotic-Horizon-Ultraviolet",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0655
+    },
+    {
+      "wallpaper": "wallhaven-e76pew.png",
+      "palette": "Exotic-Orbital-Glacier",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.3705
+    },
+    {
+      "wallpaper": "wallhaven-exyw3o.jpg",
+      "palette": "Exotic-Event-Horizon-Gold",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9894
+    },
+    {
+      "wallpaper": "wallhaven-eyw5qw.jpg",
+      "palette": "Exotic-Emberwood",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.359
+    },
+    {
+      "wallpaper": "wallhaven-g75r7d.jpg",
+      "palette": "Exotic-Sky-Leviathan",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0181
+    },
+    {
+      "wallpaper": "wallhaven-gw1dre.png",
+      "palette": "Exotic-Hellgate-Crimson",
+      "min_text_contrast": 5.5298,
+      "min_accent_contrast": 4.7367
+    },
+    {
+      "wallpaper": "wallhaven-gw1xje.png",
+      "palette": "Exotic-Ultramarine-Dream",
+      "min_text_contrast": 5.4389,
+      "min_accent_contrast": 4.5042
+    },
+    {
+      "wallpaper": "wallhaven-gwdrv3.jpg",
+      "palette": "Exotic-Wisteria-Current",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.479
+    },
+    {
+      "wallpaper": "wallhaven-j3qq15.jpg",
+      "palette": "Exotic-Alpine-Sapphire",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1385
+    },
+    {
+      "wallpaper": "wallhaven-jed2rm.jpg",
+      "palette": "Exotic-Sunset-Transmission",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7915
+    },
+    {
+      "wallpaper": "wallhaven-jedz2y.png",
+      "palette": "Exotic-Lunar-Rose",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.8301
+    },
+    {
+      "wallpaper": "wallhaven-k727yd.jpg",
+      "palette": "Exotic-Emerald-Citadel",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.3027
+    },
+    {
+      "wallpaper": "wallhaven-k7v9yq.png",
+      "palette": "Exotic-Magenta-Sol",
+      "min_text_contrast": 5.9894,
+      "min_accent_contrast": 4.897
+    },
+    {
+      "wallpaper": "wallhaven-k8jjxd.jpg",
+      "palette": "Exotic-Cerulean-Drift",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.2627
+    },
+    {
+      "wallpaper": "wallhaven-kw318d.jpg",
+      "palette": "Exotic-Vermilion-Eclipse",
+      "min_text_contrast": 6.0979,
+      "min_accent_contrast": 4.727
+    },
+    {
+      "wallpaper": "wallhaven-kwkg5q.jpg",
+      "palette": "Exotic-Neon-Megalith",
+      "min_text_contrast": 6.3751,
+      "min_accent_contrast": 5.2721
+    },
+    {
+      "wallpaper": "wallhaven-l315vy.png",
+      "palette": "Exotic-Golden-Cumulus",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7128
+    },
+    {
+      "wallpaper": "wallhaven-lyd8xl.png",
+      "palette": "Exotic-Spectrum-Vinyl",
+      "min_text_contrast": 6.0893,
+      "min_accent_contrast": 4.5487
+    },
+    {
+      "wallpaper": "wallhaven-lygokl.png",
+      "palette": "Exotic-Malachite-Temple",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.1366
+    },
+    {
+      "wallpaper": "wallhaven-lygxjl.png",
+      "palette": "Exotic-Ionosphere",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.9093
+    },
+    {
+      "wallpaper": "wallhaven-lyz3wy.jpg",
+      "palette": "Exotic-Scarlet-Sigil",
+      "min_text_contrast": 5.5473,
+      "min_accent_contrast": 4.8739
+    },
+    {
+      "wallpaper": "wallhaven-m3lz2y.jpg",
+      "palette": "Exotic-Hypergreen-Meadow",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0872
+    },
+    {
+      "wallpaper": "wallhaven-mdjrqy.jpg",
+      "palette": "Exotic-Amber-Silence",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.2226
+    },
+    {
+      "wallpaper": "wallhaven-n65epw.png",
+      "palette": "Exotic-Solar-Champagne",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.45
+    },
+    {
+      "wallpaper": "wallhaven-og7m19.jpg",
+      "palette": "Exotic-Vermilion-Portal",
+      "min_text_contrast": 5.782,
+      "min_accent_contrast": 4.8962
+    },
+    {
+      "wallpaper": "wallhaven-ox7e39.jpg",
+      "palette": "Exotic-Desert-Carmine",
+      "min_text_contrast": 5.7715,
+      "min_accent_contrast": 4.7699
+    },
+    {
+      "wallpaper": "wallhaven-q6omvd.jpg",
+      "palette": "Exotic-Verdigris-Gold",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.1858
+    },
+    {
+      "wallpaper": "wallhaven-qz21l7.jpg",
+      "palette": "Exotic-Emerald-Sanctuary",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.6803
+    },
+    {
+      "wallpaper": "wallhaven-rddgwm.jpg",
+      "palette": "Exotic-Cosmic-Reliquary",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.3375
+    },
+    {
+      "wallpaper": "wallhaven-rq6yqm.jpg",
+      "palette": "Exotic-Bubblegum-Cosmos",
+      "min_text_contrast": 5.6635,
+      "min_accent_contrast": 4.566
+    },
+    {
+      "wallpaper": "wallhaven-rqo8km.png",
+      "palette": "Exotic-Bloodletter",
+      "min_text_contrast": 5.5853,
+      "min_accent_contrast": 4.6309
+    },
+    {
+      "wallpaper": "wallhaven-w537lr.png",
+      "palette": "Exotic-Thousand-Eyes",
+      "min_text_contrast": 5.7637,
+      "min_accent_contrast": 4.9893
+    },
+    {
+      "wallpaper": "wallhaven-w53xj6.png",
+      "palette": "Exotic-Dragonspire",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0297
+    },
+    {
+      "wallpaper": "wallhaven-x6128o.jpg",
+      "palette": "Exotic-Cloudrunner",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0003
+    },
+    {
+      "wallpaper": "wallhaven-x8jj9o.png",
+      "palette": "Exotic-Coral-Tempest",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.8015
+    },
+    {
+      "wallpaper": "wallhaven-xe9qkz.png",
+      "palette": "Exotic-Abyssal-Silver",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0026
+    },
+    {
+      "wallpaper": "wallhaven-y8o51x.jpg",
+      "palette": "Exotic-Dune-Supernova",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.4578
+    },
+    {
+      "wallpaper": "wallhaven-ym1m8l.jpg",
+      "palette": "Exotic-Fuchsia-Fuji",
+      "min_text_contrast": 5.7602,
+      "min_accent_contrast": 4.7846
+    },
+    {
+      "wallpaper": "wallhaven-yqkwdk.png",
+      "palette": "Exotic-Violet-Afterglow",
+      "min_text_contrast": 6.0733,
+      "min_accent_contrast": 4.9695
+    },
+    {
+      "wallpaper": "wallhaven-yx5kml.jpg",
+      "palette": "Exotic-Midnight-Totoro",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.4001
+    },
+    {
+      "wallpaper": "wallhaven-zm825o.jpg",
+      "palette": "Exotic-Inverted-Neon",
+      "min_text_contrast": 5.5951,
+      "min_accent_contrast": 4.6436
+    },
+    {
+      "wallpaper": "wallhaven-zpvdzv.jpg",
+      "palette": "Exotic-Cumulus-Chrome",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.4142
+    },
+    {
+      "wallpaper": "wallhaven-zpvvyo.jpg",
+      "palette": "Exotic-Underpass-Electric",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.6684
+    },
+    {
+      "wallpaper": "wallhaven-zygeko.jpg",
+      "palette": "Exotic-Orchid-Avenue",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.572
+    },
+    {
+      "wallpaper": "wallhaven-zywe5j.jpg",
+      "palette": "Exotic-Bronze-Eden",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.5921
+    },
+    {
+      "wallpaper": "wallhaven-zyxvqy.jpg",
+      "palette": "Exotic-Golden-Hour-Riot",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 4.7964
+    }
+  ]
+}

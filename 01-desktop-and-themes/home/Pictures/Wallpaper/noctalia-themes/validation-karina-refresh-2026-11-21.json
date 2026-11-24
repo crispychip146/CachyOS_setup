@@ -1,0 +1,660 @@
+{
+  "scope": "107 revised Karina palettes",
+  "noctalia_version": "noctalia v5.6.0 (5.6.0-1-dirty)",
+  "revised_palettes": 107,
+  "shell_text_background_pairs_checked": 749,
+  "minimum_text_contrast": 5.5017,
+  "native_palette_loads": 107,
+  "native_niri_template_renders": 107,
+  "isolated_installation_with_matching_folder_icons": 107,
+  "installed_selector_dry_runs": 107,
+  "other_palette_files_preserved": 87,
+  "other_palette_contents_and_mtimes_preserved": true,
+  "wallpaper_mappings_and_palette_names_preserved": true,
+  "no_unmapped_wallpapers": true,
+  "live_activation_confirmed": false,
+  "palettes": [
+    {
+      "wallpaper": "karina/01_cream_and_scarlet.png",
+      "palette": "Exotic-Imperial-Vermilion",
+      "min_text_contrast": 5.782,
+      "min_accent_contrast": 4.813
+    },
+    {
+      "wallpaper": "karina/01_gingham_gray.jpg",
+      "palette": "Exotic-Gingham-Ruby",
+      "min_text_contrast": 5.8839,
+      "min_accent_contrast": 4.8819
+    },
+    {
+      "wallpaper": "karina/01_magenta_wall_01.jpg",
+      "palette": "Exotic-Fuchsia-Voltage",
+      "min_text_contrast": 5.5017,
+      "min_accent_contrast": 4.6207
+    },
+    {
+      "wallpaper": "karina/01_white_shirt_charcoal.png",
+      "palette": "Exotic-Ivory-Voltage",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.2281
+    },
+    {
+      "wallpaper": "karina/02_backstage_stripes.jpg",
+      "palette": "Exotic-Backstage-Electrum",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.2549
+    },
+    {
+      "wallpaper": "karina/02_magenta_and_puppy.jpg",
+      "palette": "Exotic-Raspberry-Mischief",
+      "min_text_contrast": 5.8605,
+      "min_accent_contrast": 4.8788
+    },
+    {
+      "wallpaper": "karina/02_monochrome_vocal.png",
+      "palette": "Exotic-Silver-Aria",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9528
+    },
+    {
+      "wallpaper": "karina/02_soft_cream.png",
+      "palette": "Exotic-Saffron-Silk",
+      "min_text_contrast": 6.06,
+      "min_accent_contrast": 4.5288
+    },
+    {
+      "wallpaper": "karina/03_cool_gray.png",
+      "palette": "Exotic-Mercury-Voltage",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.6582
+    },
+    {
+      "wallpaper": "karina/03_noir_portrait_01.jpg",
+      "palette": "Exotic-Garnet-Silhouette",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9478
+    },
+    {
+      "wallpaper": "karina/03_violet_wink.jpg",
+      "palette": "Exotic-Violet-Encore",
+      "min_text_contrast": 5.5311,
+      "min_accent_contrast": 4.7404
+    },
+    {
+      "wallpaper": "karina/04_blue_rain_smile.jpg",
+      "palette": "Exotic-Sapphire-Rain",
+      "min_text_contrast": 6.3168,
+      "min_accent_contrast": 5.1391
+    },
+    {
+      "wallpaper": "karina/04_noir_portrait_02.jpg",
+      "palette": "Exotic-Citrine-Silhouette",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0177
+    },
+    {
+      "wallpaper": "karina/04_rose.png",
+      "palette": "Exotic-Dragonfruit-Velvet",
+      "min_text_contrast": 5.8507,
+      "min_accent_contrast": 4.6761
+    },
+    {
+      "wallpaper": "karina/05_lace_event.jpg",
+      "palette": "Exotic-Veiled-Iris",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.6006
+    },
+    {
+      "wallpaper": "karina/05_midnight_teal.png",
+      "palette": "Exotic-Abyssal-Opal",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.7393
+    },
+    {
+      "wallpaper": "karina/05_white_veil.jpg",
+      "palette": "Exotic-Glacial-Bouquet",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.3932
+    },
+    {
+      "wallpaper": "karina/06_ivory_and_marble_01.jpg",
+      "palette": "Exotic-Aquamarine-Cameo",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.3931
+    },
+    {
+      "wallpaper": "karina/06_lilac_metallic.png",
+      "palette": "Exotic-Chrome-Orchid",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.8003
+    },
+    {
+      "wallpaper": "karina/07_ivory_and_marble_02.jpg",
+      "palette": "Exotic-Marble-Lagoon",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.2332
+    },
+    {
+      "wallpaper": "karina/07_scarlet_charcoal.png",
+      "palette": "Exotic-Scarlet-Nocturne",
+      "min_text_contrast": 5.7492,
+      "min_accent_contrast": 4.8482
+    },
+    {
+      "wallpaper": "karina/07_scarlet_stage.jpg",
+      "palette": "Exotic-Crimson-Crescendo",
+      "min_text_contrast": 5.5353,
+      "min_accent_contrast": 4.5919
+    },
+    {
+      "wallpaper": "karina/08_frosted_lilac.png",
+      "palette": "Exotic-Frostbite-Amethyst",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.5599
+    },
+    {
+      "wallpaper": "karina/08_sunny_overlook.jpg",
+      "palette": "Exotic-Hollywood-Nectar",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0498
+    },
+    {
+      "wallpaper": "karina/09_black_lace_midnight.jpg",
+      "palette": "Exotic-Midnight-Lace-Sapphire",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9789
+    },
+    {
+      "wallpaper": "karina/09_champagne.png",
+      "palette": "Exotic-Gilded-Obsidian",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7404
+    },
+    {
+      "wallpaper": "karina/09_tangerine_editorial.jpg",
+      "palette": "Exotic-Tangerine-Inferno",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.6449
+    },
+    {
+      "wallpaper": "karina/10_ivory_floral.jpg",
+      "palette": "Exotic-Porcelain-Botanica",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7794
+    },
+    {
+      "wallpaper": "karina/10_pearl_gray.png",
+      "palette": "Exotic-Pearl-Venom",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.5846
+    },
+    {
+      "wallpaper": "karina/10_white_lace_night.jpg",
+      "palette": "Exotic-Rainlit-Amber",
+      "min_text_contrast": 6.2606,
+      "min_accent_contrast": 4.5766
+    },
+    {
+      "wallpaper": "karina/11_city_after_dark.jpg",
+      "palette": "Exotic-Taillight-Boulevard",
+      "min_text_contrast": 6.3696,
+      "min_accent_contrast": 5.0139
+    },
+    {
+      "wallpaper": "karina/11_cyan_charcoal.png",
+      "palette": "Exotic-Electric-Lagoon",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.4261
+    },
+    {
+      "wallpaper": "karina/12_green_park.jpg",
+      "palette": "Exotic-Park-Peridot",
+      "min_text_contrast": 6.9098,
+      "min_accent_contrast": 6.0953
+    },
+    {
+      "wallpaper": "karina/13_cobalt_stage.jpg",
+      "palette": "Exotic-Cobalt-Spotlight",
+      "min_text_contrast": 5.8373,
+      "min_accent_contrast": 4.9284
+    },
+    {
+      "wallpaper": "karina/14_leather_and_starlight.jpg",
+      "palette": "Exotic-Stardust-Leather",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0063
+    },
+    {
+      "wallpaper": "karina/15_long_braid_editorial.jpg",
+      "palette": "Exotic-Serpentine-Frost",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.1454
+    },
+    {
+      "wallpaper": "karina/17_rainy_smile.jpg",
+      "palette": "Exotic-Rainfall-Diamonds",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.2933
+    },
+    {
+      "wallpaper": "karina/19_lollapalooza_profile.jpg",
+      "palette": "Exotic-Sapphire-Backbeat",
+      "min_text_contrast": 6.1114,
+      "min_accent_contrast": 4.9145
+    },
+    {
+      "wallpaper": "karina/22_sunlit_sportswear.jpg",
+      "palette": "Exotic-Sunleaf-Flash",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.5819
+    },
+    {
+      "wallpaper": "karina/23_sage_room.jpg",
+      "palette": "Exotic-Sage-Viper",
+      "min_text_contrast": 6.9098,
+      "min_accent_contrast": 9.6929
+    },
+    {
+      "wallpaper": "karina/24_concrete_gray.jpg",
+      "palette": "Exotic-Concrete-Voltage",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.5353
+    },
+    {
+      "wallpaper": "karina/25_boutique_smile.jpg",
+      "palette": "Exotic-Honey-Bouquet",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.3194
+    },
+    {
+      "wallpaper": "karina/26_white_dress_urban.jpg",
+      "palette": "Exotic-Urban-Porcelain",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.4924
+    },
+    {
+      "wallpaper": "karina/27_lavender_manicure.jpg",
+      "palette": "Exotic-Lacquer-Lilac",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9605
+    },
+    {
+      "wallpaper": "karina/28_tree_shade.jpg",
+      "palette": "Exotic-Leafshade-Rose",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9948
+    },
+    {
+      "wallpaper": "karina/29_duvet_evening.jpg",
+      "palette": "Exotic-Pillow-Ember",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.4381
+    },
+    {
+      "wallpaper": "karina/30_winter_seaside.jpg",
+      "palette": "Exotic-Tidal-Cashmere",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1026
+    },
+    {
+      "wallpaper": "karina/31_dragon_plush.jpg",
+      "palette": "Exotic-Night-Fury-Lime",
+      "min_text_contrast": 6.1227,
+      "min_accent_contrast": 4.6436
+    },
+    {
+      "wallpaper": "karina/33_studio_elegance.jpg",
+      "palette": "Exotic-Onyx-Filigree",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.594
+    },
+    {
+      "wallpaper": "karina/35_terrace_daylight.jpg",
+      "palette": "Exotic-Terrace-Citron",
+      "min_text_contrast": 6.9098,
+      "min_accent_contrast": 7.9764
+    },
+    {
+      "wallpaper": "karina/36_cherry_blossom_night.jpg",
+      "palette": "Exotic-Sakura-Lanterns",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0254
+    },
+    {
+      "wallpaper": "karina/37_blossom_motion.jpg",
+      "palette": "Exotic-Blossom-Velocity",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.4047
+    },
+    {
+      "wallpaper": "karina/38_warm_cafe.jpg",
+      "palette": "Exotic-Cognac-Flame",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.3217
+    },
+    {
+      "wallpaper": "karina/39_museum_stone.jpg",
+      "palette": "Exotic-Travertine-Relic",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.3065
+    },
+    {
+      "wallpaper": "karina/40_city_corner.jpg",
+      "palette": "Exotic-Brooklyn-Azure",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.6035
+    },
+    {
+      "wallpaper": "karina/41_pink_under_leaves.jpg",
+      "palette": "Exotic-Roseleaf-Jewel",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.343
+    },
+    {
+      "wallpaper": "karina/43_pink_atrium.jpg",
+      "palette": "Exotic-Atrium-Guava",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.6202
+    },
+    {
+      "wallpaper": "karina/44_wildflower_meadow.jpg",
+      "palette": "Exotic-Meadow-Sorbet",
+      "min_text_contrast": 6.9098,
+      "min_accent_contrast": 4.8922
+    },
+    {
+      "wallpaper": "karina/45_rose_floral_studio.jpg",
+      "palette": "Exotic-Damask-Nectar",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0654
+    },
+    {
+      "wallpaper": "karina/46_pearl_gown.jpg",
+      "palette": "Exotic-Pearl-Prism",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.89
+    },
+    {
+      "wallpaper": "karina/47_black_coat_champagne.jpg",
+      "palette": "Exotic-Champagne-Noir",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.4844
+    },
+    {
+      "wallpaper": "karina/48_garden_olive.jpg",
+      "palette": "Exotic-Azalea-Canopy",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.3125
+    },
+    {
+      "wallpaper": "karina/49_black_lace_flash_01.jpg",
+      "palette": "Exotic-Flash-Garnet",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.6398
+    },
+    {
+      "wallpaper": "karina/50_black_lace_flash_02.jpg",
+      "palette": "Exotic-Nocturne-Opaline",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.8227
+    },
+    {
+      "wallpaper": "karina/Gemini_Generated_Image_379j8f379j8f379j.jpg",
+      "palette": "Exotic-Apricot-Mirage",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.3777
+    },
+    {
+      "wallpaper": "karina/Gemini_Generated_Image_5jz3ao5jz3ao5jz3.jpg",
+      "palette": "Exotic-Black-Swan-Gold",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.924
+    },
+    {
+      "wallpaper": "karina/Gemini_Generated_Image_8dkisc8dkisc8dki.jpg",
+      "palette": "Exotic-Liquid-Chrome",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.441
+    },
+    {
+      "wallpaper": "karina/Gemini_Generated_Image_cmja52cmja52cmja.jpg",
+      "palette": "Exotic-Blue-Siren",
+      "min_text_contrast": 6.4366,
+      "min_accent_contrast": 4.7048
+    },
+    {
+      "wallpaper": "karina/Gemini_Generated_Image_mt0qcbmt0qcbmt0q.jpg",
+      "palette": "Exotic-Ivory-Serpent",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7633
+    },
+    {
+      "wallpaper": "karina/aespa-5120x2880-20344.png",
+      "palette": "Exotic-Ros-Venom",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.4566
+    },
+    {
+      "wallpaper": "karina/aespa-5120x2880-20346.png",
+      "palette": "Exotic-Violet-Assassin",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.8701
+    },
+    {
+      "wallpaper": "karina/aespa-karina-armageddon-unknown-4k-wallpaper-uhdpaper.com-529@0@j.jpg",
+      "palette": "Exotic-Petrol-Acid",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.8201
+    },
+    {
+      "wallpaper": "karina/aespa-karina-esquire-4k-wallpaper-uhdpaper.com-290@5@n.jpg",
+      "palette": "Exotic-Molten-Tangerine",
+      "min_text_contrast": 5.8857,
+      "min_accent_contrast": 4.5893
+    },
+    {
+      "wallpaper": "karina/aespa-s-karina-dirty-work-mv-shoot-wallpaper-3440x1440_15.jpg",
+      "palette": "Exotic-Diamond-Afterdark",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.0992
+    },
+    {
+      "wallpaper": "karina/gorgeous-karina-from-aespa-girls-album-photoshoot-wallpaper-3440x1440_15.jpg",
+      "palette": "Exotic-Eclipse-Relic",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.818
+    },
+    {
+      "wallpaper": "karina/karina-aespa-4k-wallpaper-uhdpaper.com-205@5@l.jpg",
+      "palette": "Exotic-Porcelain-Voltage",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.9773
+    },
+    {
+      "wallpaper": "karina/karina-aespa-4k-wallpaper-uhdpaper.com-212@5@l.jpg",
+      "palette": "Exotic-Royal-Blood",
+      "min_text_contrast": 5.6487,
+      "min_accent_contrast": 4.6912
+    },
+    {
+      "wallpaper": "karina/karina-aespa-4k-wallpaper-uhdpaper.com-648@5@g.jpg",
+      "palette": "Exotic-Rose-Quartz-Bite",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.1606
+    },
+    {
+      "wallpaper": "karina/karina-aespa-7680x4320-28646.png",
+      "palette": "Exotic-Monochrome-Poison",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1246
+    },
+    {
+      "wallpaper": "karina/karina-aespa-8k-wallpaper-uhdpaper.com-210@5@l.jpg",
+      "palette": "Exotic-Midnight-Regalia",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.9561
+    },
+    {
+      "wallpaper": "karina/karina-aespa-armageddon-4k-wallpaper-uhdpaper.com-471@0@j.jpg",
+      "palette": "Exotic-Sapphire-Static",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.6074
+    },
+    {
+      "wallpaper": "karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-890@3@a.jpg",
+      "palette": "Exotic-Plasma-Halo",
+      "min_text_contrast": 5.6635,
+      "min_accent_contrast": 4.6639
+    },
+    {
+      "wallpaper": "karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-892@3@a.jpg",
+      "palette": "Exotic-Hologram-Kiss",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.8278
+    },
+    {
+      "wallpaper": "karina/karina-aespa-chanel-4k-wallpaper-uhdpaper.com-902@5@r.jpg",
+      "palette": "Exotic-Champagne-Cobra",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.9289
+    },
+    {
+      "wallpaper": "karina/karina-aespa-concert-4k-wallpaper-uhdpaper.com-9@5@t.jpg",
+      "palette": "Exotic-Ultraviolet-Encore",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0406
+    },
+    {
+      "wallpaper": "karina/karina-aespa-dirty-work-mv-4k-wallpaper-uhdpaper.com-570@5@g.jpg",
+      "palette": "Exotic-Icewire",
+      "min_text_contrast": 6.9098,
+      "min_accent_contrast": 7.2175
+    },
+    {
+      "wallpaper": "karina/karina-aespa-drama-the-giant-4k-wallpaper-uhdpaper.com-640@1@m.jpg",
+      "palette": "Exotic-Arctic-Venom",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 4.735
+    },
+    {
+      "wallpaper": "karina/karina-aespa-hot-mess-4k-wallpaper-uhdpaper.com-115@0@k.jpg",
+      "palette": "Exotic-Bubblegum-Cyclone",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.3867
+    },
+    {
+      "wallpaper": "karina/karina-aespa-kiss-n-tell-mv-image-1-4k-wallpaper-uhdpaper.com-738@5@q.jpg",
+      "palette": "Exotic-Firework-Fever",
+      "min_text_contrast": 5.6285,
+      "min_accent_contrast": 4.6799
+    },
+    {
+      "wallpaper": "karina/karina-aespa-marie-claire-4k-wallpaper-uhdpaper.com-299@5@n.jpg",
+      "palette": "Exotic-Azure-Candy",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.1191
+    },
+    {
+      "wallpaper": "karina/karina-aespa-photoshoot-4k-wallpaper-uhdpaper.com-222@5@l.jpg",
+      "palette": "Exotic-Garnet-Smoke",
+      "min_text_contrast": 6.4527,
+      "min_accent_contrast": 5.2111
+    },
+    {
+      "wallpaper": "karina/karina-aespa-switchblade-4k-wallpaper-uhdpaper.com-233@5@r.jpg",
+      "palette": "Exotic-Switchblade-Rouge",
+      "min_text_contrast": 5.7792,
+      "min_accent_contrast": 4.9415
+    },
+    {
+      "wallpaper": "karina/karina-aespa-wda-mv-4k-wallpaper-uhdpaper.com-687@5@o.jpg",
+      "palette": "Exotic-Radioactive-Muse",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7798
+    },
+    {
+      "wallpaper": "karina/karina-aespa-whiplash-unstoppable-4k-wallpaper-uhdpaper.com-342@2@b.jpg",
+      "palette": "Exotic-Ruby-Visor",
+      "min_text_contrast": 5.9512,
+      "min_accent_contrast": 5.0717
+    },
+    {
+      "wallpaper": "karina/karina-aespa-whiplash-unstoppable-8k-wallpaper-uhdpaper.com-341@2@b.jpg",
+      "palette": "Exotic-Deepwater-Orchid",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 4.9467
+    },
+    {
+      "wallpaper": "karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg",
+      "palette": "Exotic-Royal-Spectre",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0492
+    },
+    {
+      "wallpaper": "karina/karina-from-aespa-armageddon-album-my-power-ver-shoot-wallpaper-3440x1440_15.jpg",
+      "palette": "Exotic-Platinum-Venom",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.9663
+    },
+    {
+      "wallpaper": "karina/karina-photoshoot-aespa-4k-wallpaper-uhdpaper.com-216@5@l.jpg",
+      "palette": "Exotic-Steel-Dahlia",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.0458
+    },
+    {
+      "wallpaper": "karina/karina-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper.com-258@2@b.jpg",
+      "palette": "Exotic-Acid-Couture",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 7.0097
+    },
+    {
+      "wallpaper": "karina/original_subject_wallpaper_4k.png",
+      "palette": "Exotic-Obsidian-Orchid",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7655
+    },
+    {
+      "wallpaper": "karina/twice-mina-scientist-formula-of-love-full-of-love-4k-wallpaper-uhdpaper.com-306@1@f.jpg",
+      "palette": "Exotic-Mint-Condition",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 9.2367
+    },
+    {
+      "wallpaper": "karina/twice-misamo-sana-opening-trailer-sana-4k-wallpaper-uhdpaper.com-847@1@j.jpg",
+      "palette": "Exotic-Ice-Queen-Sapphire",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.7291
+    },
+    {
+      "wallpaper": "karina/wallhaven-2ymqog.jpg",
+      "palette": "Exotic-Cyber-Aqua",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 8.1062
+    },
+    {
+      "wallpaper": "karina/wallhaven-7jx8k9.jpg",
+      "palette": "Exotic-Cherry-Detonation",
+      "min_text_contrast": 5.6713,
+      "min_accent_contrast": 4.7726
+    },
+    {
+      "wallpaper": "karina/wallhaven-9o9l7w.jpg",
+      "palette": "Exotic-Lilac-Hyperpop",
+      "min_text_contrast": 6.6408,
+      "min_accent_contrast": 5.3286
+    },
+    {
+      "wallpaper": "karina/wallhaven-mloj61.jpg",
+      "palette": "Exotic-Jade-Heart",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 5.4121
+    },
+    {
+      "wallpaper": "karina/wallhaven-yx2397.png",
+      "palette": "Exotic-Peach-Garden",
+      "min_text_contrast": 6.6471,
+      "min_accent_contrast": 6.8999
+    }
+  ]
+}

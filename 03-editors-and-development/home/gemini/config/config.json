@@ -2,13 +2,13 @@
   "userSettings": {
     "customThemeSeedsDark": {
       "background": "#000000",
-      "foregroundOverride": "#fcf6ff",
-      "primary": "#d87cff"
+      "foregroundOverride": "#fffdf8",
+      "primary": "#ffe09b"
     },
     "customThemeSeedsLight": {
-      "background": "#1a1029",
-      "foregroundOverride": "#fcf6ff",
-      "primary": "#d87cff"
+      "background": "#0c111b",
+      "foregroundOverride": "#fffdf8",
+      "primary": "#ffe09b"
     },
     "permissionGrantsV2Migrated": true,
     "remoteControlHostname": "crispychip-misty-corona",

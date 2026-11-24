@@ -41,7 +41,7 @@ if status is-interactive
     if command -q starship
         starship init fish | source
     end
-    if command -q fastfetch
-        fastfetch
-    end
+    #if command -q fastfetch
+    #    fastfetch
+    #end
 end

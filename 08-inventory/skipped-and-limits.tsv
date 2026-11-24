@@ -42,4 +42,3 @@ Source	Reason
 ~/.var/app/app.zen_browser.zen/.zen	Browser history, profile databases, sessions and extensions; preference files copied
 ~/.var/app/com.spotify.Client/config/spotify/Users	Account-scoped Spotify preferences and storage
 ~/.var/app/org.telegram.desktop/data/TelegramDesktop/tdata	Telegram account/session storage; custom shortcuts copied separately
-~/Pictures/Wallpaper	Wallpaper media library; referenced paths are listed separately

@@ -3,8 +3,8 @@
   "logo": {
     "type": "none",
     "color": {
-      "1": "#d863ff",
-      "2": "#ffe563"
+      "1": "#ffe063",
+      "2": "#f3e563"
     }
   },
   "display": {
@@ -13,13 +13,13 @@
       "width": 15
     },
     "color": {
-      "keys": "#d87cff",
-      "title": "#ffe5ae"
+      "keys": "#ffe09b",
+      "title": "#f3e5ca"
     },
     "percent": {
       "color": {
-        "green": "#c2a7ff",
-        "yellow": "#d980ff",
+        "green": "#8ba9e4",
+        "yellow": "#ffd780",
         "red": "#ff5c78"
       }
     }

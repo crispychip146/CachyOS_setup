@@ -14,7 +14,6 @@ c-ares	1.34.9-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:05+06
 cabextract	1.11-3.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
 cachyos-gaming-meta	1:1.0.0-9	Post-install	explicit	sync repository	2026-09-30T22:41:04+06:00
 cblas	3.12.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:41:04+06:00
-chatgpt-bin	26.1117.41037-1	Post-install	explicit	sync repository	2026-11-21T19:19:32+06:00
 cjson	1.7.19-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
 clang-libs	23.1.5-2	Post-install	dependency	sync repository	2026-10-21T23:17:46+06:00
 clucene	2.3.3.4-17.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
@@ -45,6 +44,7 @@ hostapd	2.12-3.1	Post-install	dependency	sync repository	2026-10-03T02:56:19+06:
 hunspell	1.7.6-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 hyphen	2.8.10-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
 ijs	0.35-7.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+jasper	4.2.9-1.1	Post-install	dependency	sync repository	2026-10-01T01:18:21+0600
 jbig2dec	0.20-2.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
 kaccounts-integration	26.08.3-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 karchive	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:54+06:00
@@ -137,6 +137,7 @@ libatomic_ops	7.8.2-2.1	Post-install	dependency	sync repository	2026-10-09T23:34
 libavif	1.4.2-1.1	Post-install	dependency	sync repository	2026-09-30T22:41:02+06:00
 libayatana-appindicator	0.6.1-1.1	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
 libayatana-indicator	0.9.5-1.1	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
+libcbor	0.14.0-1.1	Post-install	dependency	sync repository	2026-11-24T00:51:19+0600
 libcdr	0.1.9-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libcmis	0.6.3-2.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libdbusmenu-glib	18.10.20180917-2	Post-install	dependency	sync repository	2026-10-02T19:57:45+06:00
@@ -145,6 +146,7 @@ libe-book	0.1.4-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+
 libepubgen	0.1.2-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libetonyek	0.1.13-3.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libexttextcat	3.4.9-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+libfido2	1.17.0-2.1	Post-install	dependency	sync repository	2026-11-24T00:51:19+0600
 libfreehand	0.1.4-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libheif	1.23.7-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
 libidn	1.44-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
@@ -157,6 +159,7 @@ libmalcontent	0.14.0-4	Post-install	dependency	sync repository	2026-09-30T22:08:
 libmediainfo	26.10-1.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
 libmicrohttpd	1.0.10-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
 libmms	0.6.4-6.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+libmng	2.0.3-4.1	Post-install	dependency	sync repository	2026-10-01T01:18:21+0600
 libmspub	0.1.6-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libmwaw	0.3.23-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 libnumbertext	1.0.11-3.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
@@ -183,7 +186,6 @@ libzen	0.4.41-3.1	Post-install	dependency	sync repository	2026-10-07T13:52:29+06
 libzmf	0.0.2-20.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 linux-wifi-hotspot	5.0.0-1	Post-install	explicit	foreign/local	2026-10-03T03:04:36+06:00
 llvm-lit	23.1.5-2	Post-install	dependency	sync repository	2026-10-18T01:00:14+06:00
-lmstudio-bin	0.4.25-1	Post-install	explicit	foreign/local	2026-10-04T01:09:01+06:00
 localsend-bin	1.18.2-1	Post-install	explicit	foreign/local	2026-10-02T19:57:56+06:00
 lpsolve	5.5.2.14-1.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 lsof	4.99.7-1.1	Post-install	dependency	sync repository	2026-09-30T22:40:59+06:00
@@ -275,16 +277,19 @@ qt5-translations	5.15.19-1	Post-install	dependency	sync repository	2026-10-16T21
 qt5-wayland	5.15.19+kde+r55-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
 qt5-x11extras	5.15.19-1.1	Post-install	dependency	sync repository	2026-10-16T21:47:21+06:00
 qt6-5compat	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
+qt6-imageformats	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-01T01:18:21+0600
 qt6-multimedia	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 qt6-multimedia-ffmpeg	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 qt6-positioning	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 qt6-shadertools	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 qt6-svg	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-01T01:18:21+06:00
+qt6-wayland	6.12.0-1.1	Post-install	dependency	sync repository	2026-11-24T00:51:19+0600
 qt6-webchannel	6.12.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 qt6-webengine	6.140.0-1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 rasqal	1:0.9.33-9.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
 re2	2:2025.11.05-6.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:00
 redland	1:1.0.17-10.1	Post-install	dependency	sync repository	2026-10-09T23:34:26+06:00
+rnnoise	1:0.2-1.1	Post-install	dependency	sync repository	2026-11-24T00:51:19+0600
 rtkit	0.14-2.1	Post-install	dependency	sync repository	2026-10-19T12:09:39+06:00
 rustup	1.29.3-1	Post-install	explicit	sync repository	2026-10-01T01:42:13+06:00
 semver	7.8.6-1	Post-install	dependency	sync repository	2026-10-03T11:42:15+06:00
@@ -297,7 +302,9 @@ solid	6.32.0-1.1	Post-install	dependency	sync repository	2026-10-27T10:23:56+06:
 starship	1.27.0-1	Post-install	explicit	sync repository	2026-09-30T23:01:06+06:00
 steam	1.0.0.87-3	Post-install	explicit	sync repository	2026-09-30T22:41:06+06:00
 steam-devices	1.0.0.87-3	Post-install	dependency	sync repository	2026-09-30T22:41:06+06:00
+telegram-desktop	7.4.4-2.1	Post-install	explicit	sync repository	2026-11-24T00:51:19+0600
 tinyxml2	11.0.0-2	Post-install	dependency	sync repository	2026-10-07T13:52:29+06:00
+tlottie	1.0.6-1.1	Post-install	dependency	sync repository	2026-11-24T00:51:19+0600
 tree-sitter	0.26.9-1.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
 tree-sitter-c	0.24.1-2.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00
 tree-sitter-lua	0.5.0-3.1	Post-install	dependency	sync repository	2026-09-30T22:03:08+06:00

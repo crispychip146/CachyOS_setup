@@ -1,0 +1,12 @@
+{
+  "wallpapers": 138,
+  "native_palette_loads": 138,
+  "native_niri_template_renders": 138,
+  "minimum_text_contrast": 5.44,
+  "integration_cases": [
+    "138 mappings: absolute paths, filenames, file URIs; unknown wallpaper skipped",
+    "current-settings: install, repeat install, preserve unrelated settings, uninstall",
+    "existing-hooks: install, repeat install, preserve unrelated settings, uninstall",
+    "Real hook with mocked IPC: event selects expected palette, repeated event skips redundant switch"
+  ]
+}

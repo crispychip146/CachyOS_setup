@@ -185,8 +185,8 @@ Other buffer overrides still take precedence. `:ConformInfo` shows tools and log
 LazyVim runs Conform once, with LSP fallback. Existing `.editorconfig`,
 `.prettierrc`, `pyproject.toml` and similar project settings supply style rules.
 Without those settings, tools use their defaults. Python indentation defaults to
-four spaces; other files default to two unless overridden. Saving is explicit;
-there is no focus-loss autosave or blanket whitespace-stripping hook.
+four spaces, and other files default to two unless overridden. Named, writable
+file buffers save one second after the last edit.
 
 Prettier uses Conform's temporary-file mode because stdin formatting returned
 empty output with this machine's Neovim/Node combination. Conform removes the

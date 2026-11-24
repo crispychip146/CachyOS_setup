@@ -1,46 +1,46 @@
 [colors]
 ansi = [
-    "#2f1c41",
+    "#272829",
     "#ff5c78",
     "#7ee85b",
-    "#ffe5ae",
-    "#69a5ff",
-    "#d87cff",
+    "#ffe09b",
+    "#8ba9e4",
+    "#d879ff",
     "#43e2d2",
-    "#c4bcca",
+    "#c2c2c1",
 ]
 background = "#000000"
 brights = [
-    "#8c5da4",
+    "#8a7d5e",
     "#ff768e",
     "#93ec75",
-    "#ffe9bb",
-    "#81b3ff",
-    "#de91ff",
+    "#ffe5ab",
+    "#9eb7e8",
+    "#de8eff",
     "#61e7d9",
-    "#fcf6ff",
+    "#fffdf8",
 ]
-compose_cursor = "#d87cff"
-cursor_bg = "#d87cff"
-cursor_border = "#d87cff"
+compose_cursor = "#ffe09b"
+cursor_bg = "#ffe09b"
+cursor_border = "#ffe09b"
 cursor_fg = "#000000"
-foreground = "#fcf6ff"
-scrollbar_thumb = "#ffe5ae"
-selection_bg = "#ffe5ae"
+foreground = "#fffdf8"
+scrollbar_thumb = "#f3e5ca"
+selection_bg = "#f3e5ca"
 selection_fg = "#080a10"
-split = "#8c5da4"
-visual_bell = "#2f1c41"
+split = "#8a7d5e"
+visual_bell = "#272829"
 
 [colors.indexed]
-16 = "#ffe5ae"
-17 = "#d87cff"
+16 = "#f3e5ca"
+17 = "#ffe09b"
 
 [colors.tab_bar]
 background = "#000000"
-inactive_tab_edge = "#ffe5ae"
+inactive_tab_edge = "#f3e5ca"
 
 [colors.tab_bar.active_tab]
-bg_color = "#d87cff"
+bg_color = "#ffe09b"
 fg_color = "#080a10"
 intensity = "Normal"
 italic = false
@@ -49,7 +49,7 @@ underline = "None"
 
 [colors.tab_bar.inactive_tab]
 bg_color = "#000000"
-fg_color = "#fcf6ff"
+fg_color = "#fffdf8"
 intensity = "Normal"
 italic = false
 strikethrough = false
@@ -57,23 +57,23 @@ underline = "None"
 
 [colors.tab_bar.inactive_tab_hover]
 bg_color = "#000000"
-fg_color = "#fcf6ff"
+fg_color = "#fffdf8"
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab]
-bg_color = "#ffe5ae"
-fg_color = "#fcf6ff"
+bg_color = "#f3e5ca"
+fg_color = "#fffdf8"
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab_hover]
-bg_color = "#8c5da4"
-fg_color = "#fcf6ff"
+bg_color = "#8a7d5e"
+fg_color = "#fffdf8"
 intensity = "Normal"
 italic = false
 strikethrough = false

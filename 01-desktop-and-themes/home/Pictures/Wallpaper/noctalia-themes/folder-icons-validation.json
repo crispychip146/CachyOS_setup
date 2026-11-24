@@ -1,0 +1,14 @@
+{
+  "palettes": 138,
+  "unique_icon_themes": 138,
+  "svg_files_valid": 2208,
+  "gtk_lookup_checks": 4140,
+  "inherited_nonfolder_icons_checked": 138,
+  "integration_checks": [
+    "install and repeat install preserve existing files and hooks",
+    "wallpaper events switch both Noctalia palette and matching icon theme",
+    "repeat wallpaper event avoids redundant GSettings changes",
+    "icon theme restoration and uninstall preserve unrelated files",
+    "fresh install creates 138 icon themes; uninstall removes all generated theme directories"
+  ]
+}

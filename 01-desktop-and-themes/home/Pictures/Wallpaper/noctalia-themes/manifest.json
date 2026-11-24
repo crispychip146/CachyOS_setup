@@ -1,0 +1,976 @@
+{
+  "format": 1,
+  "wallpaper_root": "/home/crispy146/Pictures/Wallpaper",
+  "wallpapers": {
+    "karina/01_cream_and_scarlet.png": {
+      "palette": "Exotic-Imperial-Vermilion",
+      "name": "Imperial Vermilion",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/01_cream_and_scarlet.png"
+    },
+    "karina/02_soft_cream.png": {
+      "palette": "Exotic-Saffron-Silk",
+      "name": "Saffron Silk",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/02_soft_cream.png"
+    },
+    "karina/03_cool_gray.png": {
+      "palette": "Exotic-Mercury-Voltage",
+      "name": "Mercury Voltage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/03_cool_gray.png"
+    },
+    "karina/04_rose.png": {
+      "palette": "Exotic-Dragonfruit-Velvet",
+      "name": "Dragonfruit Velvet",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/04_rose.png"
+    },
+    "karina/05_midnight_teal.png": {
+      "palette": "Exotic-Abyssal-Opal",
+      "name": "Abyssal Opal",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/05_midnight_teal.png"
+    },
+    "karina/06_lilac_metallic.png": {
+      "palette": "Exotic-Chrome-Orchid",
+      "name": "Chrome Orchid",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/06_lilac_metallic.png"
+    },
+    "karina/07_scarlet_charcoal.png": {
+      "palette": "Exotic-Scarlet-Nocturne",
+      "name": "Scarlet Nocturne",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/07_scarlet_charcoal.png"
+    },
+    "karina/08_frosted_lilac.png": {
+      "palette": "Exotic-Frostbite-Amethyst",
+      "name": "Frostbite Amethyst",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/08_frosted_lilac.png"
+    },
+    "karina/09_champagne.png": {
+      "palette": "Exotic-Gilded-Obsidian",
+      "name": "Gilded Obsidian",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/09_champagne.png"
+    },
+    "karina/10_pearl_gray.png": {
+      "palette": "Exotic-Pearl-Venom",
+      "name": "Pearl Venom",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/10_pearl_gray.png"
+    },
+    "karina/11_cyan_charcoal.png": {
+      "palette": "Exotic-Electric-Lagoon",
+      "name": "Electric Lagoon",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/11_cyan_charcoal.png"
+    },
+    "12_electric_blue.png": {
+      "palette": "Exotic-Cobalt-Inferno",
+      "name": "Cobalt Inferno",
+      "path": "/home/crispy146/Pictures/Wallpaper/12_electric_blue.png"
+    },
+    "karina/Gemini_Generated_Image_379j8f379j8f379j.jpg": {
+      "palette": "Exotic-Apricot-Mirage",
+      "name": "Apricot Mirage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/Gemini_Generated_Image_379j8f379j8f379j.jpg"
+    },
+    "karina/Gemini_Generated_Image_5jz3ao5jz3ao5jz3.jpg": {
+      "palette": "Exotic-Black-Swan-Gold",
+      "name": "Black Swan Gold",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/Gemini_Generated_Image_5jz3ao5jz3ao5jz3.jpg"
+    },
+    "karina/Gemini_Generated_Image_8dkisc8dkisc8dki.jpg": {
+      "palette": "Exotic-Liquid-Chrome",
+      "name": "Liquid Chrome",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/Gemini_Generated_Image_8dkisc8dkisc8dki.jpg"
+    },
+    "karina/Gemini_Generated_Image_cmja52cmja52cmja.jpg": {
+      "palette": "Exotic-Blue-Siren",
+      "name": "Blue Siren",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/Gemini_Generated_Image_cmja52cmja52cmja.jpg"
+    },
+    "karina/Gemini_Generated_Image_mt0qcbmt0qcbmt0q.jpg": {
+      "palette": "Exotic-Ivory-Serpent",
+      "name": "Ivory Serpent",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/Gemini_Generated_Image_mt0qcbmt0qcbmt0q.jpg"
+    },
+    "karina/aespa-5120x2880-20344.png": {
+      "palette": "Exotic-Ros-Venom",
+      "name": "Ros\u00e9 Venom",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/aespa-5120x2880-20344.png"
+    },
+    "karina/aespa-5120x2880-20346.png": {
+      "palette": "Exotic-Violet-Assassin",
+      "name": "Violet Assassin",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/aespa-5120x2880-20346.png"
+    },
+    "karina/aespa-karina-armageddon-unknown-4k-wallpaper-uhdpaper.com-529@0@j.jpg": {
+      "palette": "Exotic-Petrol-Acid",
+      "name": "Petrol Acid",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/aespa-karina-armageddon-unknown-4k-wallpaper-uhdpaper.com-529@0@j.jpg"
+    },
+    "karina/aespa-karina-esquire-4k-wallpaper-uhdpaper.com-290@5@n.jpg": {
+      "palette": "Exotic-Molten-Tangerine",
+      "name": "Molten Tangerine",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/aespa-karina-esquire-4k-wallpaper-uhdpaper.com-290@5@n.jpg"
+    },
+    "karina/aespa-s-karina-dirty-work-mv-shoot-wallpaper-3440x1440_15.jpg": {
+      "palette": "Exotic-Diamond-Afterdark",
+      "name": "Diamond Afterdark",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/aespa-s-karina-dirty-work-mv-shoot-wallpaper-3440x1440_15.jpg"
+    },
+    "cat-pixel-art-city-scenery-4k-wallpaper-uhdpaper.com-284@5@p.jpg": {
+      "palette": "Exotic-Jade-Marigold",
+      "name": "Jade Marigold",
+      "path": "/home/crispy146/Pictures/Wallpaper/cat-pixel-art-city-scenery-4k-wallpaper-uhdpaper.com-284@5@p.jpg"
+    },
+    "karina/gorgeous-karina-from-aespa-girls-album-photoshoot-wallpaper-3440x1440_15.jpg": {
+      "palette": "Exotic-Eclipse-Relic",
+      "name": "Eclipse Relic",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/gorgeous-karina-from-aespa-girls-album-photoshoot-wallpaper-3440x1440_15.jpg"
+    },
+    "karina/karina-aespa-4k-wallpaper-uhdpaper.com-205@5@l.jpg": {
+      "palette": "Exotic-Porcelain-Voltage",
+      "name": "Porcelain Voltage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-4k-wallpaper-uhdpaper.com-205@5@l.jpg"
+    },
+    "karina/karina-aespa-4k-wallpaper-uhdpaper.com-212@5@l.jpg": {
+      "palette": "Exotic-Royal-Blood",
+      "name": "Royal Blood",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-4k-wallpaper-uhdpaper.com-212@5@l.jpg"
+    },
+    "karina/karina-aespa-4k-wallpaper-uhdpaper.com-648@5@g.jpg": {
+      "palette": "Exotic-Rose-Quartz-Bite",
+      "name": "Rose Quartz Bite",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-4k-wallpaper-uhdpaper.com-648@5@g.jpg"
+    },
+    "karina/karina-aespa-7680x4320-28646.png": {
+      "palette": "Exotic-Monochrome-Poison",
+      "name": "Monochrome Poison",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-7680x4320-28646.png"
+    },
+    "karina/karina-aespa-8k-wallpaper-uhdpaper.com-210@5@l.jpg": {
+      "palette": "Exotic-Midnight-Regalia",
+      "name": "Midnight Regalia",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-8k-wallpaper-uhdpaper.com-210@5@l.jpg"
+    },
+    "karina/karina-aespa-armageddon-4k-wallpaper-uhdpaper.com-471@0@j.jpg": {
+      "palette": "Exotic-Sapphire-Static",
+      "name": "Sapphire Static",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-armageddon-4k-wallpaper-uhdpaper.com-471@0@j.jpg"
+    },
+    "karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-890@3@a.jpg": {
+      "palette": "Exotic-Plasma-Halo",
+      "name": "Plasma Halo",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-890@3@a.jpg"
+    },
+    "karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-892@3@a.jpg": {
+      "palette": "Exotic-Hologram-Kiss",
+      "name": "Hologram Kiss",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-armageddon-8k-wallpaper-uhdpaper.com-892@3@a.jpg"
+    },
+    "karina/karina-aespa-chanel-4k-wallpaper-uhdpaper.com-902@5@r.jpg": {
+      "palette": "Exotic-Champagne-Cobra",
+      "name": "Champagne Cobra",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-chanel-4k-wallpaper-uhdpaper.com-902@5@r.jpg"
+    },
+    "karina/karina-aespa-concert-4k-wallpaper-uhdpaper.com-9@5@t.jpg": {
+      "palette": "Exotic-Ultraviolet-Encore",
+      "name": "Ultraviolet Encore",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-concert-4k-wallpaper-uhdpaper.com-9@5@t.jpg"
+    },
+    "karina/karina-aespa-dirty-work-mv-4k-wallpaper-uhdpaper.com-570@5@g.jpg": {
+      "palette": "Exotic-Icewire",
+      "name": "Icewire",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-dirty-work-mv-4k-wallpaper-uhdpaper.com-570@5@g.jpg"
+    },
+    "karina/karina-aespa-drama-the-giant-4k-wallpaper-uhdpaper.com-640@1@m.jpg": {
+      "palette": "Exotic-Arctic-Venom",
+      "name": "Arctic Venom",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-drama-the-giant-4k-wallpaper-uhdpaper.com-640@1@m.jpg"
+    },
+    "karina/karina-aespa-hot-mess-4k-wallpaper-uhdpaper.com-115@0@k.jpg": {
+      "palette": "Exotic-Bubblegum-Cyclone",
+      "name": "Bubblegum Cyclone",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-hot-mess-4k-wallpaper-uhdpaper.com-115@0@k.jpg"
+    },
+    "karina/karina-aespa-kiss-n-tell-mv-image-1-4k-wallpaper-uhdpaper.com-738@5@q.jpg": {
+      "palette": "Exotic-Firework-Fever",
+      "name": "Firework Fever",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-kiss-n-tell-mv-image-1-4k-wallpaper-uhdpaper.com-738@5@q.jpg"
+    },
+    "karina/karina-aespa-marie-claire-4k-wallpaper-uhdpaper.com-299@5@n.jpg": {
+      "palette": "Exotic-Azure-Candy",
+      "name": "Azure Candy",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-marie-claire-4k-wallpaper-uhdpaper.com-299@5@n.jpg"
+    },
+    "karina/karina-aespa-photoshoot-4k-wallpaper-uhdpaper.com-222@5@l.jpg": {
+      "palette": "Exotic-Garnet-Smoke",
+      "name": "Garnet Smoke",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-photoshoot-4k-wallpaper-uhdpaper.com-222@5@l.jpg"
+    },
+    "karina/karina-aespa-switchblade-4k-wallpaper-uhdpaper.com-233@5@r.jpg": {
+      "palette": "Exotic-Switchblade-Rouge",
+      "name": "Switchblade Rouge",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-switchblade-4k-wallpaper-uhdpaper.com-233@5@r.jpg"
+    },
+    "karina/karina-aespa-wda-mv-4k-wallpaper-uhdpaper.com-687@5@o.jpg": {
+      "palette": "Exotic-Radioactive-Muse",
+      "name": "Radioactive Muse",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-wda-mv-4k-wallpaper-uhdpaper.com-687@5@o.jpg"
+    },
+    "karina/karina-aespa-whiplash-unstoppable-4k-wallpaper-uhdpaper.com-342@2@b.jpg": {
+      "palette": "Exotic-Ruby-Visor",
+      "name": "Ruby Visor",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-whiplash-unstoppable-4k-wallpaper-uhdpaper.com-342@2@b.jpg"
+    },
+    "karina/karina-aespa-whiplash-unstoppable-8k-wallpaper-uhdpaper.com-341@2@b.jpg": {
+      "palette": "Exotic-Deepwater-Orchid",
+      "name": "Deepwater Orchid",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-whiplash-unstoppable-8k-wallpaper-uhdpaper.com-341@2@b.jpg"
+    },
+    "karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg": {
+      "palette": "Exotic-Royal-Spectre",
+      "name": "Royal Spectre",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-aespa-white-dress-4k-wallpaper-uhdpaper.com-11@5@t.jpg"
+    },
+    "karina/karina-from-aespa-armageddon-album-my-power-ver-shoot-wallpaper-3440x1440_15.jpg": {
+      "palette": "Exotic-Platinum-Venom",
+      "name": "Platinum Venom",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-from-aespa-armageddon-album-my-power-ver-shoot-wallpaper-3440x1440_15.jpg"
+    },
+    "karina/karina-photoshoot-aespa-4k-wallpaper-uhdpaper.com-216@5@l.jpg": {
+      "palette": "Exotic-Steel-Dahlia",
+      "name": "Steel Dahlia",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-photoshoot-aespa-4k-wallpaper-uhdpaper.com-216@5@l.jpg"
+    },
+    "karina/karina-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper.com-258@2@b.jpg": {
+      "palette": "Exotic-Acid-Couture",
+      "name": "Acid Couture",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/karina-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper.com-258@2@b.jpg"
+    },
+    "spiderman-across-the-spider-verse-variants-4k-wallpaper-uhdpaper.com-778@1@k.jpg": {
+      "palette": "Exotic-Spiderverse-Prism",
+      "name": "Spiderverse Prism",
+      "path": "/home/crispy146/Pictures/Wallpaper/spiderman-across-the-spider-verse-variants-4k-wallpaper-uhdpaper.com-778@1@k.jpg"
+    },
+    "spiderman-brand-new-day-4k-wallpaper-uhdpaper.com-832@5@p.jpg": {
+      "palette": "Exotic-Web-of-Vermilion",
+      "name": "Web of Vermilion",
+      "path": "/home/crispy146/Pictures/Wallpaper/spiderman-brand-new-day-4k-wallpaper-uhdpaper.com-832@5@p.jpg"
+    },
+    "karina/twice-mina-scientist-formula-of-love-full-of-love-4k-wallpaper-uhdpaper.com-306@1@f.jpg": {
+      "palette": "Exotic-Mint-Condition",
+      "name": "Mint Condition",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/twice-mina-scientist-formula-of-love-full-of-love-4k-wallpaper-uhdpaper.com-306@1@f.jpg"
+    },
+    "karina/twice-misamo-sana-opening-trailer-sana-4k-wallpaper-uhdpaper.com-847@1@j.jpg": {
+      "palette": "Exotic-Ice-Queen-Sapphire",
+      "name": "Ice Queen Sapphire",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/twice-misamo-sana-opening-trailer-sana-4k-wallpaper-uhdpaper.com-847@1@j.jpg"
+    },
+    "wallhaven-10q654.jpg": {
+      "palette": "Exotic-Emerald-Wisp",
+      "name": "Emerald Wisp",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-10q654.jpg"
+    },
+    "wallhaven-13mk9v.jpg": {
+      "palette": "Exotic-Crimson-Horizon",
+      "name": "Crimson Horizon",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-13mk9v.jpg"
+    },
+    "wallhaven-1krvxg.jpg": {
+      "palette": "Exotic-Solar-Dune",
+      "name": "Solar Dune",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-1krvxg.jpg"
+    },
+    "wallhaven-1qoopg.jpg": {
+      "palette": "Exotic-Twilight-Acacia",
+      "name": "Twilight Acacia",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-1qoopg.jpg"
+    },
+    "wallhaven-2ero7g.jpg": {
+      "palette": "Exotic-Celestial-Blood",
+      "name": "Celestial Blood",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-2ero7g.jpg"
+    },
+    "wallhaven-2k7mw9.png": {
+      "palette": "Exotic-Ultraviolet-Fuel",
+      "name": "Ultraviolet Fuel",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-2k7mw9.png"
+    },
+    "karina/wallhaven-2ymqog.jpg": {
+      "palette": "Exotic-Cyber-Aqua",
+      "name": "Cyber Aqua",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/wallhaven-2ymqog.jpg"
+    },
+    "wallhaven-3lpymv.png": {
+      "palette": "Exotic-Jade-Solstice",
+      "name": "Jade Solstice",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-3lpymv.png"
+    },
+    "wallhaven-3q71rv.png": {
+      "palette": "Exotic-Vermilion-Pagoda",
+      "name": "Vermilion Pagoda",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-3q71rv.png"
+    },
+    "wallhaven-3q9qky.png": {
+      "palette": "Exotic-Cobalt-Station",
+      "name": "Cobalt Station",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-3q9qky.png"
+    },
+    "wallhaven-498e2w.png": {
+      "palette": "Exotic-Amethyst-Ember",
+      "name": "Amethyst Ember",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-498e2w.png"
+    },
+    "wallhaven-4dp2g4.jpg": {
+      "palette": "Exotic-Alpine-Ghost",
+      "name": "Alpine Ghost",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-4dp2g4.jpg"
+    },
+    "wallhaven-57rd21.jpg": {
+      "palette": "Exotic-Laser-Malachite",
+      "name": "Laser Malachite",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-57rd21.jpg"
+    },
+    "wallhaven-5wr3m7.jpg": {
+      "palette": "Exotic-Saturn-Alchemy",
+      "name": "Saturn Alchemy",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-5wr3m7.jpg"
+    },
+    "wallhaven-5y3e69.jpg": {
+      "palette": "Exotic-Blue-Hour-Pulse",
+      "name": "Blue Hour Pulse",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-5y3e69.jpg"
+    },
+    "wallhaven-5yd6d5.png": {
+      "palette": "Exotic-Neon-Tenement",
+      "name": "Neon Tenement",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-5yd6d5.png"
+    },
+    "wallhaven-6kpz67.png": {
+      "palette": "Exotic-Sunforge",
+      "name": "Sunforge",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-6kpz67.png"
+    },
+    "wallhaven-6lykzx.png": {
+      "palette": "Exotic-Astral-Orchid",
+      "name": "Astral Orchid",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-6lykzx.png"
+    },
+    "wallhaven-72lej9.png": {
+      "palette": "Exotic-Tempest-Treasure",
+      "name": "Tempest Treasure",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-72lej9.png"
+    },
+    "wallhaven-7jew29.png": {
+      "palette": "Exotic-Bloodmoon-Ronin",
+      "name": "Bloodmoon Ronin",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-7jew29.png"
+    },
+    "wallhaven-7jl2lv.png": {
+      "palette": "Exotic-Earthrise-Ion",
+      "name": "Earthrise Ion",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-7jl2lv.png"
+    },
+    "wallhaven-7jlk93.png": {
+      "palette": "Exotic-Lunar-Jellyfish",
+      "name": "Lunar Jellyfish",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-7jlk93.png"
+    },
+    "karina/wallhaven-7jx8k9.jpg": {
+      "palette": "Exotic-Cherry-Detonation",
+      "name": "Cherry Detonation",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/wallhaven-7jx8k9.jpg"
+    },
+    "wallhaven-7pg1m9.jpg": {
+      "palette": "Exotic-Celestial-Chrome",
+      "name": "Celestial Chrome",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-7pg1m9.jpg"
+    },
+    "wallhaven-85m7go.png": {
+      "palette": "Exotic-Photon-Whirlpool",
+      "name": "Photon Whirlpool",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-85m7go.png"
+    },
+    "wallhaven-8g885k.jpg": {
+      "palette": "Exotic-Molten-Dusk",
+      "name": "Molten Dusk",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-8g885k.jpg"
+    },
+    "wallhaven-8g8v11.png": {
+      "palette": "Exotic-Carbon-Scarlet",
+      "name": "Carbon Scarlet",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-8g8v11.png"
+    },
+    "wallhaven-8ogod1.jpg": {
+      "palette": "Exotic-Turquoise-Oracle",
+      "name": "Turquoise Oracle",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-8ogod1.jpg"
+    },
+    "wallhaven-96w8e8.png": {
+      "palette": "Exotic-Supernova-Signal",
+      "name": "Supernova Signal",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-96w8e8.png"
+    },
+    "wallhaven-9ml298.png": {
+      "palette": "Exotic-Cloudburst-Nectar",
+      "name": "Cloudburst Nectar",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-9ml298.png"
+    },
+    "karina/wallhaven-9o9l7w.jpg": {
+      "palette": "Exotic-Lilac-Hyperpop",
+      "name": "Lilac Hyperpop",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/wallhaven-9o9l7w.jpg"
+    },
+    "wallhaven-9okl9k.png": {
+      "palette": "Exotic-Stormglass",
+      "name": "Stormglass",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-9okl9k.png"
+    },
+    "wallhaven-d6k32g.jpg": {
+      "palette": "Exotic-Iris-Reactor",
+      "name": "Iris Reactor",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-d6k32g.jpg"
+    },
+    "wallhaven-dpepjo.jpg": {
+      "palette": "Exotic-Lotus-Sundown",
+      "name": "Lotus Sundown",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-dpepjo.jpg"
+    },
+    "wallhaven-dpqjwj.jpg": {
+      "palette": "Exotic-Horizon-Ultraviolet",
+      "name": "Horizon Ultraviolet",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-dpqjwj.jpg"
+    },
+    "wallhaven-e76pew.png": {
+      "palette": "Exotic-Orbital-Glacier",
+      "name": "Orbital Glacier",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-e76pew.png"
+    },
+    "wallhaven-exyw3o.jpg": {
+      "palette": "Exotic-Event-Horizon-Gold",
+      "name": "Event Horizon Gold",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-exyw3o.jpg"
+    },
+    "wallhaven-eyw5qw.jpg": {
+      "palette": "Exotic-Emberwood",
+      "name": "Emberwood",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-eyw5qw.jpg"
+    },
+    "wallhaven-g75r7d.jpg": {
+      "palette": "Exotic-Sky-Leviathan",
+      "name": "Sky Leviathan",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-g75r7d.jpg"
+    },
+    "wallhaven-gw1dre.png": {
+      "palette": "Exotic-Hellgate-Crimson",
+      "name": "Hellgate Crimson",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-gw1dre.png"
+    },
+    "wallhaven-gw1xje.png": {
+      "palette": "Exotic-Ultramarine-Dream",
+      "name": "Ultramarine Dream",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-gw1xje.png"
+    },
+    "wallhaven-gwdrv3.jpg": {
+      "palette": "Exotic-Wisteria-Current",
+      "name": "Wisteria Current",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-gwdrv3.jpg"
+    },
+    "wallhaven-j3joyw.jpg": {
+      "palette": "Exotic-Phantom-Circuit",
+      "name": "Phantom Circuit",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-j3joyw.jpg"
+    },
+    "wallhaven-j3qq15.jpg": {
+      "palette": "Exotic-Alpine-Sapphire",
+      "name": "Alpine Sapphire",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-j3qq15.jpg"
+    },
+    "wallhaven-jed2rm.jpg": {
+      "palette": "Exotic-Sunset-Transmission",
+      "name": "Sunset Transmission",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-jed2rm.jpg"
+    },
+    "wallhaven-jedz2y.png": {
+      "palette": "Exotic-Lunar-Rose",
+      "name": "Lunar Rose",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-jedz2y.png"
+    },
+    "wallhaven-k727yd.jpg": {
+      "palette": "Exotic-Emerald-Citadel",
+      "name": "Emerald Citadel",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-k727yd.jpg"
+    },
+    "wallhaven-k7v9yq.png": {
+      "palette": "Exotic-Magenta-Sol",
+      "name": "Magenta Sol",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-k7v9yq.png"
+    },
+    "wallhaven-k8jjxd.jpg": {
+      "palette": "Exotic-Cerulean-Drift",
+      "name": "Cerulean Drift",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-k8jjxd.jpg"
+    },
+    "wallhaven-kw318d.jpg": {
+      "palette": "Exotic-Vermilion-Eclipse",
+      "name": "Vermilion Eclipse",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-kw318d.jpg"
+    },
+    "wallhaven-kwkg5q.jpg": {
+      "palette": "Exotic-Neon-Megalith",
+      "name": "Neon Megalith",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-kwkg5q.jpg"
+    },
+    "wallhaven-l315vy.png": {
+      "palette": "Exotic-Golden-Cumulus",
+      "name": "Golden Cumulus",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-l315vy.png"
+    },
+    "wallhaven-lyd8xl.png": {
+      "palette": "Exotic-Spectrum-Vinyl",
+      "name": "Spectrum Vinyl",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-lyd8xl.png"
+    },
+    "wallhaven-lygokl.png": {
+      "palette": "Exotic-Malachite-Temple",
+      "name": "Malachite Temple",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-lygokl.png"
+    },
+    "wallhaven-lygxjl.png": {
+      "palette": "Exotic-Ionosphere",
+      "name": "Ionosphere",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-lygxjl.png"
+    },
+    "wallhaven-lyz3wy.jpg": {
+      "palette": "Exotic-Scarlet-Sigil",
+      "name": "Scarlet Sigil",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-lyz3wy.jpg"
+    },
+    "wallhaven-m3lz2y.jpg": {
+      "palette": "Exotic-Hypergreen-Meadow",
+      "name": "Hypergreen Meadow",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-m3lz2y.jpg"
+    },
+    "wallhaven-mdjrqy.jpg": {
+      "palette": "Exotic-Amber-Silence",
+      "name": "Amber Silence",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-mdjrqy.jpg"
+    },
+    "karina/wallhaven-mloj61.jpg": {
+      "palette": "Exotic-Jade-Heart",
+      "name": "Jade Heart",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/wallhaven-mloj61.jpg"
+    },
+    "wallhaven-n65epw.png": {
+      "palette": "Exotic-Solar-Champagne",
+      "name": "Solar Champagne",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-n65epw.png"
+    },
+    "wallhaven-o36mq7.png": {
+      "palette": "Exotic-Coral-Revenant",
+      "name": "Coral Revenant",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-o36mq7.png"
+    },
+    "wallhaven-og7m19.jpg": {
+      "palette": "Exotic-Vermilion-Portal",
+      "name": "Vermilion Portal",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-og7m19.jpg"
+    },
+    "wallhaven-ox7e39.jpg": {
+      "palette": "Exotic-Desert-Carmine",
+      "name": "Desert Carmine",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-ox7e39.jpg"
+    },
+    "wallhaven-q6omvd.jpg": {
+      "palette": "Exotic-Verdigris-Gold",
+      "name": "Verdigris Gold",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-q6omvd.jpg"
+    },
+    "wallhaven-qz21l7.jpg": {
+      "palette": "Exotic-Emerald-Sanctuary",
+      "name": "Emerald Sanctuary",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-qz21l7.jpg"
+    },
+    "wallhaven-rd8967.jpg": {
+      "palette": "Exotic-Tropical-Alchemy",
+      "name": "Tropical Alchemy",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-rd8967.jpg"
+    },
+    "wallhaven-rddgwm.jpg": {
+      "palette": "Exotic-Cosmic-Reliquary",
+      "name": "Cosmic Reliquary",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-rddgwm.jpg"
+    },
+    "wallhaven-rq6yqm.jpg": {
+      "palette": "Exotic-Bubblegum-Cosmos",
+      "name": "Bubblegum Cosmos",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-rq6yqm.jpg"
+    },
+    "wallhaven-rqo8km.png": {
+      "palette": "Exotic-Bloodletter",
+      "name": "Bloodletter",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-rqo8km.png"
+    },
+    "wallhaven-rqrmo7.jpg": {
+      "palette": "Exotic-Crimson-Camellia",
+      "name": "Crimson Camellia",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-rqrmo7.jpg"
+    },
+    "wallhaven-w537lr.png": {
+      "palette": "Exotic-Thousand-Eyes",
+      "name": "Thousand Eyes",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-w537lr.png"
+    },
+    "wallhaven-w53xj6.png": {
+      "palette": "Exotic-Dragonspire",
+      "name": "Dragonspire",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-w53xj6.png"
+    },
+    "wallhaven-x6128o.jpg": {
+      "palette": "Exotic-Cloudrunner",
+      "name": "Cloudrunner",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-x6128o.jpg"
+    },
+    "wallhaven-x8jj9o.png": {
+      "palette": "Exotic-Coral-Tempest",
+      "name": "Coral Tempest",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-x8jj9o.png"
+    },
+    "wallhaven-xe9qkz.png": {
+      "palette": "Exotic-Abyssal-Silver",
+      "name": "Abyssal Silver",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-xe9qkz.png"
+    },
+    "wallhaven-y8o51x.jpg": {
+      "palette": "Exotic-Dune-Supernova",
+      "name": "Dune Supernova",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-y8o51x.jpg"
+    },
+    "wallhaven-ym1m8l.jpg": {
+      "palette": "Exotic-Fuchsia-Fuji",
+      "name": "Fuchsia Fuji",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-ym1m8l.jpg"
+    },
+    "wallhaven-yqkwdk.png": {
+      "palette": "Exotic-Violet-Afterglow",
+      "name": "Violet Afterglow",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-yqkwdk.png"
+    },
+    "karina/wallhaven-yx2397.png": {
+      "palette": "Exotic-Peach-Garden",
+      "name": "Peach Garden",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/wallhaven-yx2397.png"
+    },
+    "wallhaven-yx5kml.jpg": {
+      "palette": "Exotic-Midnight-Totoro",
+      "name": "Midnight Totoro",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-yx5kml.jpg"
+    },
+    "wallhaven-zm825o.jpg": {
+      "palette": "Exotic-Inverted-Neon",
+      "name": "Inverted Neon",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zm825o.jpg"
+    },
+    "wallhaven-zpvdzv.jpg": {
+      "palette": "Exotic-Cumulus-Chrome",
+      "name": "Cumulus Chrome",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zpvdzv.jpg"
+    },
+    "wallhaven-zpvvyo.jpg": {
+      "palette": "Exotic-Underpass-Electric",
+      "name": "Underpass Electric",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zpvvyo.jpg"
+    },
+    "wallhaven-zygeko.jpg": {
+      "palette": "Exotic-Orchid-Avenue",
+      "name": "Orchid Avenue",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zygeko.jpg"
+    },
+    "wallhaven-zywe5j.jpg": {
+      "palette": "Exotic-Bronze-Eden",
+      "name": "Bronze Eden",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zywe5j.jpg"
+    },
+    "wallhaven-zyxvqy.jpg": {
+      "palette": "Exotic-Golden-Hour-Riot",
+      "name": "Golden Hour Riot",
+      "path": "/home/crispy146/Pictures/Wallpaper/wallhaven-zyxvqy.jpg"
+    },
+    "karina/01_magenta_wall_01.jpg": {
+      "palette": "Exotic-Fuchsia-Voltage",
+      "name": "Fuchsia Voltage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/01_magenta_wall_01.jpg"
+    },
+    "karina/02_magenta_and_puppy.jpg": {
+      "palette": "Exotic-Raspberry-Mischief",
+      "name": "Raspberry Mischief",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/02_magenta_and_puppy.jpg"
+    },
+    "karina/03_noir_portrait_01.jpg": {
+      "palette": "Exotic-Garnet-Silhouette",
+      "name": "Garnet Silhouette",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/03_noir_portrait_01.jpg"
+    },
+    "karina/04_noir_portrait_02.jpg": {
+      "palette": "Exotic-Citrine-Silhouette",
+      "name": "Citrine Silhouette",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/04_noir_portrait_02.jpg"
+    },
+    "karina/05_lace_event.jpg": {
+      "palette": "Exotic-Veiled-Iris",
+      "name": "Veiled Iris",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/05_lace_event.jpg"
+    },
+    "karina/06_ivory_and_marble_01.jpg": {
+      "palette": "Exotic-Aquamarine-Cameo",
+      "name": "Aquamarine Cameo",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/06_ivory_and_marble_01.jpg"
+    },
+    "karina/07_ivory_and_marble_02.jpg": {
+      "palette": "Exotic-Marble-Lagoon",
+      "name": "Marble Lagoon",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/07_ivory_and_marble_02.jpg"
+    },
+    "karina/08_sunny_overlook.jpg": {
+      "palette": "Exotic-Hollywood-Nectar",
+      "name": "Hollywood Nectar",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/08_sunny_overlook.jpg"
+    },
+    "karina/09_black_lace_midnight.jpg": {
+      "palette": "Exotic-Midnight-Lace-Sapphire",
+      "name": "Midnight Lace Sapphire",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/09_black_lace_midnight.jpg"
+    },
+    "karina/10_ivory_floral.jpg": {
+      "palette": "Exotic-Porcelain-Botanica",
+      "name": "Porcelain Botanica",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/10_ivory_floral.jpg"
+    },
+    "karina/11_city_after_dark.jpg": {
+      "palette": "Exotic-Taillight-Boulevard",
+      "name": "Taillight Boulevard",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/11_city_after_dark.jpg"
+    },
+    "karina/12_green_park.jpg": {
+      "palette": "Exotic-Park-Peridot",
+      "name": "Park Peridot",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/12_green_park.jpg"
+    },
+    "karina/13_cobalt_stage.jpg": {
+      "palette": "Exotic-Cobalt-Spotlight",
+      "name": "Cobalt Spotlight",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/13_cobalt_stage.jpg"
+    },
+    "karina/14_leather_and_starlight.jpg": {
+      "palette": "Exotic-Stardust-Leather",
+      "name": "Stardust Leather",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/14_leather_and_starlight.jpg"
+    },
+    "karina/15_long_braid_editorial.jpg": {
+      "palette": "Exotic-Serpentine-Frost",
+      "name": "Serpentine Frost",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/15_long_braid_editorial.jpg"
+    },
+    "16_night_garden.jpg": {
+      "palette": "Exotic-Lantern-Grove",
+      "name": "Lantern Grove",
+      "path": "/home/crispy146/Pictures/Wallpaper/16_night_garden.jpg"
+    },
+    "karina/17_rainy_smile.jpg": {
+      "palette": "Exotic-Rainfall-Diamonds",
+      "name": "Rainfall Diamonds",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/17_rainy_smile.jpg"
+    },
+    "karina/19_lollapalooza_profile.jpg": {
+      "palette": "Exotic-Sapphire-Backbeat",
+      "name": "Sapphire Backbeat",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/19_lollapalooza_profile.jpg"
+    },
+    "karina/22_sunlit_sportswear.jpg": {
+      "palette": "Exotic-Sunleaf-Flash",
+      "name": "Sunleaf Flash",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/22_sunlit_sportswear.jpg"
+    },
+    "karina/23_sage_room.jpg": {
+      "palette": "Exotic-Sage-Viper",
+      "name": "Sage Viper",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/23_sage_room.jpg"
+    },
+    "karina/24_concrete_gray.jpg": {
+      "palette": "Exotic-Concrete-Voltage",
+      "name": "Concrete Voltage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/24_concrete_gray.jpg"
+    },
+    "karina/25_boutique_smile.jpg": {
+      "palette": "Exotic-Honey-Bouquet",
+      "name": "Honey Bouquet",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/25_boutique_smile.jpg"
+    },
+    "karina/26_white_dress_urban.jpg": {
+      "palette": "Exotic-Urban-Porcelain",
+      "name": "Urban Porcelain",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/26_white_dress_urban.jpg"
+    },
+    "karina/27_lavender_manicure.jpg": {
+      "palette": "Exotic-Lacquer-Lilac",
+      "name": "Lacquer Lilac",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/27_lavender_manicure.jpg"
+    },
+    "karina/28_tree_shade.jpg": {
+      "palette": "Exotic-Leafshade-Rose",
+      "name": "Leafshade Rose",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/28_tree_shade.jpg"
+    },
+    "karina/29_duvet_evening.jpg": {
+      "palette": "Exotic-Pillow-Ember",
+      "name": "Pillow Ember",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/29_duvet_evening.jpg"
+    },
+    "karina/30_winter_seaside.jpg": {
+      "palette": "Exotic-Tidal-Cashmere",
+      "name": "Tidal Cashmere",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/30_winter_seaside.jpg"
+    },
+    "karina/31_dragon_plush.jpg": {
+      "palette": "Exotic-Night-Fury-Lime",
+      "name": "Night Fury Lime",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/31_dragon_plush.jpg"
+    },
+    "karina/33_studio_elegance.jpg": {
+      "palette": "Exotic-Onyx-Filigree",
+      "name": "Onyx Filigree",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/33_studio_elegance.jpg"
+    },
+    "karina/35_terrace_daylight.jpg": {
+      "palette": "Exotic-Terrace-Citron",
+      "name": "Terrace Citron",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/35_terrace_daylight.jpg"
+    },
+    "karina/36_cherry_blossom_night.jpg": {
+      "palette": "Exotic-Sakura-Lanterns",
+      "name": "Sakura Lanterns",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/36_cherry_blossom_night.jpg"
+    },
+    "karina/37_blossom_motion.jpg": {
+      "palette": "Exotic-Blossom-Velocity",
+      "name": "Blossom Velocity",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/37_blossom_motion.jpg"
+    },
+    "karina/38_warm_cafe.jpg": {
+      "palette": "Exotic-Cognac-Flame",
+      "name": "Cognac Flame",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/38_warm_cafe.jpg"
+    },
+    "karina/39_museum_stone.jpg": {
+      "palette": "Exotic-Travertine-Relic",
+      "name": "Travertine Relic",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/39_museum_stone.jpg"
+    },
+    "karina/40_city_corner.jpg": {
+      "palette": "Exotic-Brooklyn-Azure",
+      "name": "Brooklyn Azure",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/40_city_corner.jpg"
+    },
+    "karina/41_pink_under_leaves.jpg": {
+      "palette": "Exotic-Roseleaf-Jewel",
+      "name": "Roseleaf Jewel",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/41_pink_under_leaves.jpg"
+    },
+    "42_pink_street.jpg": {
+      "palette": "Exotic-Hibiscus-Boulevard",
+      "name": "Hibiscus Boulevard",
+      "path": "/home/crispy146/Pictures/Wallpaper/42_pink_street.jpg"
+    },
+    "karina/43_pink_atrium.jpg": {
+      "palette": "Exotic-Atrium-Guava",
+      "name": "Atrium Guava",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/43_pink_atrium.jpg"
+    },
+    "karina/44_wildflower_meadow.jpg": {
+      "palette": "Exotic-Meadow-Sorbet",
+      "name": "Meadow Sorbet",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/44_wildflower_meadow.jpg"
+    },
+    "karina/45_rose_floral_studio.jpg": {
+      "palette": "Exotic-Damask-Nectar",
+      "name": "Damask Nectar",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/45_rose_floral_studio.jpg"
+    },
+    "karina/46_pearl_gown.jpg": {
+      "palette": "Exotic-Pearl-Prism",
+      "name": "Pearl Prism",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/46_pearl_gown.jpg"
+    },
+    "karina/47_black_coat_champagne.jpg": {
+      "palette": "Exotic-Champagne-Noir",
+      "name": "Champagne Noir",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/47_black_coat_champagne.jpg"
+    },
+    "karina/48_garden_olive.jpg": {
+      "palette": "Exotic-Azalea-Canopy",
+      "name": "Azalea Canopy",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/48_garden_olive.jpg"
+    },
+    "karina/49_black_lace_flash_01.jpg": {
+      "palette": "Exotic-Flash-Garnet",
+      "name": "Flash Garnet",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/49_black_lace_flash_01.jpg"
+    },
+    "karina/50_black_lace_flash_02.jpg": {
+      "palette": "Exotic-Nocturne-Opaline",
+      "name": "Nocturne Opaline",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/50_black_lace_flash_02.jpg"
+    },
+    "karina/01_gingham_gray.jpg": {
+      "palette": "Exotic-Gingham-Ruby",
+      "name": "Gingham Ruby",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/01_gingham_gray.jpg"
+    },
+    "karina/01_white_shirt_charcoal.png": {
+      "palette": "Exotic-Ivory-Voltage",
+      "name": "Ivory Voltage",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/01_white_shirt_charcoal.png"
+    },
+    "karina/02_backstage_stripes.jpg": {
+      "palette": "Exotic-Backstage-Electrum",
+      "name": "Backstage Electrum",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/02_backstage_stripes.jpg"
+    },
+    "karina/02_monochrome_vocal.png": {
+      "palette": "Exotic-Silver-Aria",
+      "name": "Silver Aria",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/02_monochrome_vocal.png"
+    },
+    "karina/03_violet_wink.jpg": {
+      "palette": "Exotic-Violet-Encore",
+      "name": "Violet Encore",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/03_violet_wink.jpg"
+    },
+    "karina/04_blue_rain_smile.jpg": {
+      "palette": "Exotic-Sapphire-Rain",
+      "name": "Sapphire Rain",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/04_blue_rain_smile.jpg"
+    },
+    "karina/05_white_veil.jpg": {
+      "palette": "Exotic-Glacial-Bouquet",
+      "name": "Glacial Bouquet",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/05_white_veil.jpg"
+    },
+    "karina/07_scarlet_stage.jpg": {
+      "palette": "Exotic-Crimson-Crescendo",
+      "name": "Crimson Crescendo",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/07_scarlet_stage.jpg"
+    },
+    "karina/09_tangerine_editorial.jpg": {
+      "palette": "Exotic-Tangerine-Inferno",
+      "name": "Tangerine Inferno",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/09_tangerine_editorial.jpg"
+    },
+    "karina/10_white_lace_night.jpg": {
+      "palette": "Exotic-Rainlit-Amber",
+      "name": "Rainlit Amber",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/10_white_lace_night.jpg"
+    },
+    "karina/original_subject_wallpaper_4k.png": {
+      "palette": "Exotic-Obsidian-Orchid",
+      "name": "Obsidian Orchid",
+      "path": "/home/crispy146/Pictures/Wallpaper/karina/original_subject_wallpaper_4k.png"
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "scope": "11 new palettes and recursive subfolder integration; previous validation reports retained unchanged",
+  "noctalia_version": "noctalia v5.6.0 (5.6.0-1-dirty)",
+  "current_wallpapers": 187,
+  "subfolder_wallpapers": 107,
+  "manifest_entries": 194,
+  "retained_absent_wallpapers": [
+    "12_electric_blue.png",
+    "16_night_garden.jpg",
+    "42_pink_street.jpg",
+    "wallhaven-j3joyw.jpg",
+    "wallhaven-o36mq7.png",
+    "wallhaven-rd8967.jpg",
+    "wallhaven-rqrmo7.jpg"
+  ],
+  "new_palettes": 11,
+  "native_palette_loads": 11,
+  "native_niri_template_renders": 11,
+  "niri_template": "/usr/share/noctalia/assets/templates/niri/niri.kdl",
+  "shell_text_background_pairs_checked": 77,
+  "minimum_text_contrast": 5.981635599455492,
+  "existing_palettes_preserved": {
+    "count": 183,
+    "sha256_unchanged": true,
+    "mtime_ns_unchanged": true
+  },
+  "folder_icons": {
+    "new_palettes": 11,
+    "svg_files_xml_valid": 176,
+    "folder_front_primary_and_adwaita_inheritance_verified": true
+  },
+  "recursive_path_regression_tests": 4,
+  "installed_selector_dry_runs": 561,
+  "isolated_installation": {
+    "all_manifest_entries_and_new_palettes_installed": true,
+    "folder_icon_mapping_installed": true,
+    "repeat_install_preserves_content_and_mtime": true,
+    "existing_hooks_preserved_without_duplication": true,
+    "test_directory": "/tmp/exotic-subfolder-validation-y94sjrup"
+  },
+  "live_installation_performed": false,
+  "live_activation_confirmed": false,
+  "palettes": [
+    {
+      "wallpaper": "karina/01_gingham_gray.jpg",
+      "palette": "Exotic-Gingham-Ruby",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.020445398149069,
+        "mOnSecondary/mSecondary": 7.230639725399576,
+        "mOnTertiary/mTertiary": 12.536628558913902,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.41775045251336,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.855077868808765,
+        "mOnHover/mHover": 10.458056378850616
+      }
+    },
+    {
+      "wallpaper": "karina/01_white_shirt_charcoal.png",
+      "palette": "Exotic-Ivory-Voltage",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 15.491846005517042,
+        "mOnSecondary/mSecondary": 7.276968853361746,
+        "mOnTertiary/mTertiary": 12.453514445092557,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 18.097138932937145,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.075221061733316,
+        "mOnHover/mHover": 10.506527844929014
+      }
+    },
+    {
+      "wallpaper": "karina/02_backstage_stripes.jpg",
+      "palette": "Exotic-Backstage-Electrum",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 12.706254823626011,
+        "mOnSecondary/mSecondary": 6.7049312348621255,
+        "mOnTertiary/mTertiary": 12.287390784263941,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 18.189198108803886,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.34300056473721,
+        "mOnHover/mHover": 10.808219006812555
+      }
+    },
+    {
+      "wallpaper": "karina/02_monochrome_vocal.png",
+      "palette": "Exotic-Silver-Aria",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.575390881283615,
+        "mOnSecondary/mSecondary": 12.736931434126529,
+        "mOnTertiary/mTertiary": 7.223183015559127,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.947167176007795,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.660918925858379,
+        "mOnHover/mHover": 12.601149574923681
+      }
+    },
+    {
+      "wallpaper": "karina/03_violet_wink.jpg",
+      "palette": "Exotic-Violet-Encore",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.602931090826431,
+        "mOnSecondary/mSecondary": 8.15314625094904,
+        "mOnTertiary/mTertiary": 7.796173700160897,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.980890051121534,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.772951700774215,
+        "mOnHover/mHover": 12.358188505258566
+      }
+    },
+    {
+      "wallpaper": "karina/04_blue_rain_smile.jpg",
+      "palette": "Exotic-Sapphire-Rain",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.317452797362346,
+        "mOnSecondary/mSecondary": 13.425967713064031,
+        "mOnTertiary/mTertiary": 8.830183979968973,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.56612155162389,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.49817980304965,
+        "mOnHover/mHover": 11.510951002209627
+      }
+    },
+    {
+      "wallpaper": "karina/05_white_veil.jpg",
+      "palette": "Exotic-Glacial-Bouquet",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.271398423362946,
+        "mOnSecondary/mSecondary": 14.867947519511432,
+        "mOnTertiary/mTertiary": 8.503640655996563,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.633268498380758,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.206272814069504,
+        "mOnHover/mHover": 11.529877964402939
+      }
+    },
+    {
+      "wallpaper": "karina/07_scarlet_stage.jpg",
+      "palette": "Exotic-Crimson-Crescendo",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 5.981635599455492,
+        "mOnSecondary/mSecondary": 12.52856689157487,
+        "mOnTertiary/mTertiary": 7.377139624288293,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.473477085822353,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.80525068127844,
+        "mOnHover/mHover": 12.05042095110717
+      }
+    },
+    {
+      "wallpaper": "karina/09_tangerine_editorial.jpg",
+      "palette": "Exotic-Tangerine-Inferno",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.4361507424389,
+        "mOnSecondary/mSecondary": 6.698874658561547,
+        "mOnTertiary/mTertiary": 12.14697431498404,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.560121834952533,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.453265337694646,
+        "mOnHover/mHover": 10.672410329541735
+      }
+    },
+    {
+      "wallpaper": "karina/10_white_lace_night.jpg",
+      "palette": "Exotic-Rainlit-Amber",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.998623382643695,
+        "mOnSecondary/mSecondary": 6.685266397272366,
+        "mOnTertiary/mTertiary": 12.491096636803295,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.836298859044923,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.254377175289582,
+        "mOnHover/mHover": 10.506128285999289
+      }
+    },
+    {
+      "wallpaper": "karina/original_subject_wallpaper_4k.png",
+      "palette": "Exotic-Obsidian-Orchid",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.17132870631945,
+        "mOnSecondary/mSecondary": 11.901695359960344,
+        "mOnTertiary/mTertiary": 10.288874904080588,
+        "mOnError/mError": 6.647112915561041,
+        "mOnSurface/mSurface": 17.64704911315204,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.533340807568868,
+        "mOnHover/mHover": 10.925712932773402
+      }
+    }
+  ],
+  "repeat_build_preserves_content_and_mtime": true
+}

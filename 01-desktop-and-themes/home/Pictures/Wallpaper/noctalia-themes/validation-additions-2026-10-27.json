@@ -1,0 +1,707 @@
+{
+  "scope": "45 additions only; original validation-report.json and folder-icons-validation.json retained unchanged",
+  "noctalia_version": "noctalia v5.4.0 (5.4.0-1-dirty)",
+  "wallpapers": 45,
+  "native_palette_loads": 45,
+  "native_niri_template_renders": 45,
+  "niri_template": "/usr/share/noctalia/assets/templates/niri/niri.kdl",
+  "shell_text_background_pairs_checked": 315,
+  "minimum_text_contrast": 5.405284,
+  "existing_palettes_preserved": {
+    "count": 138,
+    "sha256_unchanged": true,
+    "mtime_ns_unchanged": true
+  },
+  "folder_icons": {
+    "palettes": 45,
+    "unique_icon_themes": 45,
+    "svg_files_xml_valid": 720,
+    "folder_front_primary_and_adwaita_inheritance_verified": true
+  },
+  "live_installation_performed": false,
+  "live_activation_confirmed": false,
+  "palettes": [
+    {
+      "wallpaper": "01_magenta_wall_01.jpg",
+      "palette": "Exotic-Fuchsia-Voltage",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.102628,
+        "mOnSecondary/mSecondary": 5.405284,
+        "mOnTertiary/mTertiary": 13.768594,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.542785,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.870094,
+        "mOnHover/mHover": 10.076407
+      }
+    },
+    {
+      "wallpaper": "02_magenta_and_puppy.jpg",
+      "palette": "Exotic-Raspberry-Mischief",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.382758,
+        "mOnSecondary/mSecondary": 6.449081,
+        "mOnTertiary/mTertiary": 13.121786,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.495596,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.770047,
+        "mOnHover/mHover": 10.456566
+      }
+    },
+    {
+      "wallpaper": "03_noir_portrait_01.jpg",
+      "palette": "Exotic-Garnet-Silhouette",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.343889,
+        "mOnSecondary/mSecondary": 7.490236,
+        "mOnTertiary/mTertiary": 13.021731,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.645609,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.857701,
+        "mOnHover/mHover": 10.258181
+      }
+    },
+    {
+      "wallpaper": "04_noir_portrait_02.jpg",
+      "palette": "Exotic-Citrine-Silhouette",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 15.582117,
+        "mOnSecondary/mSecondary": 8.435132,
+        "mOnTertiary/mTertiary": 7.769755,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 18.241124,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.146643,
+        "mOnHover/mHover": 12.341869
+      }
+    },
+    {
+      "wallpaper": "05_lace_event.jpg",
+      "palette": "Exotic-Veiled-Iris",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.800659,
+        "mOnSecondary/mSecondary": 7.489149,
+        "mOnTertiary/mTertiary": 13.245435,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.458823,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.607834,
+        "mOnHover/mHover": 9.991352
+      }
+    },
+    {
+      "wallpaper": "06_ivory_and_marble_01.jpg",
+      "palette": "Exotic-Aquamarine-Cameo",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 12.620996,
+        "mOnSecondary/mSecondary": 7.082128,
+        "mOnTertiary/mTertiary": 14.019211,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.17134,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.887789,
+        "mOnHover/mHover": 9.515829
+      }
+    },
+    {
+      "wallpaper": "07_ivory_and_marble_02.jpg",
+      "palette": "Exotic-Marble-Lagoon",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.621021,
+        "mOnSecondary/mSecondary": 13.819436,
+        "mOnTertiary/mTertiary": 7.329354,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.199113,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.952779,
+        "mOnHover/mHover": 12.22783
+      }
+    },
+    {
+      "wallpaper": "08_sunny_overlook.jpg",
+      "palette": "Exotic-Hollywood-Nectar",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 10.484877,
+        "mOnSecondary/mSecondary": 10.931515,
+        "mOnTertiary/mTertiary": 14.071905,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.614946,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.345659,
+        "mOnHover/mHover": 9.742058
+      }
+    },
+    {
+      "wallpaper": "09_black_lace_midnight.jpg",
+      "palette": "Exotic-Midnight-Lace-Sapphire",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.922628,
+        "mOnSecondary/mSecondary": 6.871228,
+        "mOnTertiary/mTertiary": 7.031996,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.683478,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.744396,
+        "mOnHover/mHover": 12.715574
+      }
+    },
+    {
+      "wallpaper": "10_ivory_floral.jpg",
+      "palette": "Exotic-Porcelain-Botanica",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.62596,
+        "mOnSecondary/mSecondary": 12.152618,
+        "mOnTertiary/mTertiary": 13.73915,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.438809,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.572116,
+        "mOnHover/mHover": 9.76367
+      }
+    },
+    {
+      "wallpaper": "11_city_after_dark.jpg",
+      "palette": "Exotic-Taillight-Boulevard",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.731759,
+        "mOnSecondary/mSecondary": 12.470424,
+        "mOnTertiary/mTertiary": 11.964996,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.31284,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.664278,
+        "mOnHover/mHover": 10.445848
+      }
+    },
+    {
+      "wallpaper": "12_green_park.jpg",
+      "palette": "Exotic-Park-Peridot",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 14.098978,
+        "mOnSecondary/mSecondary": 7.529032,
+        "mOnTertiary/mTertiary": 12.450333,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.746978,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.906609,
+        "mOnHover/mHover": 10.331511
+      }
+    },
+    {
+      "wallpaper": "13_cobalt_stage.jpg",
+      "palette": "Exotic-Cobalt-Spotlight",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.155852,
+        "mOnSecondary/mSecondary": 12.396942,
+        "mOnTertiary/mTertiary": 7.481009,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.674402,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.793762,
+        "mOnHover/mHover": 12.477171
+      }
+    },
+    {
+      "wallpaper": "14_leather_and_starlight.jpg",
+      "palette": "Exotic-Stardust-Leather",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.203305,
+        "mOnSecondary/mSecondary": 8.080106,
+        "mOnTertiary/mTertiary": 12.962856,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.717272,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.70534,
+        "mOnHover/mHover": 10.239661
+      }
+    },
+    {
+      "wallpaper": "15_long_braid_editorial.jpg",
+      "palette": "Exotic-Serpentine-Frost",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.828905,
+        "mOnSecondary/mSecondary": 6.713138,
+        "mOnTertiary/mTertiary": 15.566513,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.424742,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.061514,
+        "mOnHover/mHover": 9.328882
+      }
+    },
+    {
+      "wallpaper": "16_night_garden.jpg",
+      "palette": "Exotic-Lantern-Grove",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 12.059677,
+        "mOnSecondary/mSecondary": 7.374962,
+        "mOnTertiary/mTertiary": 11.803695,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.613955,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.161675,
+        "mOnHover/mHover": 10.320142
+      }
+    },
+    {
+      "wallpaper": "17_rainy_smile.jpg",
+      "palette": "Exotic-Rainfall-Diamonds",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 12.546488,
+        "mOnSecondary/mSecondary": 7.550132,
+        "mOnTertiary/mTertiary": 8.202055,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.582499,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.079867,
+        "mOnHover/mHover": 11.984817
+      }
+    },
+    {
+      "wallpaper": "19_lollapalooza_profile.jpg",
+      "palette": "Exotic-Sapphire-Backbeat",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.214595,
+        "mOnSecondary/mSecondary": 7.346477,
+        "mOnTertiary/mTertiary": 13.421451,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.08963,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.39043,
+        "mOnHover/mHover": 9.611073
+      }
+    },
+    {
+      "wallpaper": "22_sunlit_sportswear.jpg",
+      "palette": "Exotic-Sunleaf-Flash",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.423541,
+        "mOnSecondary/mSecondary": 14.0934,
+        "mOnTertiary/mTertiary": 9.522472,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.566065,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.957728,
+        "mOnHover/mHover": 11.109494
+      }
+    },
+    {
+      "wallpaper": "23_sage_room.jpg",
+      "palette": "Exotic-Sage-Viper",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.257961,
+        "mOnSecondary/mSecondary": 7.137956,
+        "mOnTertiary/mTertiary": 8.178005,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.339544,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.902409,
+        "mOnHover/mHover": 11.674102
+      }
+    },
+    {
+      "wallpaper": "24_concrete_gray.jpg",
+      "palette": "Exotic-Concrete-Voltage",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.757273,
+        "mOnSecondary/mSecondary": 9.453526,
+        "mOnTertiary/mTertiary": 14.824542,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.361911,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.35275,
+        "mOnHover/mHover": 9.386583
+      }
+    },
+    {
+      "wallpaper": "25_boutique_smile.jpg",
+      "palette": "Exotic-Honey-Bouquet",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 9.159131,
+        "mOnSecondary/mSecondary": 12.967394,
+        "mOnTertiary/mTertiary": 11.84807,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.519736,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.388066,
+        "mOnHover/mHover": 10.369681
+      }
+    },
+    {
+      "wallpaper": "26_white_dress_urban.jpg",
+      "palette": "Exotic-Urban-Porcelain",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 9.728103,
+        "mOnSecondary/mSecondary": 14.18675,
+        "mOnTertiary/mTertiary": 7.771201,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.307118,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.261364,
+        "mOnHover/mHover": 11.87781
+      }
+    },
+    {
+      "wallpaper": "27_lavender_manicure.jpg",
+      "palette": "Exotic-Lacquer-Lilac",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.202548,
+        "mOnSecondary/mSecondary": 12.572111,
+        "mOnTertiary/mTertiary": 14.073407,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.385102,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.573598,
+        "mOnHover/mHover": 9.780073
+      }
+    },
+    {
+      "wallpaper": "28_tree_shade.jpg",
+      "palette": "Exotic-Leafshade-Rose",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.087515,
+        "mOnSecondary/mSecondary": 12.997674,
+        "mOnTertiary/mTertiary": 13.62792,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 16.888116,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.348316,
+        "mOnHover/mHover": 9.393322
+      }
+    },
+    {
+      "wallpaper": "29_duvet_evening.jpg",
+      "palette": "Exotic-Pillow-Ember",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.605707,
+        "mOnSecondary/mSecondary": 7.952359,
+        "mOnTertiary/mTertiary": 7.318341,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.96624,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.369172,
+        "mOnHover/mHover": 12.326348
+      }
+    },
+    {
+      "wallpaper": "30_winter_seaside.jpg",
+      "palette": "Exotic-Tidal-Cashmere",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 11.445791,
+        "mOnSecondary/mSecondary": 8.345924,
+        "mOnTertiary/mTertiary": 11.892062,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.271594,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.04152,
+        "mOnHover/mHover": 10.207107
+      }
+    },
+    {
+      "wallpaper": "31_dragon_plush.jpg",
+      "palette": "Exotic-Night-Fury-Lime",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.97012,
+        "mOnSecondary/mSecondary": 5.910305,
+        "mOnTertiary/mTertiary": 10.677178,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 18.632576,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.552767,
+        "mOnHover/mHover": 11.6623
+      }
+    },
+    {
+      "wallpaper": "33_studio_elegance.jpg",
+      "palette": "Exotic-Onyx-Filigree",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.972829,
+        "mOnSecondary/mSecondary": 8.730928,
+        "mOnTertiary/mTertiary": 14.652536,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.555534,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.627135,
+        "mOnHover/mHover": 9.743083
+      }
+    },
+    {
+      "wallpaper": "35_terrace_daylight.jpg",
+      "palette": "Exotic-Terrace-Citron",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.619526,
+        "mOnSecondary/mSecondary": 13.04576,
+        "mOnTertiary/mTertiary": 10.236043,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.504753,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.901471,
+        "mOnHover/mHover": 10.835535
+      }
+    },
+    {
+      "wallpaper": "36_cherry_blossom_night.jpg",
+      "palette": "Exotic-Sakura-Lanterns",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.186312,
+        "mOnSecondary/mSecondary": 12.504257,
+        "mOnTertiary/mTertiary": 11.877907,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.720057,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.616584,
+        "mOnHover/mHover": 10.865958
+      }
+    },
+    {
+      "wallpaper": "37_blossom_motion.jpg",
+      "palette": "Exotic-Blossom-Velocity",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.095094,
+        "mOnSecondary/mSecondary": 7.765536,
+        "mOnTertiary/mTertiary": 12.456115,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.59727,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.493496,
+        "mOnHover/mHover": 10.399876
+      }
+    },
+    {
+      "wallpaper": "38_warm_cafe.jpg",
+      "palette": "Exotic-Cognac-Flame",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.507651,
+        "mOnSecondary/mSecondary": 12.604439,
+        "mOnTertiary/mTertiary": 6.991868,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.641777,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.489995,
+        "mOnHover/mHover": 12.27815
+      }
+    },
+    {
+      "wallpaper": "39_museum_stone.jpg",
+      "palette": "Exotic-Travertine-Relic",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 10.852772,
+        "mOnSecondary/mSecondary": 8.350677,
+        "mOnTertiary/mTertiary": 11.700182,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.560001,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.200553,
+        "mOnHover/mHover": 10.508433
+      }
+    },
+    {
+      "wallpaper": "40_city_corner.jpg",
+      "palette": "Exotic-Brooklyn-Azure",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.931502,
+        "mOnSecondary/mSecondary": 8.404396,
+        "mOnTertiary/mTertiary": 12.145513,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.401808,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.3375,
+        "mOnHover/mHover": 10.19962
+      }
+    },
+    {
+      "wallpaper": "41_pink_under_leaves.jpg",
+      "palette": "Exotic-Roseleaf-Jewel",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.563362,
+        "mOnSecondary/mSecondary": 13.079784,
+        "mOnTertiary/mTertiary": 11.652285,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.407965,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.591763,
+        "mOnHover/mHover": 10.560386
+      }
+    },
+    {
+      "wallpaper": "42_pink_street.jpg",
+      "palette": "Exotic-Hibiscus-Boulevard",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.360494,
+        "mOnSecondary/mSecondary": 10.566672,
+        "mOnTertiary/mTertiary": 14.326231,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.312224,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.55468,
+        "mOnHover/mHover": 9.613606
+      }
+    },
+    {
+      "wallpaper": "43_pink_atrium.jpg",
+      "palette": "Exotic-Atrium-Guava",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.537131,
+        "mOnSecondary/mSecondary": 12.531317,
+        "mOnTertiary/mTertiary": 11.631336,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.563716,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.567776,
+        "mOnHover/mHover": 10.64425
+      }
+    },
+    {
+      "wallpaper": "44_wildflower_meadow.jpg",
+      "palette": "Exotic-Meadow-Sorbet",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.383738,
+        "mOnSecondary/mSecondary": 9.490663,
+        "mOnTertiary/mTertiary": 7.679927,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.445996,
+        "mOnSurfaceVariant/mSurfaceVariant": 7.943986,
+        "mOnHover/mHover": 12.022745
+      }
+    },
+    {
+      "wallpaper": "45_rose_floral_studio.jpg",
+      "palette": "Exotic-Damask-Nectar",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 8.614011,
+        "mOnSecondary/mSecondary": 7.436802,
+        "mOnTertiary/mTertiary": 13.243078,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.283418,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.327927,
+        "mOnHover/mHover": 9.822955
+      }
+    },
+    {
+      "wallpaper": "46_pearl_gown.jpg",
+      "palette": "Exotic-Pearl-Prism",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 7.424568,
+        "mOnSecondary/mSecondary": 10.360841,
+        "mOnTertiary/mTertiary": 13.805189,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.439243,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.601473,
+        "mOnHover/mHover": 9.790377
+      }
+    },
+    {
+      "wallpaper": "47_black_coat_champagne.jpg",
+      "palette": "Exotic-Champagne-Noir",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 13.202608,
+        "mOnSecondary/mSecondary": 7.978958,
+        "mOnTertiary/mTertiary": 6.925188,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.904808,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.148435,
+        "mOnHover/mHover": 12.499714
+      }
+    },
+    {
+      "wallpaper": "48_garden_olive.jpg",
+      "palette": "Exotic-Azalea-Canopy",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.971781,
+        "mOnSecondary/mSecondary": 12.018416,
+        "mOnTertiary/mTertiary": 12.498066,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 16.63616,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.533172,
+        "mOnHover/mHover": 9.490859
+      }
+    },
+    {
+      "wallpaper": "49_black_lace_flash_01.jpg",
+      "palette": "Exotic-Flash-Garnet",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.355806,
+        "mOnSecondary/mSecondary": 12.114745,
+        "mOnTertiary/mTertiary": 6.895915,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.653185,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.842627,
+        "mOnHover/mHover": 12.421187
+      }
+    },
+    {
+      "wallpaper": "50_black_lace_flash_02.jpg",
+      "palette": "Exotic-Nocturne-Opaline",
+      "native_palette_load": true,
+      "native_niri_template_render": true,
+      "contrast": {
+        "mOnPrimary/mPrimary": 6.860149,
+        "mOnSecondary/mSecondary": 11.7423,
+        "mOnTertiary/mTertiary": 7.537609,
+        "mOnError/mError": 6.647113,
+        "mOnSurface/mSurface": 17.673316,
+        "mOnSurfaceVariant/mSurfaceVariant": 8.687713,
+        "mOnHover/mHover": 12.318277
+      }
+    }
+  ],
+  "isolated_installation": {
+    "total_wallpaper_mappings": 183,
+    "new_palettes_and_folder_variants_installed": 45,
+    "repeat_install_files_and_mtimes_unchanged": 3484,
+    "existing_hooks_preserved_without_duplicates": true,
+    "directory": "/tmp/noctalia-wallpaper-additions/install"
+  }
+}

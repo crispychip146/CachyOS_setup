@@ -1,20 +1,20 @@
 # window border
-window.active.border.color: #d87cff
-window.inactive.border.color: #ffe5ae
+window.active.border.color: #ffe09b
+window.inactive.border.color: #f3e5ca
 
 # ToggleKeybinds status indicator
 window.active.indicator.toggled-keybind.color: #ff5c78
 
 # window titlebar background
-window.active.title.bg.color: #d87cff
-window.inactive.title.bg.color: #ffe5ae
+window.active.title.bg.color: #ffe09b
+window.inactive.title.bg.color: #f3e5ca
 
 window.active.label.text.color: #080a10
 window.inactive.label.text.color: #080a10
 window.label.text.justify: center
 
 # window button hover overlay
-window.button.hover.bg.color: #2a1340
+window.button.hover.bg.color: #262728
 
 # window buttons
 window.active.button.unpressed.image.color: #080a10
@@ -22,16 +22,16 @@ window.inactive.button.unpressed.image.color: #080a10
 
 # menu
 menu.border.color: #080a10
-menu.items.bg.color: #d87cff
+menu.items.bg.color: #ffe09b
 menu.items.text.color: #080a10
-menu.items.active.bg.color: #ffe5ae
+menu.items.active.bg.color: #f3e5ca
 menu.items.active.text.color: #080a10
 menu.separator.color: #080a10
-menu.title.bg.color: #d87cff
+menu.title.bg.color: #ffe09b
 menu.title.text.color: #080a10
 
 # on screen display (window-cycle dialog)
-osd.bg.color: #d87cff
+osd.bg.color: #ffe09b
 osd.border.color: #080a10
 osd.label.text.color: #080a10
-osd.window-switcher.preview.border.color: #8c5da4
+osd.window-switcher.preview.border.color: #8a7d5e

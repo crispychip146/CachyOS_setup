@@ -1,5 +1,5 @@
 MY SETUP
-CachyOS workstation settings captured on 23 November 2026
+CachyOS workstation settings updated on 24 November 2026
 
 This folder records the software added after CachyOS was installed and keeps
 copies of readable configuration and customizations. It also includes changes
@@ -43,9 +43,11 @@ Noctalia plugins and their settings are in .local/state/noctalia/plugins/.
 The setup also keeps generated colors for Labwc, Sway, Scroll, Mango,
 Hyprland, Umbriel, btop, and CAVA where they were present on disk.
 
-Noctalia refers to images in ~/Pictures/Wallpaper. The media library is
-outside this config backup. See 08-inventory/wallpaper-dependencies.tsv for
-the paths the recorded themes and wallpaper settings depend on.
+Restore 01-desktop-and-themes/home/Pictures/Wallpaper to ~/Pictures/Wallpaper
+for Noctalia's wallpaper paths to resolve. It contains 187 images and the
+noctalia-themes/ collection of 194 curated palettes, including its preview
+and installation scripts. See 08-inventory/wallpaper-dependencies.tsv for
+the image paths referenced by the saved configuration.
 
 The dconf-desktop-settings.ini export contains the selected GNOME/GTK and
 Nautilus settings. After reviewing it, load the whole export with
@@ -89,10 +91,11 @@ OpenCode's package manifests record its install-time dependencies.
 
 04  NATIVE APPS AND BROWSERS
 
-LM Studio settings cover its UI, local model behavior, and MCP server
-definitions. The home pointer locates its data folder and model files are
-stored separately by LM Studio. LocalSend uses a JSON preferences file
-for the display alias, colors, and window placement. Its security identity
+The saved LM Studio settings cover its UI, local model behavior, and MCP
+server definitions. The home pointer locates its data folder and model
+files are stored separately. Native Telegram's custom shortcuts and
+Noctalia theme are included. LocalSend uses a JSON preferences file for
+the display alias, colors, and window placement. Its security identity
 will need to be generated or configured by the app.
 
 VLC, Gwenview, Shelly, Soloist, SpoTUI, Prism Launcher, and CliXaD have
@@ -113,9 +116,9 @@ The copies under home/var/app come from each Flatpak app's ~/.var/app sandbox.
 Zen's profile settings include its keybindings, browser containers, themes,
 and custom CSS. Review profiles.ini and map settings into the active profile
 on the destination. Tor Browser Launcher and the Tor Browser profile have
-separate settings. Telegram has custom shortcut definitions and uses the
-Noctalia Telegram theme in 04-apps-and-browsers. Spotify's global prefs
-and Obsidian's application preferences are included.
+separate settings. The old Telegram Flatpak shortcut definitions are kept
+for reference. Spotify's global prefs and Obsidian's application
+preferences are included.
 
 Obsidian's separate vault tree retains its .obsidian settings and installed
 plugin files. Put it at the root of the existing vault. The GeForce NOW
@@ -129,9 +132,9 @@ remotes, then reinstall the apps with the recorded scope.
 
 06  SYSTEM CONFIGURATION
 
-pacman.conf and pacman.d/ set pacman repositories and mirrors, including
-the ChatGPT repository. Paru's own options are in paru.conf. ChatGPT's
-AppArmor profile and /etc/default options configure its packaged launcher.
+pacman.conf and pacman.d/ set pacman repositories and mirrors. Paru's own
+options are in paru.conf. The remaining /etc/default/chatgpt-bin file
+records options from the former ChatGPT installation.
 
 greetd uses /etc/greetd/config.toml to select the graphical greeter or
 session. Its PAM file controls the login authentication policy. UFW's
@@ -155,7 +158,7 @@ is a record of the earlier setup procedure.
 
 08  INVENTORY AND COVERAGE
 
-pacman-post-install.tsv lists 328 currently installed packages first seen
+pacman-post-install.tsv lists 335 currently installed packages first seen
 after the CachyOS installer finished, including dependencies. Use the
 Install reason column to identify explicitly installed packages. The full
 list in pacman-installed.tsv includes installer packages and version,
@@ -166,16 +169,16 @@ at 22:01:11 local time. For system config selection, package backup hashes
 were compared against readable /etc files. Package ownership, the installer
 log, and filesystem timestamps provided other evidence.
 
-flatpak-apps.txt lists the seven installed Flatpak apps. local-tools.tsv
+flatpak-apps.txt lists the six installed Flatpak apps. local-tools.tsv
 covers local scripts, binaries, and directories outside the native/Flatpak
-package lists. files.tsv maps each of the 7,480 copied files and exports to
+package lists. files.tsv maps each of the 7,878 copied files and exports to
 its original path and records its purpose, size, and SHA-256 checksum.
 Most of those files are individual Noctalia folder icons and related
 theme assets.
 
 This backup omits credentials, keys, browser sign-in/session data, caches,
-application history, and bulk data such as games, downloads, and the
-wallpaper media library. redactions.tsv lists changed fields or preference
+application history, and bulk data such as games and downloads.
+redactions.tsv lists changed fields or preference
 exports. Lines marked REENTER_ON_RESTORE require the original value to use
 that setting. skipped-and-limits.tsv records specific paths omitted or
 inaccessible, including some system folders and the installer snapshot.

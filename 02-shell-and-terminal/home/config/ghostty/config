@@ -4,5 +4,17 @@ keybind = ctrl+t=new_tab
 keybind = ctrl+tab=next_tab
 keybind = ctrl+shift+tab=previous_tab
 keybind = ctrl+w=close_surface
+keybind = ctrl+shift+o=unbind
+keybind = ctrl+shift+e=unbind
+keybind = ctrl+shift+v=new_split:right
+keybind = ctrl+shift+h=new_split:down
 theme = noctalia
 window-theme = dark
+
+# Development layout. Start at a shell prompt in a single pane.
+# The original pane runs Neovim and stays on the right.
+keybind = ctrl+shift+key_d=text:nvim .\r
+keybind = chain=new_split:left
+keybind = chain=resize_split:left,150
+keybind = chain=new_split:down
+keybind = chain=resize_split:down,100
